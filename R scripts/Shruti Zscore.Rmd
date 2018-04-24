@@ -1,0 +1,109 @@
+---
+title: "Shruti ZScore"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(ggplot2) #For plotting the distribution of data
+library(pscl) #For the zero-inflation model
+library(MASS)
+library(boot)
+library(gam)
+
+samples=read.csv("/Users/hasansulaeman/Desktop/Shruti's Scheiße/taricha_museum_shruti_enviro_data_v2/museumfinal.csv", header=TRUE)
+```
+
+Find the correlations between factors
+
+```{r cars}
+cortest=samples[c(18:71)]
+factor.cor=rcorr(as.matrix(cortest), type="pearson")
+factor.cor
+```
+
+bioclim factors 7, 8, 9, 10, 11, 13, 16, 17, and 19 are highly correlated (>0.90) with other factors and so will be omitted from the GLM. Now we'll log transform the Zscore values.
+
+```{r pressure, echo=FALSE}
+samples$log.zscore=log10(samples$Zswab_scor+1)
+```
+
+We'll now start the process of producing models with different factors to produce the model with the lowest AIC value. 
+
+```{r}
+zscore.glm1=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_3 + bio_4 + bio_5 + bio_6 + bio_12 + bio_14 + bio_15 + bio_18 + Built2009 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + IceMass + Playa + streamperr + streaminte + coastline + artificial + pipeline + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=poisson)
+summary(zscore.glm1)
+
+zscore.glm2=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_3 + bio_4 + bio_5 + bio_6 + bio_12 + bio_14 + bio_15 + bio_18 + Built2009 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + IceMass + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm2)
+
+zscore.glm3=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_3 + bio_4 + bio_5 + bio_6 + bio_12 + bio_14 + bio_15 + bio_18 + Built2009 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm3)
+
+zscore.glm4=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_5 + bio_6 + bio_12 + bio_14 + bio_15 + bio_18 + Built2009 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm4)
+
+zscore.glm5=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_12 + bio_14 + bio_15 + bio_18 + Built2009 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm5)
+
+zscore.glm6=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + bio_18 + Built2009 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm6)
+
+zscore.glm7=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + Built2009 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm7)
+
+zscore.glm8=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + lights_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm8)
+
+zscore.glm9=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + navwater_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm9)
+
+zscore.glm10=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + pasture_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm10)
+
+zscore.glm11=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + popdens_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm11)
+
+zscore.glm12=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + Railways + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm12)
+
+zscore.glm13=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + Roads + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm13)
+
+zscore.glm13=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + hfp_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm13)
+
+zscore.glm14=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + amph_rich + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm14)
+
+zscore.glm15=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + lakepond + swampmarsh + Playa + streamperr + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm15)
+
+zscore.glm16=glm(log.zscore ~ Elevation + SVL + bio_1 + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + swampmarsh + Playa + streaminte + canalditch + connector + ai_yr + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm16)
+
+zscore.glm18=glm(log.zscore ~ Elevation + SVL + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + Playa + canalditch + connector + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm18)
+
+zscore.glm17=glm(log.zscore ~ Elevation + SVL + bio_2 + bio_4 + bio_6 + bio_14 + bio_15 + crops_2 + swampmarsh + Playa + streaminte + canalditch + connector + pet_yr + aet_yr, data=samples, family=gaussian)
+summary(zscore.glm17)
+
+pv=coef(zscore.glm17)
+write.csv(pv, file="zscore p-values.csv")
+
+show(zscore.glm17)
+glm17.diag <- glm.diag(zscore.glm17)
+glm.diag.plots(zscore.glm17, glm17.diag)
+
+
+X=matrix(samples[4,7,,18:63])
+y=samples$log.zscore
+Xy<-as.data.frame(cbind(X,y))
+bestglm(Xy, family=gaussian, IC = "AIC")
+
+```
+
+
+
+
+
+#########
