@@ -1,0 +1,29 @@
+﻿Country,Samples (n),Bd+,Prevalence,Lower CI,Upper CI,Pr (no Bd),Reference
+Brunei,18,0,0.00%,,,,Kaiser & Grafe 2011
+Cambodia,866,145,16.74%,,,,"Gaertner 2011, Mendoza 2011, Swei 2011, Rowley 201"
+China,5418,287,5.30%,,,,"Bai 2010, Wei 2010, Swei 2011, Zeng 2011, Bai 2012, Zhu 2014, Zhu 2016, Wang 2017"
+Hong Kong,274,0,0.00%,,,,Rowley 2007
+India,709,17,2.40%,,,,"Nair 2011, Dahanukar 2013, Molur 2015"
+Indonesia ,944,16,1.69%,,,,"Kusrini, 2008, Swei 2011"
+"Indonesia, Sulawesi",1431,15,1.05%,,,,(This study)
+Iran,81,39,48.15%,,,,Sharifi 2014
+Japan,2103,87,4.14%,,,,Goka 2009
+Kazakhstan,4,0,0.00%,,,,Swei 2011
+Kyrgyzstan,9,9,100.00%,,,,Swei 2011
+Laos,551,4,0.73%,,,,Swei 2011
+Malaysia,583,18,3.09%,,,,"Savage 2011, Swei 2011, Kaiser & Grafe 2011, LeBlanc 2014"
+Mongolia,23,0,0.00%,,,,Swei 2011
+Mynamar,62,0,0.00%,,,,Swei 2011
+Oman,60,0,0.00%,,,,Chaber 2016
+Pakistan,5,0,0.00%,,,,Swei 2011
+Papua New Guinea,322,0,0.00%,,,,"Swei 2011, Dahl 2012"
+Philippines,412,34,8.25%,,,,Swei 2011
+Russia,250,22,8.80%,,,,"Civis 2013, Reshetnikov 2014"
+South Korea,2651,442,16.67%,,,,"Yang 2009, Swei 2011, Bataille 2013, Borzee 2014, Fong 2015, Arayan 2017"
+Sri Lanka,117,10,8.55%,,,,Swei 2011
+Taiwan,20,0,0.00%,,,,Lehtinen 2008
+Thailand,290,1,0.34%,,,,"McLeod 2008, Voros 2012, Ruksachat 2015"
+Turkey,562,44,7.83%,,,,"Gocmen 2013, Erismis 2014"
+United Arab Emarites,95,0,0.00%,,,,"Soorae 2012, Chaber 2016"
+Vietnam,1513,16,1.06%,,,,"Swei 2011, Rowley 2013, Laking 2017"
+Total,19373,1206,6.2%,,,,
