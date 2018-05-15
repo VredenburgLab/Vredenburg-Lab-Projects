@@ -44,8 +44,7 @@ ay=extract(anthro, sp)
 data=cbind.data.frame(data, ay) # Adding the retrieved data into the data frame
 
 # NHD data. Still working on it.. ----
-nhd=get_nhd(template=sp, label="distance to waterbody", extraction.dir="/Users/hasansulaeman/Documents/GitHub/Publications/Sierra Nevada Historical Study", 
-            raw.dir="/Users/hasansulaeman/Documents/GitHub/Publications/Sierra Nevada Historical Study")
+nhd=get_nhd(template=sp, label="distance to waterbody")
 crs(nhd$`_Waterbody`)=CRS("+init=epsg:4269 +proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs +towgs84=0,0,0")
 crs(nhd$`_Flowline`)=CRS("+init=epsg:4269 +proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs +towgs84=0,0,0")
 crs(sp)=CRS("+init=epsg:4269 +proj=longlat +ellps=GRS80 +datum=NAD83 +no_defs +towgs84=0,0,0")
