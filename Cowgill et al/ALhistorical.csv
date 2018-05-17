@@ -1,0 +1,938 @@
+CatalogNumber,date,svl,tail,notes,ZSWAB,logZE,BdStatus,InstitutionCode,YearCollected,decade,MonthCollected,DayCollected,County,Locality,Latitude,Longitude
+33130,3/31/15,2.31,1.43,MC,0,0,0,MVZ,1940,1940,1,14,Contra Costa County,1 mi NW Alamo,37.8589086,-122.0465328
+32711,7/7/15,2.12,1.73,MC,0,0,0,MVZ,1940,1940,1,20,Los Angeles County,Sycamore Grove,34.099856,-118.2024244
+8936,5/29/15,7.35,7.27,,0,0,0,CAS,1940,1940,1,26,Contra Costa Co.,1.5 mi NW of Alamo,37.86979444,-122.0435194
+32640,3/4/15,2.18,1.48,MC,0,0,0,MVZ,1940,1940,2,4,Napa County,Huichica Creek,38.2500657,-122.3616331
+32641,3/4/15,2.7,2,,0,0,0,MVZ,1940,1940,2,4,Napa County,Huichica Creek,38.2500657,-122.3616331
+32631,3/4/15,5.43,5.1,,0,0,0,MVZ,1940,1940,2,4,Napa County,Huichica Creek,38.2500657,-122.3616331
+33240,7/7/15,6.12,5.78,MC,0,0,0,MVZ,1940,1940,3,3,Solano County,old quarry 4 mi NNE Fairfield,38.2924764,-122.0305657
+32928,3/6/15,3,2.21,KC,0,0,0,MVZ,1940,1940,3,18,San Luis Obispo County,6 mi W Atascadero,35.442845,-120.751837
+32929,3/5/15,3.04,2.49,KC,0,0,0,MVZ,1940,1940,3,18,San Luis Obispo County,6 mi W Atascadero,35.442845,-120.751837
+33606,1/23/15,5.26,3.45,MC,0,0,0,MVZ,1940,1940,4,24,Monterey County,10 mi NNE Salinas,36.818515,-121.579502
+34675,1/23/15,7.46,5.26,KC,0,0,0,MVZ,1940,1940,5,22,Monterey County,2 mi W Castroville,36.766562,-121.788268
+79997,5/28/15,3.74,3.17,,0,0,0,CAS,1940,1940,11,7,Mendocino Co.,5 mi N of Laytonville,39.74776669,-123.5292167
+79990,5/29/15,6.33,5.96,dirty/speckled,0,0,0,CAS,1940,1940,11,7,Mendocino Co.,7 mi SW of Willits,39.39343335,-123.4585333
+80014,5/28/15,5.25,6.32,,0,0,0,CAS,1940,1940,11,9,Humboldt Co.,"vic N of Miranda, Kent Grove",40.29277778,-123.8963889
+81733,5/29/15,3.54,3.25,,0,0,0,CAS,1940,1940,12,9,Mendocino Co.,"4 mi W of Yorkville, Mailliard Ranch",38.91291669,-123.3096
+81724,5/29/15,3.57,3.09,,0,0,0,CAS,1940,1940,12,9,Mendocino Co.,"4 mi W of Yorkville, Mailliard Ranch",38.91291669,-123.3096
+81730,5/29/15,5.33,4.68,,0,0,0,CAS,1940,1940,12,9,Mendocino Co.,"4 mi W of Yorkville, Mailliard Ranch",38.91291669,-123.3096
+81739,5/29/15,5.42,4.73,,0,0,0,CAS,1940,1940,12,9,Mendocino Co.,"4 mi W of Yorkville, Mailliard Ranch",38.91291669,-123.3096
+81702,5/29/15,6.17,6.07,,0,0,0,CAS,1940,1940,12,9,Mendocino Co.,5 mi SE of Usal,39.7802667,-123.83475
+81695,5/27/15,3.95,3.36,,0,0,0,CAS,1940,1940,12,10,Mendocino Co.,7 mi S of Willits,39.32303333,-123.3015167
+81876,5/27/15,5.39,5.11,,0,0,0,CAS,1940,1940,12,14,Humboldt Co.,Williams Grove,40.27722222,-123.8825
+34539,3/11/15,5.2,3.89,ZS,0,0,0,MVZ,1941,1940,2,23,Alameda County,6.5 mi NE Livermore,37.78484,-121.58402
+34536,3/11/15,7.12,5.74,ZS,0,0,0,MVZ,1941,1940,2,23,Alameda County,6.5 mi NE Livermore,37.78484,-121.58402
+36954,7/7/15,4.72,4.28,MC,0,0,0,MVZ,1941,1940,2,28,Los Angeles County,1.5 mi NW Claremont,34.11722,-117.73245
+35515,3/11/15,5.47,5.05,MC,0,0,0,MVZ,1941,1940,9,14,Santa Cruz County,Waddell Creek,37.1122928,-122.2702576
+7348,5/28/15,2.21,1.54,,0,0,0,CAS,1941,1940,11,8,Lake Co.,0.5 mi NW of Lucerne,39.0959,-122.8011833
+7341,5/28/15,2.26,1.71,,0,0,0,CAS,1941,1940,11,8,Lake Co.,0.5 mi NW of Lucerne,39.0959,-122.8011833
+7350,5/28/15,2.45,1.74,,0,0,0,CAS,1941,1940,11,8,Lake Co.,0.5 mi NW of Lucerne,39.0959,-122.8011833
+7343,5/28/15,2.54,1.71,,0,0,0,CAS,1941,1940,11,8,Lake Co.,0.5 mi NW of Lucerne,39.0959,-122.8011833
+7347,5/28/15,2.65,1.95,,0,0,0,CAS,1941,1940,11,8,Lake Co.,0.5 mi NW of Lucerne,39.0959,-122.8011833
+6538,5/29/15,3.78,3.01,,0,0,0,CAS,1941,1940,11,9,San Mateo Co.,,37.10861111,-122.3366667
+6537,5/29/15,7.06,5.51,,0,0,0,CAS,1941,1940,11,9,San Mateo Co.,,37.10861111,-122.3366667
+37133,7/7/15,7.95,7.79,"mc, skin damaged/blistered",0,0,0,MVZ,1942,1940,1,11,Ventura County,Ventura,34.2736421,-119.2664115
+54491,3/18/15,4.97,4.43,ZS,0,0,0,MVZ,1943,1940,3,19,Alameda County,7 mi SE Livermore,37.6259,-121.6756
+40860,7/7/15,4.84,5.21,MC,0,0,0,MVZ,1944,1940,4,5,Los Angeles County,"Fern Canyon, Sherman Oaks, Santa Monica Mts.",34.1713721,-117.9309613
+40861,7/7/15,3.4,3.08,MC,0,0,0,MVZ,1944,1940,11,5,Los Angeles County,"Fern Canyon, Sherman Oaks, Santa Monica Mts.",34.1713721,-117.9309613
+40862,7/7/15,1.76,1.44,MC,0,0,0,MVZ,1944,1940,12,2,Los Angeles County,"Fern Canyon, Sherman Oaks, Santa Monica Mts.",34.1713721,-117.9309613
+8797,5/29/15,5.65,5.2,,0,0,0,CAS,1944,1940,12,10,Monterey Co.,Carmel,36.555,-121.9183333
+8805,5/27/15,6.41,2.31,tail growing,0,0,0,CAS,1945,1940,1,21,Monterey Co.,"Carmel, 36 33 26 N, 121 55 10 W",36.55722222,-121.9194444
+8806,5/27/15,6.86,6.86,,0,0,0,CAS,1945,1940,1,21,Monterey Co.,"Carmel, 36 33 26 N, 121 55 10 W",36.55722222,-121.9194444
+8802,5/29/15,2.53,1.59,,0,0,0,CAS,1945,1940,2,4,Monterey Co.,"Carmel, 36 33 26 N, 121 55 10 W",36.55722222,-121.9194444
+8803,5/29/15,4.37,3.09,,0,0,0,CAS,1945,1940,2,4,Monterey Co.,"Carmel, 36 33 26 N, 121 55 10 W",36.55722222,-121.9194444
+8804,5/29/15,5.41,4.96,,0,0,0,CAS,1945,1940,2,4,Monterey Co.,"Carmel, 36 33 26 N, 121 55 10 W",36.55722222,-121.9194444
+40863,7/7/15,1.94,1.33,MC,0,0,0,MVZ,1945,1940,2,17,Los Angeles County,"Fern Canyon, Sherman Oaks, Santa Monica Mts.",34.1713721,-117.9309613
+8799,5/28/15,1.97,1.42,,0,0,0,CAS,1945,1940,3,4,Monterey Co.,"Carmel, 36 33 10 N, 121 55 10 W",36.55277778,-121.9194444
+8798,5/28/15,5.38,5.37,,0,0,0,CAS,1945,1940,3,4,Monterey Co.,"Carmel, 36 33 10 N, 121 55 10 W",36.55277778,-121.9194444
+8800,5/28/15,6.92,5.77,,0,0,0,CAS,1945,1940,3,4,Monterey Co.,"Carmel, 36 33 10 N, 121 55 10 W",36.55277778,-121.9194444
+8801,5/28/15,7,6.72,,0,0,0,CAS,1945,1940,3,4,Monterey Co.,"Carmel, 36 33 10 N, 121 55 10 W",36.55277778,-121.9194444
+41292,1/23/15,5.38,3.65,KC,0,0,0,MVZ,1945,1940,5,12,Monterey County,"1 mi S Monterey, S side Munras Ave.",36.5871,-121.89847
+41291,2/9/15,5.54,4.92,SL,0,0,0,MVZ,1945,1940,5,12,Monterey County,near junction of Carmel Rd. and Munras Ave.,36.479691,-121.730287
+41891,1/23/15,2.86,1.75,MC,0,0,0,MVZ,1945,1940,12,9,Monterey County,"10 mi NE Salinas, U.S. 101",36.820957,-121.629447
+41893,1/23/15,3.03,2.86,KC,0,0,0,MVZ,1945,1940,12,9,Monterey County,"10 mi NE Salinas, U.S. 101",36.820957,-121.629447
+41897,3/11/15,3.66,2.1,"ZS, tail growing",0,0,0,MVZ,1945,1940,12,9,San Benito County,1 mi S and 11 mi E Gonzales,36.5067652,-121.2431304
+41895,3/9/15,3.77,2.61,SL,0,0,0,MVZ,1945,1940,12,9,San Benito County,1 mi S and 10 mi E Gonzales,36.505642,-121.2594778
+41894,1/23/15,4.01,2.75,KC,0,0,0,MVZ,1945,1940,12,9,Monterey County,"10 mi NE Salinas, U.S. 101",36.820957,-121.629447
+41898,3/9/15,4.13,3,SL,0,0,0,MVZ,1945,1940,12,9,San Benito County,1 mi S and 11 mi E Gonzales,36.5067652,-121.2431304
+41892,1/23/15,5.6,4.21,KC,0,0,0,MVZ,1945,1940,12,9,Monterey County,"10 mi NE Salinas, U.S. 101",36.820957,-121.629447
+41896,3/9/15,7.96,5.47,JE,0,0,0,MVZ,1945,1940,12,9,San Benito County,1 mi S and 10 mi E Gonzales,36.505642,-121.2594778
+41901,3/9/15,2.69,1.81,SL,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41911,3/9/15,3.71,2.63,JE,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41903,3/11/15,3.88,3.2,ZS,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41905,3/11/15,4.24,3.21,ZS,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41906,3/9/15,4.24,3.15,SL,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41909,3/11/15,4.7,3.65,ZS,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41913,3/9/15,5.87,4.87,SL,0,0,0,MVZ,1946,1940,1,1,San Benito County,3.3 mi SE Hwy. 156 on Fremont Peak Rd.,36.8050374,-121.502985
+41910,3/9/15,6.04,5.36,SL,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41900,3/11/15,6.19,5.47,ZS,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41899,3/9/15,6.33,6.21,JE,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41908,3/9/15,6.42,6.09,JE,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+41904,3/11/15,7.01,6.04,ZS,0,0,0,MVZ,1946,1940,1,1,San Benito County,2-5 mi W Hwy. 25 on road to Gonzales,36.5615149,-121.2341134
+42207,2/20/15,4.25,3.59,KC,0,0,0,MVZ,1946,1940,2,10,Mendocino County,"8.9 mi S Piercy, U.S. Hwy. 101, near Lane's Redwood Flat",39.8919894,-123.7498065
+42238,2/20/15,4.31,2.9,KC,0,0,0,MVZ,1946,1940,2,10,Mendocino County,24.5 mi S Lane's Redwood Flat,39.54155,-123.75109
+42237,2/20/15,5.78,1.92,KC tail stump,0,0,0,MVZ,1946,1940,2,10,Mendocino County,24.5 mi S Lane's Redwood Flat,39.54155,-123.75109
+42235,2/20/15,6.95,5.6,KC,0,0,0,MVZ,1946,1940,2,10,Mendocino County,24.5 mi S Lane's Redwood Flat,39.54155,-123.75109
+42234,2/20/15,8.79,5.8,KC,0,0,0,MVZ,1946,1940,2,10,Mendocino County,24.5 mi S Lane's Redwood Flat,39.54155,-123.75109
+42416,3/11/15,3.02,2.05,"ZS, subs for 42417",0,0,0,,1946,1940,4,25,Alameda Co.,,37.8714801,-122.2615466
+42847,3/9/15,5.92,4.75,JE,0,0,0,MVZ,1946,1940,6,27,San Benito County,Pinnacles National Monument,36.5333449,-121.145152
+43163,3/11/15,1.93,1.25,ZS,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43164,3/11/15,2,0.9,ZS,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43165,3/9/15,2.02,1.42,JE,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43162,3/9/15,2.27,1.43,SL,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43161,3/9/15,4.32,2.34,SL,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43158,3/9/15,4.86,4.15,JE,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43157,3/9/15,4.9,2.39,SL ,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43160,3/11/15,4.9,3.4,ZS,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43159,3/9/15,5.12,4.52,JE,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43153,3/9/15,5.31,4.69,JE,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43152,3/9/15,6.8,6.17,JE,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43155,3/9/15,6.98,6.08,SL,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43156,3/11/15,7.56,6.34,ZS,0,0,0,MVZ,1946,1940,10,5,San Benito County,"Pinnacles National Monument, NW High Peaks",36.5333449,-121.145152
+43811,3/31/15,6.66,5.89,MC,0,0,0,MVZ,1946,1940,10,20,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43809,3/31/15,,,"MC, not measured",0,0,0,MVZ,1946,1940,10,20,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43952,3/31/15,2,1.59,MC,0,0,0,MVZ,1946,1940,11,16,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43942,3/31/15,6.68,6.57,MC,0,0,0,MVZ,1946,1940,11,16,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43940,3/31/15,6.83,6.19,MC,0,0,0,MVZ,1946,1940,11,16,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43937,3/31/15,7.08,6.71,MC,0,0,0,MVZ,1946,1940,11,16,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43751,2/20/15,7.75,5.35,KC,0,0,0,MVZ,1946,1940,11,24,Mendocino County,4.3 mi SE Navarro on Hwy. 128,39.0985042,-123.4770896
+43752,2/20/15,7.98,6.38,KC scar on head,0,0,0,MVZ,1946,1940,11,24,Mendocino County,2.5 mi E Booneville,39.0153329,-123.3258987
+43988,3/31/15,2.05,1.62,MC,0,0,0,MVZ,1946,1940,12,1,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+44007,3/31/15,2.07,1.45,MC,0,0,0,MVZ,1946,1940,12,1,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43997,3/31/15,2.2,1.64,MC,0,0,0,MVZ,1946,1940,12,1,Lake County,0.25 mi NW Lucerne,39.1012237,-122.8057449
+43992,3/31/15,2.98,1.39,"mC, subs for 43991",0,0,0,,1946,1940,12,1,Lake Co.,,39.1012237,-122.8057449
+44051,3/11/15,4.97,4.81,MC,0,0,0,MVZ,1947,1940,1,7,Santa Barbara County,8.5 mi SE Lompoc,34.5471888,-120.3414136
+44050,3/11/15,5.54,5.26,MC,0,0,0,MVZ,1947,1940,1,7,Santa Barbara County,8.5 mi SE Lompoc,34.5471888,-120.3414136
+44048,3/11/15,6.65,6.51,MC,0,0,0,MVZ,1947,1940,1,7,Santa Barbara County,8.5 mi SE Lompoc,34.5471888,-120.3414136
+44054,3/6/15,4.37,2.78,KC,0,0,0,MVZ,1947,1940,1,8,San Luis Obispo County,3.5 mi W Atascadero,35.458819,-120.723723
+44053,3/6/15,5.86,4.35,KC,0,0,0,MVZ,1947,1940,1,8,San Luis Obispo County,3.5 mi W Atascadero,35.458819,-120.723723
+44052,3/6/15,6.38,4.37,KC,0,0,0,MVZ,1947,1940,1,8,San Luis Obispo County,3.5 mi W Atascadero,35.458819,-120.723723
+44678,3/4/15,6.4,5.64,MC,0,0,0,MVZ,1947,1940,6,8,San Mateo County,"507 Cornell Ave., San Mateo",37.556719,-122.33346
+44636,3/4/15,3.33,0.19,MC tail broken,0,0,0,MVZ,1947,1940,7,16,San Mateo County,"507 Cornell Ave., San Mateo",37.556719,-122.33346
+201175,3/31/15,5.08,5.17,"MC, subs for 189252",0,0,0,,1947,1940,10,9,Contra Costa Co.,,37.8049862,-122.1607629
+46911,2/20/15,2.02,1.26,KC,0,0,0,MVZ,1947,1940,11,15,Mendocino County,5.6 mi N Laytonville,39.7581331,-123.4759858
+45934,7/7/15,5.06,5.07,MC,0,0,0,MVZ,1947,1940,12,8,Los Angeles County,"Sepulveda Canyon, Sherman Oaks, Santa Monica Mts.",34.13,-118.47
+45935,7/7/15,2.12,1.19,MC,0,0,0,MVZ,1947,1940,12,15,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+45936,7/7/15,1.67,1.08,MC,0,0,0,MVZ,1947,1940,12,24,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+45937,7/7/15,1.95,1.52,MC,0,0,0,MVZ,1947,1940,12,24,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+44298,3/31/15,1.89,1.5,MC,0,0,0,MVZ,1947,1940,12,29,Lake County,1 mi N Lucerne,39.1095102,-122.8162571
+44306,3/31/15,2.09,1.62,MC,0,0,0,MVZ,1947,1940,12,29,Lake County,1 mi N Lucerne,39.1095102,-122.8162571
+44304,3/31/15,2.1,1.39,MC,0,0,0,MVZ,1947,1940,12,29,Lake County,1 mi N Lucerne,39.1095102,-122.8162571
+46941,3/11/15,2.92,2.06,ZS,0,0,0,MVZ,1948,1940,2,1,Alameda County,"1814 Delaware Street , Berkeley",37.87407,-122.27408
+46942,3/11/15,3.91,3.11,ZS,0,0,0,MVZ,1948,1940,2,1,Alameda County,"1814 Delaware Street , Berkeley",37.87407,-122.27408
+46590,2/9/15,4.94,4.1,SL,0,0,0,MVZ,1948,1940,2,13,Monterey County,3 mi E and 2 mi S Jamesburg,36.340211,-121.535682
+46592,1/23/15,5.24,3.88,KC,0,0,0,MVZ,1948,1940,2,13,Monterey County,3 mi E and 2 mi S Jamesburg,36.340211,-121.535682
+46591,1/23/15,5.38,2.37,,0,0,0,MVZ,1948,1940,2,13,Monterey County,3 mi E and 2 mi S Jamesburg,36.340211,-121.535682
+46957,2/27/15,2.49,1.44,KC,0,0,0,MVZ,1948,1940,3,9,Marin County,Woodacre,38.0086039,-122.6374229
+46955,2/27/15,3.57,2.55,KC,0,0,0,MVZ,1948,1940,3,9,Marin County,Woodacre,38.0086039,-122.6374229
+46980,2/27/15,3.76,2.45,KC looks skinny,0,0,0,MVZ,1948,1940,3,16,Marin County,Woodacre,38.0086039,-122.6374229
+46968,3/4/15,2.93,2.47,,0,0,0,MVZ,1948,1940,3,28,Napa County,0.25 mi NNE Angwin,38.5756635,-122.4467024
+46967,3/4/15,2.95,2.63,MC,0,0,0,MVZ,1948,1940,3,28,Napa County,0.25 mi NNE Angwin,38.5756635,-122.4467024
+46966,3/4/15,3.04,2.5,MC,0,0,0,MVZ,1948,1940,3,28,Napa County,0.25 mi NNE Angwin,38.5756635,-122.4467024
+46603,3/4/15,6.42,4.1,MC,0,0,0,MVZ,1948,1940,3,28,Napa County,0.25 mi NNE Angwin,38.5756635,-122.4467024
+46604,3/4/15,6.81,6.16,MC,0,0,0,MVZ,1948,1940,3,28,Napa County,0.25 mi NNE Angwin,38.5756635,-122.4467024
+46964,3/4/15,,,not measured,0,0,0,MVZ,1948,1940,3,28,Napa County,0.25 mi NNE Angwin,38.5756635,-122.4467024
+46290,2/20/15,7.86,5.92,KC eggs,0,0,0,MVZ,1948,1940,4,6,Mendocino County,0.4 mi N Lane's Redwood Flat,39.90246,-123.75109
+73742,?,2.7,2.04,MC,0,0,0,MVZ,1948,1940,4,29,Tuolumne County,"2.5 mi ESE Groveland, along Hwy. 120",37.828517,-120.187008
+46975,3/11/15,6.67,5.78,ZS,0,0,0,MVZ,1948,1940,5,1,Alameda County,Berkeley,37.8697904,-122.2715302
+46922,2/11/15,7.08,6.91,ZS,0,0,0,MVZ,1948,1940,5,4,Sonoma County,"3.8 mi N Cloverdale, U.S. 101",38.847769,-123.0227763
+46978,3/31/15,6.31,6.03,MC,0,0,0,MVZ,1948,1940,5,9,Contra Costa County,Tilden Regional Park,37.9002916,-122.2474675
+46982,3/4/15,7.15,7.69,MC,0,0,0,MVZ,1948,1940,6,27,San Mateo County,"Harrison's, near La Honda",37.319194,-122.273237
+60311,2/27/15,7.47,5.44,KC feels skinny,0,0,0,MVZ,1949,1940,1,30,Marin County,"along Spring Grove Ave., 0.25 mi S San Rafael",37.9725248,-122.5454915
+60296,3/11/15,5.06,4.14,MC,0,0,0,MVZ,1949,1940,2,9,Santa Barbara County,Arroyo El Bullito Hollister Ranch,34.4861,-120.378
+13442,5/28/15,6.08,6.01,,0,0,0,CAS,1949,1940,2,25,San Mateo Co.,0.25 mi S of San Andreas Lake,37.5772,-122.4102333
+74526,3/9/15,6.45,5.51,"JE, very skinny",0,0,0,MVZ,1949,1940,3,1,San Benito County,no specific locality recorded,,
+13448,5/29/15,5.61,5.2,substitute,0,0,0,CAS,1949,1940,3,4,San Mateo Co.,"S end of Crystal Springs Lake, 40 yds S of Pulgas Temple",37.48328333,-122.3178667
+13453,5/28/15,4.94,4.57,,0,0,0,CAS,1949,1940,3,6,San Mateo Co.,between Crocker and Spencer Lakes,37.56751389,-122.3760139
+60297,3/6/15,5.43,3.24,KC,0,0,0,MVZ,1949,1940,3,19,San Luis Obispo County,2.4 mi SW Santa Margarita along U.S. 101,35.365346,-120.637298
+60300,2/20/15,4.26,3.1,KC,0,0,0,MVZ,1949,1940,3,22,Mendocino County,"1.5 mi NE junction Hwy. 20, road to Potter Valley",39.2612497,-123.1133162
+60302,2/20/15,4.9,3.95,KC feels skinny,0,0,0,MVZ,1949,1940,3,23,Mendocino County,0.4 mi N Lane's Redwood Flat,39.90246,-123.75109
+47294,7/7/15,5.83,5.3,MC,0,0,0,MVZ,1949,1940,3,26,Los Angeles County,"Beverly Glenn, N side Santa Monica Mts.",34.13,-118.45
+60315,3/18/15,3.18,2.63,MC,0,0,0,MVZ,1949,1940,3,27,San Diego County,Rose Canyon,32.86,-117.18
+13444,5/29/15,2.76,2.07,,0,0,0,CAS,1949,1940,3,27,San Mateo Co.,3 mi S of San Andreas Lake,37.54521669,-122.3811167
+13438,5/28/15,2.25,1.7,,0,0,0,CAS,1949,1940,3,,Contra Costa Co.,"Buckle Point, 1/2 way up North Rd to Mt Diablo",37.87946669,-121.9639333
+13458,5/27/15,4.4,4.08,,0,0,0,CAS,1949,1940,4,13,San Mateo Co.,"San Mateo, San Mateo Park",37.56666111,-122.3441639
+13466,5/28/15,2.42,1.98,,0,0,0,CAS,1949,1940,4,30,San Mateo Co.,"San Mateo, 20th Ave",37.54846668,-122.3110667
+50254,3/4/15,7.12,6.79,MC,0,0,0,MVZ,1949,1940,5,15,Tuolumne County,"Woods Creek, Sawmill Flat",38.02022,-120.38119
+50239,3/4/15,7.49,6.65,MC,0,0,0,MVZ,1949,1940,5,20,Tuolumne County,"Woods Creek, Sawmill Flat",38.02022,-120.38119
+9581,5/28/15,6.06,5.45,,0,0,0,CAS,1949,1940,5,22,Calaveras Co.,Mercer's Cave,38.15138889,-120.4772222
+51292,2/9/15,2.59,1.58,SL,0,0,0,MVZ,1950,1950,5,21,Monterey County,"Monterey-San Benito County line, Fremont Peak",36.757807,-121.505513
+15597,5/28/15,4.29,3.39,,0,0,0,CAS,1950,1950,5,24,Los Angeles Co.,"2 mi N of Claremont, W of Padua Hills, Palmer Canyon",34.14383334,-117.7078167
+51749,1/23/15,4.93,5.3,MC,0,0,0,MVZ,1950,1950,11,26,Monterey County,Robles del Rio,36.470127,-121.735429
+51748,1/23/15,6.61,5.41,MC,0,0,0,MVZ,1950,1950,11,26,Monterey County,Robles del Rio,36.470127,-121.735429
+55669,2/9/15,2.68,1.81,MC,0,0,0,MVZ,1951,1950,3,4,Sonoma County,0.5 mi W Skaggs Springs,38.6967937,-123.0335332
+55668,2/9/15,2.95,2.13,MC,0,0,0,MVZ,1951,1950,3,4,Sonoma County,0.5 mi W Skaggs Springs,38.6967937,-123.0335332
+55667,2/9/15,5.15,4.49,MC,0,0,0,MVZ,1951,1950,3,4,Sonoma County,0.5 mi W Skaggs Springs,38.6967937,-123.0335332
+54172,3/11/15,4.44,4.07,MC,0,0,0,MVZ,1951,1950,3,8,Orange County,1 mi NW Trabuco Canyon Post Office,33.66994,-117.59868
+54173,3/18/15,7.61,6.36,ZS,0,0,0,MVZ,1951,1950,3,8,San Diego County,"Sweetwater River, 2 mi W and 0.5 mi S Dehesa",32.78,-116.87
+54174,3/18/15,2.62,1.81,MC,0,0,0,MVZ,1951,1950,3,9,San Diego County,ca. 8 mi S [on U.S. 395] Bonsall turnoff,33.21,-117.13
+54425,4/1/15,2.77,2.05,ZS,0,0,0,MVZ,1951,1950,3,17,Humboldt County,2.9 mi N (by road) Piercy,40.000952,-123.7829286
+54428,4/1/15,2.8,2.25,ZS,0,0,0,MVZ,1951,1950,3,17,Humboldt County,2.9 mi N (by road) Piercy,40.000952,-123.7829286
+54427,4/1/15,2.86,1.81,ZS,0,0,0,MVZ,1951,1950,3,17,Humboldt County,2.9 mi N (by road) Piercy,40.000952,-123.7829286
+54420,4/1/15,2.94,2.34,ZS,0,0,0,MVZ,1951,1950,3,17,Humboldt County,2.9 mi N (by road) Piercy,40.000952,-123.7829286
+54426,4/1/15,3.07,2.23,ZS,0,0,0,MVZ,1951,1950,3,17,Humboldt County,2.9 mi N (by road) Piercy,40.000952,-123.7829286
+10853,5/28/15,7.55,8.01,,0,0,0,CAS,1951,1950,3,25,Calaveras Co.,"Cave of the Skulls, T3N, R14E, Sec33, NE quarter, 120 26 15 N, 38 04 20 W",38.07222222,-120.4375
+53998,?,3.23,2.68,MC,0,0,0,MVZ,1951,1950,4,14,Tuolumne County,Sawmill Flat,38.020702,-120.380301
+53997,?,2.94,2.06,MC,0,0,0,MVZ,1951,1950,4,14,Tuolumne County,Sawmill Flat,38.020702,-120.380301
+55489,3/9/15,6.07,5.01,JE,0,0,0,MVZ,1951,1950,4,24,San Benito County,Pinnacles National Monument,36.5333449,-121.145152
+54023,2/20/15,5.93,4.76,KC,0,0,0,MVZ,1951,1950,5,12,Mendocino County,7 mi SE Booneville,38.9774438,-123.2523636
+54628,3/11/15,5.82,5.26,MC,0,0,0,MVZ,1951,1950,10,23,San Francisco County,Southeast Farallon Island,37.698188,-123.002005
+55997,2/20/15,4.97,3.82,KC,0,0,0,MVZ,1952,1950,2,3,Mendocino County,9.4 mi SSE Willits [U.S. Hwy. 101],39.2734652,-123.2927972
+55994,4/1/15,7.39,6.13,ZS,0,0,0,MVZ,1952,1950,2,3,Humboldt County,5.6 mi N Garberville,40.1689779,-123.7801588
+56191,2/20/15,7.68,5.55,KC,0,0,0,MVZ,1952,1950,2,3,Mendocino County,9.4 mi SSE Willits,39.2734652,-123.2927972
+55992,2/20/15,7.94,5.97,KC,0,0,0,MVZ,1952,1950,2,3,Mendocino County,3.1 mi S Laytonville,39.6387741,-123.4866986
+55990,2/20/25,8.07,6.44,"KC growing back 2 toes rear leg, bony",0,0,0,MVZ,1952,1950,2,3,Mendocino County,"Robinson Creek, 4 mi S and 1.5 mi W Ukiah",39.0947571,-123.2390067
+55998,2/20/15,8.07,5.63,KC,0,0,0,MVZ,1952,1950,2,3,Mendocino County,9.4 mi SSE Willits [U.S. Hwy. 101],39.2734652,-123.2927972
+55995,2/20/15,8.12,6.18,KC,0,0,0,MVZ,1952,1950,2,3,Mendocino County,"Robinson Creek, 4 mi S and 1.5 mi W Ukiah",39.0947571,-123.2390067
+56007,4/1/15,6.21,6.08,ZS,0,0,0,MVZ,1952,1950,2,4,Humboldt County,5.6 mi N Garberville,40.1689779,-123.7801588
+56008,4/1/15,6.84,6.26,ZS,0,0,0,MVZ,1952,1950,2,4,Humboldt County,5.6 mi N Garberville,40.1689779,-123.7801588
+59691,3/11/15,7.86,5.7,MC,0,0,0,MVZ,1952,1950,2,6,Orange County,13.3 mi SE Irvine Park,33.65848,-117.58409
+57967,3/31/15,6.95,5.69,MC,0,0,0,MVZ,1952,1950,2,17,Contra Costa County,St. Mary's College,37.841217,-122.1076409
+62425,2/9/15,2.49,1.81,MC,0,0,0,MVZ,1952,1950,2,22,Sonoma County,6.5 mi NE Santa Rosa,38.51403,-122.6343
+62424,2/9/15,2.56,1.74,MC,0,0,0,MVZ,1952,1950,2,22,Sonoma County,6.5 mi NE Santa Rosa,38.51403,-122.6343
+55928,3/2/15,2.56,1.57,JE,0,0,0,MVZ,1952,1950,2,24,Mariposa County,5.9 mi NE Briceburg,37.665087,-119.888457
+55910,3/2/15,4.54,3.79,JE,0,0,0,MVZ,1952,1950,2,24,Mariposa County,5.9 mi NE Briceburg,37.665087,-119.888457
+55909,2/27/15,7.19,4.98,KC,0,0,0,MVZ,1952,1950,2,24,Mariposa County,5.9 mi NE Briceburg,37.665087,-119.888457
+55907,2/27/15,8.33,6.27,KC has eggs + skin sloughing,0,0,0,MVZ,1952,1950,2,24,Mariposa County,2.8 mi W Briceburg,37.605133,-120.016302
+55921,3/2/15,2.41,1.73,SL,0,0,0,MVZ,1952,1950,2,27,Mariposa County,"0.7 mi NNE Briceburg, State Hwy. 140",37.611991,-119.957372
+55913,3/2/15,2.53,2.11,JE,0,0,0,MVZ,1952,1950,2,27,Mariposa County,"Merced River Bridge, 15.5 mi ENE Briceburg, Hwy. 140",37.66973,-119.79872
+55922,3/2/15,2.68,1.92,JE,0,0,0,MVZ,1952,1950,2,27,Mariposa County,"0.7 mi NNE Briceburg, State Hwy. 140",37.611991,-119.957372
+55919,3/2/15,6.59,6.32,JE,0,0,0,MVZ,1952,1950,2,27,Mariposa County,"0.7 mi NNE Briceburg, State Hwy. 140",37.611991,-119.957372
+55923,7/7/15,7.9,6.09,MC,0,0,0,MVZ,1952,1950,2,28,Stanislaus County,"6.3 mi E Oakdale, Stanislaus County",37.786678,-120.732917
+55924,7/7/15,7.9,7.07,MC,0,0,0,MVZ,1952,1950,2,28,Stanislaus County,6.3 mi E Oakdale,37.786678,-120.732917
+57970,3/4/15,2.83,1.88,MC,0,0,0,MVZ,1952,1950,3,23,Napa County,2 mi NW Calistoga,38.6023043,-122.6103548
+57968,3/4/15,3,2.47,MC,0,0,0,MVZ,1952,1950,3,23,Napa County,2 mi NW Calistoga,38.6023043,-122.6103548
+59906,3/4/15,4.57,4.04,MC,0,0,0,MVZ,1952,1950,3,23,Napa County,2 mi NW Calistoga,38.6023043,-122.6103548
+57972,3/4/15,2.99,2.34,MC added b/c missing 2 in napa,0,0,0,,1952,1950,3,23,Napa County,,38.6023043,-122.6103548
+56157,2/20/15,5.92,4.8,KC,0,0,0,MVZ,1952,1950,3,29,Mendocino County,0.25 mi N Lanes Redwood Flat,39.90029,-123.75109
+56159,4/1/15,6.23,5.78,ZS,0,0,0,MVZ,1952,1950,3,29,Humboldt County,5.6 mi N Garberville [U.S. Hwy. 101],40.1689779,-123.7801588
+56158,4/1/15,7.34,5.46,ZS,0,0,0,MVZ,1952,1950,3,29,Humboldt County,5.6 mi N Garberville [U.S. Hwy. 101],40.1689779,-123.7801588
+58284,3/18/15,2.6,1.98,MC,0,0,0,MVZ,1952,1950,4,10,Calaveras County,"Cataract Gulch, 4.5 mi ESE Murphys",38.1142202,-120.4067806
+70404,3/31/15,4.44,4.07,MC,0,0,0,MVZ,1952,1950,6,28,Contra Costa County,Canyon,,
+70408,3/31/15,5.61,4.64,MC dark speckles or dirt,0,0,0,MVZ,1952,1950,6,28,Contra Costa County,Canyon,,
+70409,3/31/15,6.54,6.22,MC,0,0,0,MVZ,1952,1950,6,28,Contra Costa County,Canyon,,
+70402,3/31/15,6.62,6.54,"MC, speckles on feet, vent",0,0,0,MVZ,1952,1950,6,28,Contra Costa County,Canyon,,
+57356,7/7/15,3.34,2.35,MC,0,0,0,MVZ,1952,1950,7,25,Madera County,Ahwahnee,37.3690673,-119.7238566
+57357,7/7/15,3.34,2.12,MC tail broken,0,0,0,MVZ,1952,1950,7,25,Madera County,Ahwahnee,37.3690673,-119.7238566
+57360,7/7/15,8.01,7.58,MC,0,0,0,MVZ,1952,1950,7,25,Madera County,Ahwahnee,37.3690673,-119.7238566
+59693,3/4/15,2.66,2.15,MC,0,0,0,MVZ,1953,1950,2,1,Napa County,6.5 mi NE Napa,38.356418,-122.2075966
+58386,7/7/15,5.38,3.99,MC,0,0,0,MVZ,1953,1950,2,1,Yolo County,1.5 mi E of the Napa-Yolo-Solano County lines,38.513311,-122.0742719
+59692,3/4/15,6.33,5.79,MC,0,0,0,MVZ,1953,1950,2,1,Napa County,6.5 mi NE Napa,38.356418,-122.2075966
+59695,3/4/15,5.56,5.05,MC,0,0,0,MVZ,1953,1950,2,15,Napa County,3.0 mi NNW Calistoga,38.6195162,-122.5963945
+59697,3/4/15,7.16,6.59,MC,0,0,0,MVZ,1953,1950,2,15,Napa County,3.0 mi NNW Calistoga,38.6195162,-122.5963945
+58236,3/9/15,3.91,3.77,JE,0,0,0,MVZ,1953,1950,2,22,San Benito County,"1 mi E of E boundary, Pinnacles National Monument",36.4869853,-121.2274432
+58237,3/9/15,5.44,4.63,SL,0,0,0,MVZ,1953,1950,2,22,San Benito County,"1 mi E of E boundary, Pinnacles National Monument",36.4869853,-121.2274432
+58235,3/9/15,5.98,5.71,JE,0,0,0,MVZ,1953,1950,2,22,San Benito County,"1 mi E of E boundary, Pinnacles National Monument",36.4869853,-121.2274432
+58240,3/9/15,7.13,6.07,JE,0,0,0,MVZ,1953,1950,2,22,San Benito County,"1 mi E of E boundary, Pinnacles National Monument",36.4869853,-121.2274432
+58239,3/9/15,7.43,5.94,SL,0,0,0,MVZ,1953,1950,2,22,San Benito County,"1 mi E of E boundary, Pinnacles National Monument",36.4869853,-121.2274432
+58242,3/9/15,8.14,7.47,SL,0,0,0,MVZ,1953,1950,2,22,San Benito County,"1 mi E of E boundary, Pinnacles National Monument",36.4869853,-121.2274432
+59702,3/11/15,2.48,0.49,ZS,0,0,0,MVZ,1953,1950,2,23,San Benito County,3.5 mi W and 2 mi S Pinnacles,36.5029468,-121.2081428
+60118,3/11/15,2.77,2.03,ZS,0,0,0,MVZ,1953,1950,2,23,San Benito County,"3.5 mi W, 2 mi S Pinnacles National Monument",36.5064116,-121.2895024
+59705,3/11/15,3.33,2.51,ZS,0,0,0,MVZ,1953,1950,2,23,San Benito County,3 mi S Pinnacles,36.4925384,-121.1374832
+58385,3/9/15,5.12,4.06,JE,0,0,0,MVZ,1953,1950,2,23,San Benito County,1 mi NE Pinnacles National Monument,36.5433785,-121.1794163
+59704,3/9/15,5.57,4.64,JE,0,0,0,MVZ,1953,1950,2,23,San Benito County,3 mi S Pinnacles,36.4925384,-121.1374832
+60117,3/9/15,5.58,4.36,SL,0,0,0,MVZ,1953,1950,2,23,San Benito County,1 mi NE Pinnacles National Monument,36.5433785,-121.1794163
+60119,3/9/15,5.78,5.26,JE,0,0,0,MVZ,1953,1950,2,23,San Benito County,"3.5 mi W, 2 mi S Pinnacles National Monument",36.5064116,-121.2895024
+60120,3/9/15,6.25,5.68,JE,0,0,0,MVZ,1953,1950,2,23,San Benito County,"3.5 mi W, 2 mi S Pinnacles National Monument",36.5064116,-121.2895024
+59707,3/9/15,6.49,4.91,JE,0,0,0,MVZ,1953,1950,2,23,San Benito County,3 mi S Pinnacles,36.4925384,-121.1374832
+60116,3/9/15,6.68,6.32,"JE, skinny",0,0,0,MVZ,1953,1950,2,23,San Benito County,1 mi NE Pinnacles National Monument,36.5433785,-121.1794163
+58384,3/9/15,6.7,5.91,JE,0,0,0,MVZ,1953,1950,2,23,San Benito County,1 mi NE Pinnacles National Monument,36.5433785,-121.1794163
+58383,3/9/15,6.99,6.12,SL,0,0,0,MVZ,1953,1950,2,23,San Benito County,1 mi NE Pinnacles National Monument,36.5433785,-121.1794163
+59703,3/9/15,7,6.31,SL Skin is peeling,0,0,0,MVZ,1953,1950,2,23,San Benito County,3.5 mi W and 2 mi S Pinnacles,36.5029468,-121.2081428
+59706,3/9/15,7.15,5.95,JE,0,0,0,MVZ,1953,1950,2,23,San Benito County,3 mi S Pinnacles,36.4925384,-121.1374832
+58230,3/18/15,6.04,5.23,MC,0,0,0,MVZ,1953,1950,3,15,Calaveras County,7.5 mi E Valley Springs,38.2091371,-120.7061344
+58227,7/7/15,6.55,5.79,MC,0,0,0,MVZ,1953,1950,3,15,San Joaquin County,ca. 3 mi E Clements,38.201703,-121.031553
+58231,3/18/15,6.97,6.3,"MC, has eggs",0,0,0,MVZ,1953,1950,3,15,Calaveras County,7.5 mi E Valley Springs,38.2091371,-120.7061344
+58233,3/18/15,7.44,6.1,MC,0,0,0,MVZ,1953,1950,3,15,Calaveras County,7.5 mi E Valley Springs,38.2091371,-120.7061344
+60123,?,6.39,5.79,MC,0,0,0,MVZ,1953,1950,3,23,Tuolumne County,"Woods Creek, 1 mi S and 1 mi E Columbia",38.02166,-120.3824
+59708,3/18/15,7.33,6.77,MC,0,0,0,MVZ,1953,1950,3,23,Calaveras County,5.4 mi NE Murphys,38.1780756,-120.3822068
+60121,3/18/15,7.53,6.74,MC,0,0,0,MVZ,1953,1950,3,23,Calaveras County,2.5 mi N and 3.5 mi E Murphys,38.1800076,-120.3995818
+59711,3/4/15,7.95,7.34,MC,0,0,0,MVZ,1953,1950,3,23,Tuolumne County,1 mi S and 1 mi E Columbia,38.02166,-120.3824
+60122,3/18/15,8,8.19,MC,0,0,0,MVZ,1953,1950,3,23,Calaveras County,2.5 mi N and 3.5 mi E Murphys,38.1800076,-120.3995818
+59710,?,8.13,7.63,MC,0,0,0,MVZ,1953,1950,3,23,Tuolumne County,1 mi S and 1 mi E Columbia,38.02166,-120.3824
+59713,?,8.27,7.28,MC,0,0,0,MVZ,1953,1950,3,23,Tuolumne County,1 mi S and 1 mi E Columbia,38.02166,-120.3824
+60124,3/4/15,8.2,7.76,MC,0,0,0,,1953,1950,3,23,Tuolumne Co.,,38.02166,-120.3824
+62426,3/2/15,6.95,5.44,JE,0,0,0,MVZ,1953,1950,5,29,Mariposa County,0.6 mi NE Briceburg,37.611784,-119.956465
+12931,5/29/15,6.65,6.23,,0,0,0,CAS,1953,1950,6,20,Mendocino Co.,9.4 mi S of Piercy,39.88436667,-123.7357334
+12932,5/29/15,6.79,7.3,,0,0,0,CAS,1953,1950,6,20,Mendocino Co.,9.4 mi S of Piercy,39.88436667,-123.7357334
+59787,2/27/15,7.1,5.45,KC,0,0,0,MVZ,1954,1950,1,2,Marin County,"SW tip of Point Reyes, near Point Reyes Lighthouse",37.995685,-123.0218949
+16489,5/27/15,2.51,1.91,,0,0,0,CAS,1954,1950,2,7,Calaveras Co.,upper entrance Cave City Cave,38.2025,-120.5075
+70313,7/7/15,5.41,4.92,MC,0,0,0,MVZ,1954,1950,2,14,San Joaquin County,6 mi S and 7.5 mi W Tracy,37.6485062,-121.5539254
+70312,3/31/15,6.45,5.98,MC,0,0,0,MVZ,1954,1950,2,14,Contra Costa County,2 mi E top of Mt. Diablo,37.8813581,-121.8760289
+61130,2/20/15,7.42,6.18,KC,0,0,0,MVZ,1954,1950,5,15,Mendocino County,"Hopland, University of California Hopland Field Station",39.0011578,-123.0820897
+63818,2/9/15,5.39,4.51,SL,0,0,0,MVZ,1954,1950,10,17,Monterey County,2 mi W Castroville,36.766562,-121.788268
+63817,1/23/15,7.14,6.01,KC,0,0,0,MVZ,1954,1950,10,17,Monterey County,2 mi W Castroville,36.766562,-121.788268
+63816,11/21/14,7.27,5.82,,0,0,0,MVZ,1954,1950,10,17,Monterey County,2 mi W Castroville,36.766562,-121.788268
+187348,3/4/15,7.59,6.85,MC,0,0,0,MVZ,1955,1950,1,1,Tuolumne County,Groveland,37.838655,-120.229955
+62259,2/27/15,8.44,6.93,KC,0,0,0,MVZ,1955,1950,1,1,Marin County,1 mi W Point Reyes Station,38.0694578,-122.8242896
+187349,3/4/15,7.13,7.14,MC,0,0,0,MVZ,1955,1950,1,1,Tuolumne County,Groveland,37.838655,-120.229955
+62262,3/2/15,2.14,1.3,JE,0,0,0,MVZ,1955,1950,2,17,Mariposa County,Briceburg,37.604796,-119.965071
+62265,3/2/15,2.6,1.75,SL,0,0,0,MVZ,1955,1950,2,17,Mariposa County,Merced River at junction South Fork,37.6537733,-119.8872829
+62260,3/2/15,3.45,2.55,SL,0,0,0,MVZ,1955,1950,2,17,Mariposa County,Briceburg,37.604866,-119.965028
+62263,3/2/15,5.98,4.21,JE,0,0,0,MVZ,1955,1950,2,17,Mariposa County,Briceburg,37.604796,-119.965071
+186875,5/28/15,4.48,4.52,,0,0,0,CAS,1955,1950,3,1,Santa Clara Co.,San Jose,37.33527778,-121.8938889
+62370,2/20/15,2.9,1.79,KC,0,0,0,MVZ,1955,1950,3,19,Mendocino County,6 mi N Rockport on Hwy. 1,39.7968293,-123.8094996
+62363,2/20/15,3.01,1.73,KC,0,0,0,MVZ,1955,1950,3,19,Mendocino County,0.6 mi W Navarro,39.1532971,-123.5558986
+62368,2/20/15,4.07,0.52,KC tail stump,0,0,0,MVZ,1955,1950,3,19,Mendocino County,3 mi WNW McDonald on Hwy. 128,38.8858775,-123.1479541
+62362,2/20/15,5.65,7.12,KC,0,0,0,MVZ,1955,1950,3,19,Mendocino County,0.6 mi W Navarro,39.1532971,-123.5558986
+62358,2/20/15,5.91,4.2,KC,0,0,0,MVZ,1955,1950,3,19,Mendocino County,0.6 mi W Navarro,39.1532971,-123.5558986
+62365,2/20/15,6.65,4.93,KC,0,0,0,MVZ,1955,1950,3,19,Mendocino County,0.6 mi W Navarro,39.1532971,-123.5558986
+62364,2/20/15,7.72,6.05,KC,0,0,0,MVZ,1955,1950,3,19,Mendocino County,0.6 mi W Navarro,39.1532971,-123.5558986
+62191,2/20/15,5.02,4.02,KC,0,0,0,MVZ,1955,1950,3,26,Mendocino County,0.6 mi W Navarro,39.1532971,-123.5558986
+62192,2/20/15,5.8,4.55,KC,0,0,0,MVZ,1955,1950,3,26,Mendocino County,0.6 mi W Navarro,39.1532971,-123.5558986
+62258,3/31/15,2.03,1.59,MC,0,0,0,MVZ,1955,1950,4,16,Lake County,3 mi N and 1 mi W Cobb Mt.,38.8512906,-122.7522561
+15562,5/27/15,2.44,1.72,,0,0,0,CAS,1955,1950,4,24,Santa Clara Co.,0.75 mi below Betty's Picnic Ground by Stevens Creek-Mtn View Rd,37.416175,-122.3527583
+62541,3/2/15,2.75,1.16,SL,0,0,0,MVZ,1955,1950,4,26,Mariposa County,Briceburg,37.604796,-119.965071
+62540,2/27/15,8.19,6.34,KC scars on head,0,0,0,MVZ,1955,1950,4,26,Mariposa County,Briceburg,37.604796,-119.965071
+62537,2/27/15,8.87,6.93,KC has eggs ,0,0,0,MVZ,1955,1950,4,26,Mariposa County,Briceburg,37.604796,-119.965071
+63825,3/11/15,7.19,5.85,ZS,0,0,0,MVZ,1955,1950,7,16,Alameda County,"2801 Hilgard Ave., Berkeley",37.87938,-122.2548
+63831,3/11/15,3.22,2.42,ZS,0,0,0,MVZ,1955,1950,7,19,Alameda County,"2801 Hilgard Ave., Berkeley",37.87938,-122.2548
+63827,3/11/15,5.48,4.88,ZS,0,0,0,MVZ,1955,1950,7,19,Alameda County,"2801 Hilgard Ave., Berkeley",37.87938,-122.2548
+63826,3/18/15,7.98,6.39,ZS,0,0,0,MVZ,1955,1950,7,19,Alameda County,"2801 Hilgard Ave., Berkeley",37.87938,-122.2548
+63813,2/27/15,4.17,2.31,KC,0,0,0,MVZ,1955,1950,10,30,Marin County,"SW Tip Point Reyes, 0.5 mi N Point Reyes Light",38.0054412,-122.8269544
+64627,3/11/15,4.68,3.41,ZS,0,0,0,MVZ,1956,1950,3,17,San Benito County,"E entrance, Pinnacles National Monument",36.4870962,-121.21364
+64625,3/11/15,5.71,5.15,ZS,0,0,0,MVZ,1956,1950,3,17,San Benito County,"E entrance, Pinnacles National Monument",36.4870962,-121.21364
+64626,3/9/15,5.88,2.82,"JE, broken tail",0,0,0,MVZ,1956,1950,3,17,San Benito County,"E entrance, Pinnacles National Monument",36.4870962,-121.21364
+64628,3/9/15,7.43,6.33,JE,0,0,0,MVZ,1956,1950,3,17,San Benito County,"E entrance, Pinnacles National Monument",36.4870962,-121.21364
+91639,5/27/15,6.1,5.27,,0,0,0,CAS,1956,1950,3,31,Contra Costa Co.,"1.8 mi S, 1 mi E of Orinda",37.85101111,-122.159925
+17936,5/29/15,6.48,5.35,,0,0,0,CAS,1957,1950,3,2,Sonoma Co.,"Pepperwood Valley, Pepperwood Creek",38.62205278,-123.1832167
+17937,5/29/15,6.84,6.13,substitute,0,0,0,CAS,1957,1950,3,13,Sonoma Co.,"Pepperwood Valley, Pepperwood Creek",38.62205278,-123.1832167
+54431,2/20/15,3.05,1.95,KC,0,0,0,MVZ,1957,1950,3,18,Mendocino County,3.3 mi N Laytonville,39.7387262,-123.4836866
+54434,2/20/15,4.19,3.14,KC,0,0,0,MVZ,1957,1950,3,18,Mendocino County,3.3 mi N Laytonville,39.7387262,-123.4836866
+54433,2/20/15,6.81,5.07,KC,0,0,0,MVZ,1957,1950,3,18,Mendocino County,3.3 mi N Laytonville,39.7387262,-123.4836866
+54432,2/20/15,8.16,5.76,KC,0,0,0,MVZ,1957,1950,3,18,Mendocino County,3.3 mi N Laytonville,39.7387262,-123.4836866
+17942,5/29/15,7.45,7.36,,0,0,0,CAS,1957,1950,3,25,Sonoma Co.,"Pepperwood Valley, Pepperwood Creek",38.62205278,-123.1832167
+17943,5/29/15,7.63,7.36,,0,0,0,CAS,1957,1950,3,25,Sonoma Co.,"Pepperwood Valley, Pepperwood Creek",38.62205278,-123.1832167
+86227,5/27/15,3.95,3.77,,0,0,0,CAS,1957,1950,12,7,Marin Co.,vic of Alpine Lake,37.94027778,-122.6369444
+86228,5/27/15,4.13,3.32,,0,0,0,CAS,1957,1950,12,7,Marin Co.,vic of Alpine Lake,37.94027778,-122.6369444
+180852,5/28/15,5.05,3.52,,0,0,0,CAS,1957,1950,12,22,San Diego Co.,"La Jolla, La Jolla Mesa",32.77833333,-117.2563889
+86236,5/27/15,4.67,4.49,,0,0,0,CAS,1958,1950,1,4,Marin Co.,vic of Alpine Lake,37.94027778,-122.6369444
+86235,5/27/15,5.64,5.41,,0,0,0,CAS,1958,1950,1,4,Marin Co.,vic of Alpine Lake,37.94027778,-122.6369444
+180854,5/28/15,4.96,4.4,,0,0,0,CAS,1960,1960,2,1,San Diego Co.,"2.6 rd mi via California 76 NE of Rincon Springs, banks of Potrero Creek",33.30393333,-116.9295333
+180853,5/28/15,5.73,5.23,,0,0,0,CAS,1960,1960,2,1,San Diego Co.,"2.6 rd mi via California 76 NE of Rincon Springs, banks of Potrero Creek",33.30393333,-116.9295333
+186871,5/28/15,5.23,4.46,,0,0,0,CAS,1960,1960,2,10,Santa Cruz Co.,Aptos Creek,37.022875,-121.9032583
+180855,5/28/15,2.2,1.74,,0,0,0,CAS,1960,1960,3,24,Santa Barbara Co.,"Montecito, Manning Park",34.43479444,-119.6322944
+180856,5/28/15,8.03,8.04,,0,0,0,CAS,1960,1960,4,10,Santa Barbara Co.,"N bank of Santa Cruz Creek, near Santa Cruz Guard Station",34.631225,-119.7623361
+86691,5/29/15,4.96,4.52,substitute,0,0,0,CAS,1960,1960,4,23,Sonoma Co.,"Mills Creek, ca 3.2 mi NE of Healdsburg",38.66024722,-122.8320861
+86692,5/28/15,5.42,4.4,,0,0,0,CAS,1960,1960,4,23,Sonoma Co.,"Mills Creek, ca 3.2 mi NE of Healdsburg",38.66024722,-122.8320861
+86690,5/29/15,6.25,#VALUE!,substitute,0,0,0,CAS,1960,1960,4,23,Sonoma Co.,"Mills Creek, ca 3.2 mi NE of Healdsburg",38.66024722,-122.8320861
+91666,5/28/15,5.23,5.1,,0,0,0,CAS,1960,1960,6,,Humboldt Co.,Ferndale,40.57638889,-124.2627778
+91664,5/28/15,6.01,5.76,,0,0,0,CAS,1960,1960,6,,Humboldt Co.,Ferndale,40.57638889,-124.2627778
+91665,5/28/15,7.04,6.06,,0,0,0,CAS,1960,1960,6,,Humboldt Co.,Ferndale,40.57638889,-124.2627778
+180857,5/28/15,6.74,7.19,,0,0,0,CAS,1960,1960,10,8,Santa Barbara Co.,"Santa Ynez Mtns, Kinevan Ranch, between Rosario Park and W Camino Cielo, permanent spring near abandoned house just above confluence of the two major contributing streams comprising Rosario Creek",34.50837222,-119.8309472
+180858,5/28/15,3.83,3.39,,0,0,0,CAS,1960,1960,11,5,Santa Barbara Co.,"S and N slopes of San Rafael Mtns, Tepusquet Rd between Rancho de los Flojos and Buckhorn Canyon",34.93534444,-120.2225472
+180859,5/28/15,5.65,5.11,,0,0,0,CAS,1960,1960,11,5,Santa Barbara Co.,"S and N slopes of San Rafael Mtns, Tepusquet Rd between Rancho de los Flojos and Buckhorn Canyon",34.93534444,-120.2225472
+180862,5/27/15,6.07,5.6,,0,0,0,CAS,1960,1960,11,5,Santa Barbara Co.,road between Cat Canyon Rd and Palmer Rd (road between Canada del Gato and Cat Canyon Oil Field),34.81218889,-120.2728722
+180860,5/28/15,6.39,5.88,,0,0,0,CAS,1960,1960,11,5,Santa Barbara Co.,"S and N slopes of San Rafael Mtns, Tepusquet Rd between Rancho de los Flojos and Buckhorn Canyon",34.93534444,-120.2225472
+180861,5/28/15,6.5,6.4,,0,0,0,CAS,1960,1960,11,5,Santa Barbara Co.,"S and N slopes of San Rafael Mtns, Tepusquet Rd between Rancho de los Flojos and Buckhorn Canyon",34.93534444,-120.2225472
+180863,5/28/15,5.14,4.78,,0,0,0,CAS,1960,1960,11,6,Santa Barbara Co.,Paradise Store/California Hwy 150-to-Los Prietos Boys Camp/Oso Canyon Rd at Los Prietos Ranger Station,34.54221944,-119.7847194
+180864,5/28/15,5.62,4.26,,0,0,0,CAS,1960,1960,11,6,Santa Barbara Co.,California Hwy 150 between road to Los Prietos/Oso Canyon and Cachuma County Park,34.55165556,-119.9092472
+71620,7/7/15,3.31,2.91,MC,0,0,0,MVZ,1960,1960,11,25,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+71619,7/7/15,4.33,3.72,MC,0,0,0,MVZ,1960,1960,11,25,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+71618,7/7/15,5.03,3.38,MC,0,0,0,MVZ,1960,1960,11,25,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+71617,7/7/15,5.5,4.76,MC,0,0,0,MVZ,1960,1960,11,25,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+71616,7/7/15,6.03,5.18,MC ,0,0,0,MVZ,1960,1960,11,25,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+71615,7/7/15,7,5.92,MC,0,0,0,MVZ,1960,1960,11,25,Los Angeles County,"Madelia Canyon, Sherman Oaks, Santa Monica Mts.",34.1441269,-118.4528861
+180865,5/27/15,5.09,4.49,,0,0,0,CAS,1960,1960,12,1,Santa Barbara Co.,"Jalama Rd, 0.9 rd mi W of Jualachichi Summit",34.52718333,-120.39155
+180866,5/27/15,6.9,5.25,tail growing,0,0,0,CAS,1961,1960,1,24,Santa Barbara Co.,"US Hwy 101, 10 rd mi N of Buellton, ca 10 yds W of Hwy 101",34.72256111,-120.2092528
+180868,5/28/15,4.85,4.16,,0,0,0,CAS,1961,1960,1,25,Santa Barbara Co.,"California Hwy 150, 0.4 mi S (up) of Cold Springs",34.51627222,-119.8400917
+180869,5/27/15,5.6,4.81,,0,0,0,CAS,1961,1960,1,25,Santa Barbara Co.,"Paradise Store-Los Prietos Boys Camp Rd, 0.5 mi E of Paradise Store",34.53713056,-119.8500306
+180867,5/27/15,6.06,5.73,,0,0,0,CAS,1961,1960,1,25,Santa Barbara Co.,"California Hwy 150, 0.5 mi S (up) of Cold Springs",34.51530556,-119.8412556
+180870,5/27/15,5.73,4.01,,0,0,0,CAS,1961,1960,1,26,Santa Barbara Co.,"Figueroa Mtn Rd, 3.4 mi N of Los Olivos",34.71145556,-120.1089917
+180871,5/28/15,7.33,6.12,,0,0,0,CAS,1961,1960,1,26,Santa Barbara Co.,"Figueroa Mtn Rd, 3.2 mi N of Los Olivos",34.7089,-120.1109083
+223454,5/27/15,4.67,4.53,,0,0,0,CAS,1961,1960,2,18,Orange Co.,"Santa Ana Mtns, Traburo Canyon",33.6625195,-117.5903244
+187341,7/7/15,5.31,4.45,MC,0,0,0,MVZ,1961,1960,3,31,El Dorado County,2 mi S El Dorado on Hwy. 49,38.64541,-120.84118
+187338,7/7/15,5.6,2.86,MC,0,0,0,MVZ,1961,1960,3,31,El Dorado County,2 mi S El Dorado on Hwy. 49,38.64541,-120.84118
+187339,7/7/15,5.71,5.05,MC,0,0,0,MVZ,1961,1960,3,31,El Dorado County,2 mi S El Dorado on Hwy. 49,38.64541,-120.84118
+187342,7/7/15,5.79,4.94,MC,0,0,0,MVZ,1961,1960,3,31,El Dorado County,2 mi S El Dorado on Hwy. 49,38.64541,-120.84118
+180872,5/27/15,6.11,5.79,,0,0,0,CAS,1961,1960,4,13,Santa Barbara Co.,Juncal Public Campground,34.48861111,-119.5383333
+73266,4/1/15,2.02,1.49,ZS,0,0,0,MVZ,1961,1960,11,11,Humboldt County,Jordan Creek and U.S. Hwy. 101,40.440934,-124.0363286
+73681,2/20/15,6.34,4.97,KC,0,0,0,MVZ,1962,1960,3,10,Mendocino County,5.9 mi N (by road) junction of Robinson Creek Rd. and Boonville Rd.,39.0591727,-123.4319766
+73680,2/20/15,6.43,4.52,KC,0,0,0,MVZ,1962,1960,3,10,Mendocino County,5.9 mi N (by road) junction of Robinson Creek Rd. and Boonville Rd.,39.0591727,-123.4319766
+73679,2/20/15,7.19,5.58,KC,0,0,0,MVZ,1962,1960,3,10,Mendocino County,5.9 mi N (by road) junction of Robinson Creek Rd. and Boonville Rd.,39.0591727,-123.4319766
+187346,3/4/15,5.3,4.6,MC,0,0,0,MVZ,1962,1960,4,17,Tuolumne County,Groveland,37.838655,-120.229955
+76946,3/4/15,4.7,4.55,MC,0,0,0,MVZ,1962,1960,10,13,Tuolumne County,7.1 mi E Groveland on State Hwy. 120,37.813896,-120.116942
+76950,?,5.42,4.73,MC,0,0,0,MVZ,1962,1960,10,13,Tuolumne County,junction of Middle Fork Tuolumne River and road to Cherry Lake Reservoir,37.827888,-120.007567
+76947,3/4/15,6.81,5.93,MC,0,0,0,MVZ,1962,1960,10,13,Tuolumne County,2 mi E Groveland on State Hwy. 120,37.820884,-120.261579
+76949,3/4/15,7,6.13,MC,0,0,0,MVZ,1962,1960,10,13,Tuolumne County,junction of Middle Fork Tuolumne River and road to Cherry Lake Reservoir,37.827888,-120.007567
+76953,3/4/15,7.12,6.82,MC,0,0,0,MVZ,1962,1960,10,13,Tuolumne County,junction of State Hwy. 120 and Big Creek,37.816585,-119.930329
+76951,?,7.6,7.42,MC,0,0,0,MVZ,1962,1960,10,13,Tuolumne County,1.7 mi E (by road) Buck Meadow on Hwy. 120,37.821228,-120.032665
+76952,3/4/15,8.33,7.14,MC,0,0,0,MVZ,1962,1960,10,13,Tuolumne County,1.7 mi E Buck Meadows on State Hwy. 120,37.82109,-120.030932
+76954,3/2/15,7.99,5.1,JE,0,0,0,MVZ,1962,1960,10,14,Mariposa County,"junction of N Fork Merced River and Marble Gulch, Yosemite National Park",37.746787,-120.036157
+93525,5/29/15,6.42,5.82,,0,0,0,CAS,1962,1960,12,4,Marin Co.,"NE side of Bolinas Lagoon, along Pike County Gulch (A.J. Galloway Estate)",37.93166669,-122.6889
+76957,3/31/15,6.8,6.52,MC,0,0,0,MVZ,1962,1960,12,15,Amador County,0.7 mi N and 2.2 mi E Pioneer on State Hwy. 88,38.44408,-120.532135
+76956,3/31/15,7.24,7.13,MC,0,0,0,MVZ,1962,1960,12,15,Amador County,0.7 mi N and 2.2 mi E Pioneer on State Hwy. 88,38.44408,-120.532135
+76961,7/7/15,5.62,4.78,MC,0,0,0,MVZ,1963,1960,4,9,Madera County,"junction of Redwood Creek and Nelder Creek, near Yosemite Forks",37.366444,-119.610373
+76958,7/7/15,6.21,5.22,MC no swab in vial,0,0,0,MVZ,1963,1960,4,9,Madera County,"junction of Redwood Creek and Nelder Creek, near Yosemite Forks",37.366444,-119.610373
+76959,7/7/15,6.98,6.12,MC,0,0,0,MVZ,1963,1960,4,9,Madera County,"junction of Redwood Creek and Nelder Creek, near Yosemite Forks",37.366444,-119.610373
+76963,7/7/15,8.05,7.17,MC,0,0,0,MVZ,1963,1960,4,9,Madera County,1.4 mi NNW Bass Lake near Chepo Saddle,37.349262,-119.593512
+76962,7/7/15,8.27,7.08,MC,0,0,0,MVZ,1963,1960,4,9,Madera County,"junction of Redwood Creek and Nelder Creek, near Yosemite Forks",37.366444,-119.610373
+76966,7/7/15,5.38,4.52,MC,0,0,0,MVZ,1963,1960,4,10,Madera County,1.4 mi N Bass Lake along Slide Creek,37.349952,-119.580963
+76968,7/7/15,5.85,4.71,MC,0,0,0,MVZ,1963,1960,4,10,Madera County,1.4 mi N Bass Lake along Slide Creek,37.349952,-119.580963
+76964,7/7/15,5.92,4.82,MC,0,0,0,MVZ,1963,1960,4,10,Madera County,1.4 mi N Bass Lake along Slide Creek,37.349952,-119.580963
+76973,7/7/15,6.16,5.74,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76979,7/7/15,6.44,5.37,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76975,7/7/15,7.09,6.39,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76977,7/7/15,7.41,6.53,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76969,7/7/15,7.74,6.89,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76976,7/7/15,7.92,7.24,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76970,7/7/15,8.6,7.43,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76974,7/7/15,8.62,7.14,MC,0,0,0,MVZ,1963,1960,5,11,Madera County,Chepo Saddle near Bass Lake,37.348779,-119.592265
+76982,?,7.74,7.14,MC,0,0,0,MVZ,1963,1960,5,12,Tuolumne County,0.7 mi N and 1.1 mi E Buck Meadows,37.823303,-120.04419
+76981,?,8.44,7.23,MC,0,0,0,MVZ,1963,1960,5,12,Tuolumne County,0.7 mi N and 1.1 mi E Buck Meadows,37.823303,-120.04419
+78163,1/23/15,3.14,2.1,,0,0,0,MVZ,1964,1960,2,4,Monterey County,mouth Little Sur River,36.334112,-121.890611
+78164,3/31/15,4.47,4.02,MC,0,0,0,MVZ,1964,1960,2,23,Amador County,1 mi S Amador City,38.408481,-120.814718
+79432,3/4/15,3.8,1.47,"tail br, mc",0,0,0,MVZ,1964,1960,7,11,Napa County,"Cleary Reserve, near Aetna Spring",38.6419145,-122.486142
+79433,3/4/15,7.59,7.05,,0,0,0,MVZ,1964,1960,7,11,Napa County,"Cleary Reserve, near Aetna Spring",38.6419145,-122.486142
+78776,3/11/15,5.36,4.59,MC,0,0,0,MVZ,1964,1960,7,12,San Francisco County,South Farallon Island,37.698188,-123.002005
+79541,3/18/15,5.03,3.85,MC,0,0,0,MVZ,1964,1960,11,26,Calaveras County,Mill Creek near Avery,38.2020714,-120.3562624
+79170,3/4/15,5.56,5.1,MC,0,0,0,MVZ,1965,1960,4,15,Calaveras County,0.25 mi S Melone's,38.009004,-120.496709
+79168,3/4/15,3.12,2.28,,0,0,0,MVZ,1965,1960,4,15,Calaveras County,0.25 mi S Melone's,38.009004,-120.496709
+195644,5/27/15,6.54,6.01,,0,0,0,CAS,1966,1960,2,21,Santa Clara Co.,"Mt Madonna Rd, 4 mi W of Gilroy",37.01181944,-121.62915
+80814,3/31/15,5.29,4.99,MC,0,0,0,MVZ,1966,1960,2,25,Contra Costa County,"3 mi ESE University of California, Berkeley",37.8681856,-122.1991315
+80816,3/18/15,,,ZS not measured,0,0,0,MVZ,1966,1960,3,2,Alameda County,"10 mi SE University of California, Berkeley",37.76898,-122.12921
+83480,3/9/15,6.52,4.82,SL,0,0,0,MVZ,1966,1960,6,15,San Benito County,"Bear Gulch, Pinnacles National Monument",36.4819037,-121.1795033
+83479,3/9/15,6.64,5.73,SL,0,0,0,MVZ,1966,1960,6,15,San Benito County,"Bear Gulch, Pinnacles National Monument",36.4819037,-121.1795033
+83477,3/9/15,6.86,6,SL,0,0,0,MVZ,1966,1960,6,15,San Benito County,"Bear Gulch, Pinnacles National Monument",36.4819037,-121.1795033
+83481,3/9/15,7.07,6.9,JE,0,0,0,MVZ,1966,1960,6,15,San Benito County,"Bear Gulch, Pinnacles National Monument",36.4819037,-121.1795033
+83478,3/11/15,7.9,7.33,"ZS, gritty bumps on tail",0,0,0,MVZ,1966,1960,6,15,San Benito County,"Bear Gulch, Pinnacles National Monument",36.4819037,-121.1795033
+83483,3/11/15,1.82,0.8,ZS,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83485,3/11/15,2.79,2,ZS,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83486,3/11/15,3.91,3.08,ZS,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83493,3/9/15,3.93,2.74,JE,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83489,3/11/15,4.6,3.96,ZS,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83484,3/11/15,5,4.2,ZS,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83492,3/9/15,5.08,3.65,SL crushed eye,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83482,3/9/15,5.97,5.88,JE,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83487,3/11/15,6.1,4.7,ZS,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83491,3/9/15,6.14,3.5,JE,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83494,3/11/15,6.25,5.63,ZS,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83490,3/9/15,6.7,4.34,JE,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83488,3/9/15,6.99,5.72,SL,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+83495,3/9/15,7.47,7.16,SL,0,0,0,MVZ,1967,1960,3,1,San Benito County,"Chalone Creek, Pinnacles National Monument",36.4594291,-121.1523936
+84971,3/31/15,7.17,6.69,MC,0,0,0,MVZ,1967,1960,5,2,Contra Costa County,"1895 Tulare Ave., Richmond",37.9395604,-122.3147555
+242256,2/9/15,3.82,3.17,MC,0,0,0,MVZ,1967,1960,11,19,Sonoma County,"\Skaggs Springs, 8 mi W Geyserville\""\""\""",38.7075,-123.05602
+242257,2/9/15,4,3.48,MC,0,0,0,MVZ,1967,1960,11,19,Sonoma County,"\Skaggs Springs, 8 mi W Geyserville\""\""\""",38.7075,-123.05602
+242247,2/9/15,6.35,5.36,MC,0,0,0,MVZ,1967,1960,11,19,Sonoma County,"\Skaggs Springs, 8 mi W Geyserville\""\""\""",38.7075,-123.05602
+242210,2/18/15,2.33,1.42,KC,0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+242206,2/18/15,2.68,1.59,KC,0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+242188,2/18/15,4.02,1.87,"MC, tail growing",0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+242184,2/18/15,4.31,3.76,MC,0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+242241,2/9/15,4.81,4.68,"MC, has dark spots on belly",0,0,0,MVZ,1967,1960,12,3,Sonoma County,Skaggs Springs,38.6978,-123.047
+242244,2/9/15,5.15,4.33,MC,0,0,0,MVZ,1967,1960,12,3,Sonoma County,Skaggs Springs,38.6978,-123.047
+242177,2/18/15,5.55,5.24,MC,0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+242196,2/18/15,5.75,4.53,KC,0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+242180,2/18/15,5.99,5.49,MC,0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+242242,2/9/15,6.22,5.83,MC,0,0,0,MVZ,1967,1960,12,3,Sonoma County,Skaggs Springs,38.693173,-123.0231369
+242170,2/18/15,8.09,6.72,KC,0,0,0,MVZ,1967,1960,12,3,Mendocino County,1.0 mi NW of Navarro (N end) on Hwy. 128,39.1605248,-123.5544104
+180851,5/28/15,5.35,5.33,,0,0,0,CAS,1968,1960,2,,Contra Costa Co.,"Lafayette, 1087 Sierra Vista Way",37.89671669,-122.1169667
+242089,2/27/15,2.84,1.7,KC,0,0,0,MVZ,1968,1960,3,4,Marin County,"\Point Reyes, ca. 1 mi E of point\""\""\""",37.995,-123.007
+242084,2/27/15,4.86,3.81,KC,0,0,0,MVZ,1968,1960,3,4,Marin County,"\Point Reyes, ca. 1 mi E of point\""\""\""",37.995,-123.007
+242087,2/27/15,4.89,3.49,KC,0,0,0,MVZ,1968,1960,3,4,Marin County,"\Point Reyes, ca. 1 mi E of point\""\""\""",37.995,-123.007
+242083,2/27/15,5.05,3.9,KC,0,0,0,MVZ,1968,1960,3,4,Marin County,"\Point Reyes, ca. 1 mi E of point\""\""\""",37.995,-123.007
+242081,2/27/15,5.07,3.84,KC,0,0,0,MVZ,1968,1960,3,4,Marin County,"\Point Reyes, ca. 1 mi E of point\""\""\""",37.995,-123.007
+242086,2/27/15,5.11,3.29,KC,0,0,0,MVZ,1968,1960,3,4,Marin County,"\Point Reyes, ca. 1 mi E of point\""\""\""",37.995,-123.007
+124783,2/9/15,5.44,5.5,MC,0,0,0,MVZ,1968,1960,3,25,Sonoma County,3 mi E Geyserville,38.6994343,-122.8619759
+242155,2/18/15,6.79,6.76,MC,0,0,0,MVZ,1968,1960,4,7,Mendocino County,3 mi SE Navarro,39.15252,-123.5428661
+242152,2/18/15,8.94,7.33,"KC, speckles around vent",0.007088,0,1,MVZ,1968,1960,4,7,Mendocino County,3 mi SE Navarro,39.15252,-123.5428661
+242094,2/18/15,4.55,3.36,MC,0,0,0,MVZ,1968,1960,4,8,Mendocino County,Usal,39.8353028,-123.8432351
+242107,2/13/15,4.72,3.13,KC dark discoloration on hands and feet + skin sloughing off,0,0,0,MVZ,1968,1960,4,8,Mendocino County,Usal,39.8353028,-123.8432351
+242106,2/18/15,5.72,5.44,MC,0,0,0,MVZ,1968,1960,4,8,Mendocino County,Usal,39.8353028,-123.8432351
+242113,2/13/15,6.57,5.06,KC,0,0,0,MVZ,1968,1960,4,8,Mendocino County,Usal,39.8353028,-123.8432351
+242102,2/13/15,7.85,6.58,KC,0,0,0,MVZ,1968,1960,4,8,Mendocino County,Usal,39.8353028,-123.8432351
+242119,2/13/15,8.46,6.25,KC eggs,0,0,0,MVZ,1968,1960,4,8,Mendocino County,Usal,39.8353028,-123.8432351
+242105,2/13/15,8.5,6.11,KC dark discoloration on the feet + eggs,0,0,0,MVZ,1968,1960,4,8,Mendocino County,Usal,39.8353028,-123.8432351
+124656,2/11/15,6.49,5.8,KC,0,0,0,MVZ,1968,1960,10,6,Mendocino County,"Salmon Point, ca. 0.5 mi S Albion",39.2135875,-123.7746271
+124788,2/9/15,5.61,5.82,MC,0,0,0,MVZ,1968,1960,11,3,Sonoma County,Skaggs Springs,38.693173,-123.0231369
+124786,2/9/15,6.75,6,MC,0,0,0,MVZ,1968,1960,11,3,Sonoma County,Skaggs Springs,38.693173,-123.0231369
+124791,2/9/15,7.82,7.34,"MC, spots on chin and feet",0,0,0,MVZ,1968,1960,11,15,Sonoma County,"State Hwy. 128, 3 mi E (by road) Geyserville",38.6994343,-122.8619759
+85106,3/4/15,5.58,4.88,MC,0,0,0,MVZ,1968,1960,11,17,San Mateo County,near Bayshore Hwy. between Brisbane and S San Francisco,37.669458,-122.392774
+124665,2/11/15,8.51,7.8,"KC, eggs, scar",0,0,0,MVZ,1968,1960,11,17,Mendocino County,"McGuire Hill, State Hwy. 20 between Fort Bragg and Willits",39.3553357,-123.6194177
+242137,2/13/15,3.72,2.65,KC dark Speckles on belly and hand ,0,0,0,MVZ,1968,1960,11,24,Mendocino County,"\State Hwy 128, 2 mi SE Navarro\""\""\""",39.1278,-123.528
+242129,2/18/15,3.97,2.65,MC,0,0,0,MVZ,1968,1960,11,24,Mendocino County,"\State Hwy 128, 2 mi SE Navarro\""\""\""",39.1278,-123.528
+124667,2/11/15,2.28,1.68,MC,0,0,0,MVZ,1968,1960,12,15,Mendocino County,"Potter Valley Rd., 0.5 mi N junction with Hwy. 20",39.2502294,-123.1189002
+124671,2/11/15,6.88,5.8,KC,0,0,0,MVZ,1968,1960,12,18,Mendocino County,"Potter Valley Rd., 0.5 mi N junction with Hwy. 20",39.2502294,-123.1189002
+124676,2/11/15,6.21,5.77,ZS,0,0,0,MVZ,1968,1960,12,19,Mendocino County,"road to Usal, ca. 5 mi N Rockport",39.8253973,-123.8441312
+124681,2/11/15,5.24,4.23,KC,0,0,0,MVZ,1968,1960,12,20,Mendocino County,"\Drive-Thru-Tree\""\"", ca. 0.5 mi S Leggett on Hwy. 101\""",39.8585515,-123.7181141
+242141,2/18/15,4,2.87,MC,0,0,0,MVZ,1969,1960,1,19,Mendocino County,"\Hwy 128, 1.5 mi SE Navarro\""\""\""",39.1335778,-123.5324475
+242138,2/18/15,7.33,6.59,MC,0,0,0,MVZ,1969,1960,1,19,Mendocino County,"\Hwy 128, 1.5 mi SE Navarro\""\""\""",39.1335778,-123.5324475
+124800,2/9/15,4.09,3.48,MC,0,0,0,MVZ,1969,1960,2,1,Sonoma County,"near Sonoma Queen Mine, 3 mi N and 0.5 mi E Guerneville",38.54557,-122.98667
+145717,3/18/15,5.33,4.98,ZS,0,0,0,MVZ,1969,1960,2,1,Alameda County,"308 Hollister Ct., San Leandro",37.73955,-122.1486
+124802,2/11/15,2.64,1.96,KC,0,0,0,MVZ,1969,1960,2,27,Sonoma County,"Skaggs Springs Rd., 5 mi W Skaggs Springs",38.6985876,-123.0929147
+199855,3/31/15,3.39,3.02,MC,0.3864,0.14,1,MVZ,1969,1960,10,16,Contra Costa County,no specific locality recorded,,
+199856,3/31/15,3.63,2.56,MC,0,0,0,MVZ,1969,1960,10,16,Contra Costa County,no specific locality recorded,,
+199852,3/31/15,3.04,2.61,"MC, subs for 189847",0,0,0,,1969,1960,10,16,Contra Costa Co.,,NONE,
+124804,2/11/15,7.29,6.69,ZS,0,0,0,MVZ,1969,1960,11,7,Sonoma County,"Geyserville - Skaggs Springs Rd., 2 mi [by road] W Geyserville",38.7017142,-122.9499859
+124839,3/31/15,2.31,1.92,MC,0,0,0,MVZ,1970,1970,1,9,Lake County,"State Hwy. 53, ca. 7 mi NE (by road) Middletown",38.829714,-122.586025
+124837,3/31/15,3.76,3.15,MC,0,0,0,MVZ,1970,1970,1,9,Lake County,"State Hwy. 53, ca. 7 mi NE (by road) Middletown",38.829714,-122.586025
+124833,7/7/15,4.13,3.45,MC,0,0,0,MVZ,1970,1970,1,9,Colusa County,"Slate Rock Canyon, 0.25 mi N Bear Creek Bridge, State Hwy. 16",38.976378,-122.3378374
+89106,3/31/15,4.54,3.88,MC,0,0,0,MVZ,1970,1970,1,30,Contra Costa County,Siesta Valley below Grizzly Peak Blvd.,37.8758972,-122.2147849
+89165,3/31/15,7,6.35,MC,0,0,0,MVZ,1970,1970,1,30,Contra Costa County,Siesta Valley below Grizzly Peak Blvd.,37.8758972,-122.2147849
+89889,27-Feb,5.45,3.87,KC skin on tail sloughing ,0,0,0,MVZ,1970,1970,2,4,Marin County,"Redwood Rd. at Greenwood, San Rafael",37.9663196,-122.5402487
+89886,2/27/15,7.79,3.43,KC tail regrowing,0,0,0,MVZ,1970,1970,2,4,Marin County,"Redwood Rd. at Greenwood, San Rafael",37.9663196,-122.5402487
+90095,3/31/15,4.42,3.96,MC,0,0,0,MVZ,1970,1970,2,5,Contra Costa County,Briones Park Canyon area,37.9381323,-122.1403711
+88964,11/21/14,4.48,3.91,DA,0,0,0,MVZ,1970,1970,2,7,Monterey County,"Nacimiento-Fergusson Rd., ca. 2 mi W (by road) Nacimiento summit",36.010531,-121.45512
+88975,2/9/15,2.44,1.85,SL,0,0,0,MVZ,1970,1970,2,8,Monterey County,County Rd. G16 at junction Cachagua Rd.,36.401494,-121.579853
+88976,1/23/15,2.6,1.29,,0,0,0,MVZ,1970,1970,2,8,Monterey County,County Rd. G16 at junction Cachagua Rd.,36.401494,-121.579853
+88980,11/21/14,2.93,2.38,,0,0,0,MVZ,1970,1970,2,8,Monterey County,"County Rd. G-16, 0.5 mi NW junction S end Cachagua Rd.",36.405499,-121.587671
+88974,11/21/14,5.38,5.15,,0,0,0,MVZ,1970,1970,2,8,Monterey County,County Rd. G16 at junction Cachagua Rd.,36.401494,-121.579853
+88984,3/11/15,7.11,6.82,MC,0,0,0,MVZ,1970,1970,2,8,Santa Cruz County,"State Hwy. 9, 1.0 mi N junction Hwy. 1",36.9974077,-122.036107
+88982,11/21/14,7.47,6.4,DA,0,0,0,MVZ,1970,1970,2,8,Monterey County,"3.7 mi NW Hastings Natural History Reservation entrance, County Rd. G-16",36.4058007,-121.5894598
+88973,1/23/15,7.94,5.78,KC,0,0,0,MVZ,1970,1970,2,8,Monterey County,County Rd. G16 at junction Cachagua Rd.,36.401494,-121.579853
+89499,3/6/15,6.99,5.35,KC,0,0,0,MVZ,1970,1970,2,23,San Luis Obispo County,"State Hwy. 46, 8.9 mi W (by road) junction U.S. 101",35.538051,-120.830303
+89747,3/9/15,4.82,4.42,JE,0,0,0,MVZ,1970,1970,3,8,San Benito County,"off High Peak Trail, Pinnacles National Monument",36.53334,-121.14515
+124846,?,7.47,7.61,MC,0,0,0,MVZ,1970,1970,3,8,Tuolumne County,0.6 mi E Groveland,37.833931,-120.241469
+124844,3/4/15,7.91,7.63,MC,0,0,0,MVZ,1970,1970,3,8,Tuolumne County,0.6 mi E Groveland,37.833931,-120.241469
+124845,3/4/15,2.86,2.14,MC,0,0,0,MVZ,1970,1970,3,8,Tuolumne County,0.6 mi E Groveland,37.833931,-120.241469
+195642,5/28/15,5.83,4.99,,0,0,0,CAS,1970,1970,3,29,Santa Clara Co.,Sveadal,37.08361111,-121.7880556
+90357,2/11/15,3.05,2.36,ZS,0,0,0,MVZ,1970,1970,4,18,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+90354,2/11/15,3.42,2.3,KC,0,0,0,MVZ,1970,1970,4,18,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+90214,2/9/15,4.04,3.51,MC,0,0,0,MVZ,1970,1970,4,18,Sonoma County,"Skaggs Springs, 6.7 mi W Geyserville",38.6932765,-123.0234001
+90321,2/11/15,4.8,4.7,ZS,0,0,0,MVZ,1970,1970,4,18,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+90330,2/11/15,5.25,4.23,KC,0,0,0,MVZ,1970,1970,4,18,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+90312,2/11/15,5.95,5.54,ZS,1.904,0.46,1,MVZ,1970,1970,4,18,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+90300,2/11/15,6.29,3.48,"tail gr, ZS",0,0,0,MVZ,1970,1970,4,18,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+90335,2/11/15,7.46,7.65,ZS,0,0,0,MVZ,1970,1970,4,18,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+93367,3/18/15,2.87,2.23,ZS,0,0,0,MVZ,1970,1970,10,21,Alameda County,Redwood Canyon,37.8001866,-122.1545959
+93371,3/11/15,6.44,6.08,ZS,0,0,0,MVZ,1970,1970,10,21,Alameda County,Redwood Canyon,37.8001866,-122.1545959
+169239,2/9/15,4.14,3.67,"MC, spots on feet",0,0,0,MVZ,1970,1970,11,4,Sonoma County,"Saint Helena Rd., 2-5 mi E junction Calistoga Rd., 9 mi NE Santa Rosa",38.5193228,-122.5967231
+124711,2/11/15,3.74,3.44,MC,0,0,0,MVZ,1970,1970,11,13,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+124708,2/11/15,4.28,3.21,MC,0,0,0,MVZ,1970,1970,11,13,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+124703,2/11/15,7.02,5.33,KC,0,0,0,MVZ,1970,1970,11,13,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+124694,2/11/15,7.42,6.27,KC,0,0,0,MVZ,1970,1970,11,13,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+124691,2/11/15,7.89,7.01,ZS,0,0,0,MVZ,1970,1970,11,13,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+124697,2/11/15,7.95,5.73,KC,0,0,0,MVZ,1970,1970,11,13,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+124693,2/11/15,8.2,6.74,KC,0,0,0,MVZ,1970,1970,11,13,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+124962,2/11/15,2.6,0.64,"tail gr, MC",0,0,0,MVZ,1970,1970,11,14,Mendocino County,"road from Rockport to Usal, ca. 3 mi N Rockport",39.803939,-123.8335731
+93868,3/31/15,1.97,1.44,MC,0,0,0,MVZ,1970,1970,11,15,Lake County,"Hwy. 29, 4.8 mi S Middletown, along St. Helena Creek",38.6928576,-122.5970977
+124807,2/9/15,7.02,6.28,MC,0,0,0,MVZ,1970,1970,12,1,Sonoma County,"Big Austin Creek Rd., 1.3 mi N Cazadero",38.5455611,-123.0884072
+94515,11/21/14,4,3.72,,0,0,0,MVZ,1970,1970,12,13,Monterey County,"Hwy. 198, 24.5 mi E junction of Hwy. 101 and Hwy. 198",36.1781001,-120.6903949
+94516,11/21/14,6.53,4.26,,0,0,0,MVZ,1970,1970,12,13,Monterey County,"Hwy. 198, 24.5 mi E junction of Hwy. 101 and Hwy. 198",36.1781001,-120.6903949
+94514,11/21/14,6.54,5.99,,0,0,0,MVZ,1970,1970,12,13,Monterey County,"Hwy. 198, 24.5 mi E junction of Hwy. 101 and Hwy. 198",36.1781001,-120.6903949
+95005,3/4/15,2.13,1.64,MC,0,0,0,MVZ,1971,1970,1,16,San Mateo County,Junipero Serra County Park,37.527484,-122.356387
+95017,3/4/15,2.31,1.57,MC,0,0,0,MVZ,1971,1970,1,16,San Mateo County,"Guadalupe Canyon, San Bruno Mts.",37.688248,-122.410161
+95008,3/4/15,2.43,1.78,MC,0,0,0,MVZ,1971,1970,1,16,San Mateo County,,37.527484,-122.356387
+100120,2/9/15,2.11,1.92,SL,0,0,0,MVZ,1971,1970,1,21,Monterey County,mouth of Arroyo Seco opposite junction of Hwy. G-16 and G-17,36.280753,-121.321519
+100119,2/9/15,7.7,6.12,SL,0,0,0,MVZ,1971,1970,1,21,Monterey County,mouth of Arroyo Seco opposite junction of Hwy. G-16 and G-17,36.280753,-121.321519
+99392,3/6/15,5.02,3.09,KC,0,0,0,MVZ,1971,1970,2,12,San Luis Obispo County,"Santa Rita, Old Creek Rd., 1.7 mi W junction Vineyard Rd.",35.476581,-120.81859
+124725,2/11/15,3.85,3.18,ZS,0,0,0,MVZ,1971,1970,2,26,Mendocino County,"State Hwy. 128, ca. 3.5 mi NW Philo",39.0972987,-123.4833452
+99418,2/27/15,4.03,2.63,KC,0,0,0,MVZ,1971,1970,3,28,Marin County,"Point Reyes, summit of Inverness Ridge at Limantour Rd.",38.0595822,-122.8398418
+99419,2/27/15,4.9,4.06,KC,0,0,0,MVZ,1971,1970,3,28,Marin County,"Point Reyes, summit of Inverness Ridge at Limantour Rd.",38.0595822,-122.8398418
+98149,3/4/15,2.61,1.8,MC,0,0,0,MVZ,1971,1970,3,28,Tuolumne County,"S Fork Tuolumne River and Hwy. 120 near Rainbow Pool, 24.3 mi E (by road) Groveland",37.823399,-120.012426
+124689,2/11/15,5.87,4.96,ZS,0,0,0,MVZ,1971,1970,4,18,Mendocino County,"road from Rockport to Usal, ca. 3 mi N Rockport",39.803939,-123.8335731
+186888,5/28/15,7.04,6.94,,0,0,0,CAS,1971,1970,5,,Santa Clara Co.,"S of Evergreen, S end of Cadwallader Rd",37.30128333,-121.7865
+186859,5/28/15,6.42,6.03,,4.08,0.71,1,CAS,1971,1970,8,29,Mendocino Co.,"NW of Philo, Hendy Woods State Park",39.07111111,-123.4652778
+186858,5/28/15,6.52,5.57,,0,0,0,CAS,1971,1970,8,29,Mendocino Co.,"NW of Philo, Hendy Woods State Park",39.07111111,-123.4652778
+99095,3/31/15,5.46,5.19,MC,0,0,0,MVZ,1971,1970,9,29,Contra Costa County,Moraga Canyon Rd.,37.822097,-122.1336658
+261145,3/31/15,5.88,5.1,"MC, subs for 226067",0,0,0,,1971,1970,11,11,Contra Costa Co.,,37.872193,-122.210986
+124777,2/11/15,2.15,1.39,KC,0,0,0,MVZ,1971,1970,11,20,Mendocino County,Hwy. 128 between 0.5 and 1.5 mi W Navarro,39.1533678,-123.5609393
+124757,2/11/15,7.31,7.01,ZS,0,0,0,MVZ,1971,1970,11,20,Mendocino County,Hwy. 128 between 0.5 and 1.5 mi W Navarro,39.1533678,-123.5609393
+258486,3/18/15,2.27,1.66,MC,0,0,0,MVZ,1971,1970,12,19,Alameda County,"2326 McGee Ave., Berkeley",37.865398,-122.277257
+258500,3/18/15,6.94,5.97,MC,0,0,0,MVZ,1971,1970,12,19,Alameda County,"2326 McGee Ave., Berkeley",37.865398,-122.277257
+117630,3/18/15,6.21,5.8,MC,0,0,0,MVZ,1971,1970,12,22,Calaveras County,"Stanislaus River at Stanislaus Power Station, 9 mi [by road] NE of Vallecito",38.139825,-120.3694054
+117629,3/18/15,7.7,6.54,MC,0,0,0,MVZ,1971,1970,12,22,Calaveras County,"Stanislaus River at Stanislaus Power Station, 9 mi [by road] NE of Vallecito",38.139825,-120.3694054
+117618,3/18/15,4.07,3.81,MC,0,0,0,MVZ,1971,1970,12,31,Calaveras County,1-3 mi SW of Murphys on road to San Andreas [Utica Ditch road],38.1259002,-120.4906432
+100117,3/6/15,2.36,1.53,KC skin sloughing off,0,0,0,MVZ,1972,1970,1,22,San Luis Obispo County,2.6 mi E Hwy. 1 on San Simeon Creek Rd.,35.60918,-121.08926
+100110,3/6/15,5.99,3.62,KC,0,0,0,MVZ,1972,1970,1,22,San Luis Obispo County,"below Circle 3 Ranch, 7.5 mi NE Hwy. 1 on San Simeon Creek Rd.",35.64716,-121.04149
+100111,3/6/15,6.11,4.51,KC,0,0,0,MVZ,1972,1970,1,22,San Luis Obispo County,"below Circle 3 Ranch, 7.5 mi NE Hwy. 1 on San Simeon Creek Rd.",35.64716,-121.04149
+110600,3/6/15,6.97,5.76,KC lesions on tail,0,0,0,MVZ,1972,1970,1,22,San Luis Obispo County,"San Simeon Creek Rd., 2 mi E Hwy. 1",35.609182,-121.08926
+100087,3/6/15,2.71,1.85,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"near Rocky Butte, 14.7 km NE Hwy. 1 on San Simeon Creek Rd., ca. 900 m elevation",35.66128,-121.04885
+100091,3/6/15,5.05,3.46,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+100095,3/6/15,5.26,3.83,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+100096,3/6/15,5.61,4.19,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+100092,3/6/15,5.67,4.3,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+107191,3/6/15,6.15,4.85,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop, 1500 ft NE of summit",35.544215,-120.842456
+100089,3/6/15,6.37,4.94,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+107190,3/6/15,6.38,4.96,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop, 1500 ft NE of summit",35.544215,-120.842456
+100088,3/6/15,6.43,4.99,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+100090,3/6/15,6.82,4.95,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+107189,3/6/15,6.97,5.38,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop, 1500 ft NE of summit",35.544215,-120.842456
+100093,3/6/15,7.09,5.23,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+100094,3/6/15,7.16,6.24,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop",35.544215,-120.84246
+110601,3/6/15,7.53,5.42,KC,0,0,0,MVZ,1972,1970,1,23,San Luis Obispo County,"York Mt. Winery, on Old Hwy. 46 Loop, 1500 ft NE of summit",35.544215,-120.842456
+262958,3/31/15,2.17,1.87,MC,0,0,0,MVZ,1972,1970,2,1,Contra Costa County,Red Rock Is. 1 Feb 1972 Aneides,,
+262970,3/31/15,3.08,2.16,MC,0,0,0,MVZ,1972,1970,2,1,Contra Costa County,Red Rock Is. 1 Feb 1972 Aneides,,
+262971,3/31/15,3.34,2.77,MC,0,0,0,MVZ,1972,1970,2,1,Contra Costa County,Red Rock Is. 1 Feb 1972 Aneides,,
+262975,3/31/15,3.35,2.86,MC,0,0,0,MVZ,1972,1970,2,1,Contra Costa County,Red Rock Is. 1 Feb 1972 Aneides,,
+262977,3/31/15,4.92,4.2,MC,0,0,0,MVZ,1972,1970,2,1,Contra Costa County,Red Rock Is. 1 Feb 1972 Aneides,,
+262992,3/31/15,5.9,5.38,MC,0,0,0,MVZ,1972,1970,2,1,Contra Costa County,Red Rock Is. 1 Feb 1972 Aneides,,
+262984,3/31/15,6.52,5.34,MC,0,0,0,MVZ,1972,1970,2,1,Contra Costa County,Red Rock Is. 1 Feb 1972 Aneides,,
+100131,3/4/15,2.93,2.22,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100130,?,3.6,2.83,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100132,?,3.66,1.7,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100125,3/4/15,7,6.69,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100126,?,7.22,5.68,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100129,3/4/15,2.23,1.96,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100133,3/4/15,2.47,1.88,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100128,3/4/15,2.73,1.55,MC,0.01656,0.01,1,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+100127,3/4/15,4.34,3.66,MC,0,0,0,MVZ,1972,1970,2,19,Tuolumne County,"S side Stanislaus River, 2 mi upstream from junction S Fork Stanislaus River",38.096604,-120.408673
+107188,2/9/15,5.85,5.11,SL,0,0,0,MVZ,1972,1970,3,11,Monterey County,"Don Dahvee Park, Monterey",36.5902778,-121.8925
+145734,2/18/15,4.71,4.6,MC,0,0,0,MVZ,1972,1970,3,23,Mendocino County,"1 mi E Yorkville, near Navarro River",39.1761646,-123.689543
+145723,2/13/15,6.68,5.15,KC,0,0,0,MVZ,1972,1970,3,23,Mendocino County,"2 mi E Yorkville, near Navarro River",39.1761646,-123.689543
+145729,2/18/15,7.53,6.15,KC,0,0,0,MVZ,1972,1970,3,23,Mendocino County,"1 mi E Yorkville, near Navarro River",39.1761646,-123.689543
+105846,7/7/15,5.98,6.09,MC,0,0,0,MVZ,1972,1970,10,14,Colusa County,"Hwy. 16, 3.8 mi SE junction Hwy. 20",38.96586,-122.34074
+105994,1/23/15,2.18,1.68,MC,0,0,0,MVZ,1972,1970,10,23,Monterey County,"Coast Rd., ca. 1 mi S Little Sur River",36.31971,-121.891394
+107249,7/7/15,6.42,5.82,MC,0,0,0,MVZ,1972,1970,12,23,Los Angeles County,"2.9 mi NW Angeles Crest Hwy. on Angeles Forest Hwy., Marker 21.99",34.28,-118.17
+157993,3/9/15,4.41,4.19,JE,0,0,0,MVZ,1973,1970,1,20,San Benito County,San Juan Creek Rd. at San Juan Creek Cement Plant,36.7654,-121.48139
+157992,3/9/15,6.56,5.71,JE,0,0,0,MVZ,1973,1970,1,20,San Benito County,San Juan Creek Rd. at San Juan Creek Cement Plant,36.7654,-121.48139
+107340,3/11/15,4.83,4.42,ZS,0,0,0,MVZ,1973,1970,1,21,San Benito County,"Hwy. J-1 along Tres Pinos Creek, 3.7 mi W Panoche Pass",36.5779768,-120.77971
+107339,3/11/15,5.43,4.06,ZS,0,0,0,MVZ,1973,1970,1,21,San Benito County,"Hwy. J-1 along Tres Pinos Creek, 3.7 mi W Panoche Pass",36.5779768,-120.77971
+107338,3/11/15,7.08,6.24,ZS,0,0,0,MVZ,1973,1970,1,21,San Benito County,"Hwy. J-1 along Tres Pinos Creek, 3.7 mi W Panoche Pass",36.5779768,-120.77971
+107336,3/11/15,7.6,6.44,"ZS, speckles on feet",0,0,0,MVZ,1973,1970,1,21,San Benito County,"Hwy. J-1 along Tres Pinos Creek, 3.7 mi W Panoche Pass",36.5779768,-120.77971
+258685,3/11/15,6.25,5.12,"ZS, leg broken off",0,0,0,MVZ,1973,1970,1,25,Alameda County,"2326 McGee Ave., Berkeley",37.865398,-122.277257
+262874,3/4/15,3.08,2.56,MC skin sloughing ,0,0,0,MVZ,1973,1970,2,4,San Mateo County,"Sharp Park, San Mateo Co, Sam's Stad) 4 Feb 1973 pres. 16 march.",37.62444,-122.47583
+107276,3/2/15,3.87,3.23,SL,0,0,0,MVZ,1973,1970,2,10,Mariposa County,Briceburg,37.604935,-119.964898
+107277,2/27/15,8.34,6.61,KC skinny,0,0,0,MVZ,1973,1970,2,10,Mariposa County,Briceburg,37.604935,-119.964898
+262228,3/31/15,5.4,4.77,MC,0,0,0,MVZ,1973,1970,10,23,Contra Costa County,S.V. 23 October 1973 Area A,37.872193,-122.210986
+258779,3/11/15,2.04,1.57,ZS,0,0,0,MVZ,1973,1970,11,6,Alameda County,Berkeley 6 Nov 1973 Aneides front,37.865398,-122.277257
+258778,3/11/15,5.8,5.17,ZS,0,0,0,MVZ,1973,1970,11,6,Alameda County,Berkeley 6 Nov 1973 Aneides front,37.865398,-122.277257
+157994,3/6/15,2.47,1.5,KC,0,0,0,MVZ,1974,1970,3,4,San Luis Obispo County,Morro Rock,35.3691,-120.86661
+116516,3/11/15,3.02,2.03,ZS,0,0,0,MVZ,1974,1970,3,23,Alameda County,3 mi W San Joaquin County line on Corral Hollow Rd.,37.6488422,-121.6000498
+140886,4/1/15,6.37,6.02,ZS,0,0,0,MVZ,1974,1970,7,22,Humboldt County,5 mi NNW Weott,40.32194,-123.92111
+157991,3/9/15,2.35,1.19,JE,0,0,0,MVZ,1975,1970,2,15,San Benito County,"along Cienega Rd., 4.1 mi NW junction Old Airport Rd. just S junction Limekiln Rd.",36.6913343,-121.302692
+128370,3/11/15,2.83,2.2,ZS,0,0,0,MVZ,1975,1970,2,15,San Benito County,Panoche Rd. 1.8 mi SE Paicines,36.7153126,-121.2518703
+128369,3/9/15,4.33,2.4,SL,0,0,0,MVZ,1975,1970,2,15,San Benito County,Panoche Rd. 1.8 mi SE Paicines,36.7153126,-121.2518703
+128368,3/9/15,7.61,6.52,SL Skin is peeling,0,0,0,MVZ,1975,1970,2,15,San Benito County,Panoche Rd. 1.8 mi SE Paicines,36.7153126,-121.2518703
+128372,11/21/14,5.93,2.82,DA,0,0,0,MVZ,1975,1970,2,16,Monterey County,"Mustang Ridge, Hwy. 198, 4 mi NW Fresno County line",36.199372,-120.722163
+157606,11/21/14,4.19,3.62,DA,0,0,0,MVZ,1975,1970,2,17,Monterey County,14.2 mi SE Jolon on G-14,35.810013,-121.000636
+128373,3/9/15,8.11,7.33,SL,0,0,0,MVZ,1975,1970,2,17,San Benito County,"Old Hernandez Rd., San Lorenzo River 2.1 mi NE junction Coalinga Rd.",36.4294396,-120.9704558
+128342,3/18/15,2.41,1.61,KC,0,0,0,MVZ,1975,1970,3,5,San Diego County,"San Clemente Canyon, 1 mi E Hwy. 52 and Regents Rd.",32.84,-117.2
+128344,3/18/15,3.91,3.39,MC,0,0,0,MVZ,1975,1970,3,5,San Diego County,"San Clemente Canyon, 1 mi E Hwy. 52 and Regents Rd.",32.84,-117.2
+128341,3/18/15,3.97,2.54,KC,0,0,0,MVZ,1975,1970,3,5,San Diego County,"San Clemente Canyon, 1 mi E Hwy. 52 and Regents Rd.",32.84,-117.2
+128340,3/18/15,7.24,6.63,ZS,0,0,0,MVZ,1975,1970,3,5,San Diego County,"San Clemente Canyon, 1 mi E Hwy. 52 and Regents Rd.",32.84,-117.2
+128547,3/11/15,2.09,2.38,ZS,0,0,0,MVZ,1975,1970,3,11,San Benito County,"along Clear Creek Rd., 5.4 mi ENE junction Coalinga Rd.",36.3793994,-120.7057333
+128546,3/11/15,6.5,6.15,ZS,0,0,0,MVZ,1975,1970,3,11,San Benito County,"along Willow Creek Rd., 2.9 mi NW San Benito Post Office",36.5391278,-121.1024828
+157995,3/6/15,2.56,1.69,KC,0,0,0,MVZ,1975,1970,3,13,San Luis Obispo County,"San Simeon Cr. Rd., 1.4 mi N [by road] of Gate at Circle 3 Ranch",35.601163,-121.102336
+128548,3/6/15,7.54,6.2,KC,0,0,0,MVZ,1975,1970,3,13,San Luis Obispo County,"San Simeon Creek Rd., 0.6 mi N gate at Circle 3 Ranch",35.601163,-121.10234
+147665,2/18/15,4.4,2.05,KC,0,0,0,MVZ,1976,1970,3,14,Mendocino County,"Hwy. 20, 6.8 mi W Willits",39.392065,-123.4457362
+147666,2/13/15,5.1,3.98,KC,0,0,0,MVZ,1976,1970,3,14,Mendocino County,"Hwy. 20, 6.8 mi W Willits",39.392065,-123.4457362
+186887,5/27/15,7.04,5.73,,0,0,0,CAS,1976,1970,3,18,Santa Clara Co.,"Saratoga, Saratoga Creek",37.25597778,-122.0374
+137802,3/2/15,7.11,7.29,JE Skin decomposing,10,1.04,1,MVZ,1976,1970,4,17,Mariposa County,"10 mi NW Oakhurst on Hwy. 49, Chowchilla River Brach",37.426322,-119.723941
+148001,2/9/15,1.94,1.61,SL,0,0,0,MVZ,1976,1970,11,27,Monterey County,Hastings Natural History Reservation,36.37851365,-121.5568207
+148003,2/9/15,2.17,1.47,SL,0,0,0,MVZ,1976,1970,11,27,Monterey County,Hastings Natural History Reservation,36.37851365,-121.5568207
+148002,11/21/14,2.24,1.71,ZS,0,0,0,MVZ,1976,1970,11,27,Monterey County,Hastings Natural History Reservation,36.37851365,-121.5568207
+186883,5/28/15,7.33,6.55,,0,0,0,CAS,1976,1970,,,Santa Clara Co.,Stevens Creek Park,37.27805556,-122.0711111
+163599,2/18/15,2.48,2.12,MC,0,0,0,MVZ,1977,1970,1,7,Mendocino County,"crest of Orrs Springs Rd., 11.9 mi NW, Hwy. 101 at Ukiah",39.2155364,-123.32221
+163600,2/13/15,2.59,1.82,KC Skin sloughing off,0,0,0,MVZ,1977,1970,1,7,Mendocino County,"crest of Orrs Springs Rd., 11.9 mi NW, Hwy. 101 at Ukiah",39.2155364,-123.32221
+178477,5/29/15,5.35,5.02,,0,0,0,CAS,1977,1970,,,Santa Cruz Co.,Aptos,36.97722222,-121.8983333
+157979,2/27/15,8.61,6.41,KC second foot with 4 digits growing on top of left foot,0,0,0,MVZ,1978,1970,1,7,Mariposa County,"1.6 mi S Jerseydale Ranger Station, Jerseydale Road",37.581254,-119.851216
+157978,4/1/15,7.32,6.9,ZS has eggs,0,0,0,MVZ,1978,1970,3,12,Humboldt County,0.5 mi S Alderpoint,40.1694154,-123.608862
+157969,3/4/15,3.2,2.63,MC,0,0,0,MVZ,1978,1970,4,22,Calaveras County,"Avery Hotel, 1.1 mi NE at junction of Moran Rd. and Love Creek Rd. along Moran Creek",38.2177786,-120.3573842
+157971,3/18/15,6.41,5.77,MC,0,0,0,MVZ,1978,1970,4,22,Calaveras County,"Avery Hotel, 1.1 mi NE at junction of Moran Rd. and Love Creek Rd. along Moran Creek",38.2177786,-120.3573842
+157970,3/18/15,6.66,4.76,"MC, tail growing",0,0,0,MVZ,1978,1970,4,22,Calaveras County,"Avery Hotel, 1.1 mi NE at junction of Moran Rd. and Love Creek Rd. along Moran Creek",38.2177786,-120.3573842
+157973,3/18/15,7.24,6.79,MC,0,0,0,MVZ,1978,1970,4,23,Calaveras County,"Avery, 1.9 mi WNW Hwy. 4 along Avery-Sheep Ranch Road",38.2008372,-120.3929797
+157972,3/18/15,7.3,7.04,"MC, has eggs",0,0,0,MVZ,1978,1970,4,23,Calaveras County,"Avery, 1.9 mi WNW Hwy. 4 along Avery-Sheep Ranch Road",38.2008372,-120.3929797
+157975,3/18/15,7.33,6.56,MC,0,0,0,MVZ,1978,1970,4,23,Calaveras County,"Avery, 1.9 mi WNW Hwy. 4 along Avery-Sheep Ranch Road",38.2008372,-120.3929797
+157977,3/18/15,7.5,5.7,MC,0,0,0,MVZ,1978,1970,4,23,Calaveras County,"Avery, 1.9 mi WNW Hwy. 4 along Avery-Sheep Ranch Rd.",38.2300585,-120.368557
+157974,3/18/15,7.81,7.2,MC,0,0,0,MVZ,1978,1970,4,23,Calaveras County,"Avery, 1.9 mi WNW Hwy. 4 along Avery-Sheep Ranch Road",38.2008372,-120.3929797
+193009,3/18/15,7.47,6.64,ZS,0,0,0,MVZ,1979,1970,1,9,Alameda County,North Berkeley,37.88075,-122.2774
+167495,3/9/15,2.26,1.45,JE,0,0,0,MVZ,1979,1970,1,28,San Benito County,"5.4 mi SE junction with Hwy. 156 at San Juan Bautista, San Juan Rd.",36.7963884,-121.4701542
+168837,3/4/15,8.37,7.11,MC,0,0,0,MVZ,1979,1970,3,27,San Mateo County,A??o Nuevo Island,37.108287,-122.335952
+193541,3/18/15,5.98,5.03,"MC, head crushed ",0,0,0,MVZ,1979,1970,11,3,Calaveras County,2.4 mi S (by road) Murphys,38.1137547,-120.4539795
+158401,3/18/15,4.62,3.78,MC,0,0,0,MVZ,1979,1970,11,4,Calaveras County,"Hwy. 4, 0.8 mi N Avery",38.216704,-120.3698208
+158412,11/21/14,7.61,7.51,DA,0,0,0,MVZ,1979,1970,11,9,Monterey County,"4.4 mi NW junction Martin Rd., Carmel Valley Rd.",36.424764,-121.617498
+172620,11/21/14,5.37,4.76,SL,0,0,0,MVZ,1979,1970,11,10,Monterey County,"Hastings Natural History Reservation, Carmel Valley",36.37851365,-121.5568207
+172621,11/21/14,5,4.31,DA,0,0,0,MVZ,1979,1970,11,18,Monterey County,"Hastings Natural History Reservation, Carmel Valley",36.37851365,-121.5568207
+172619,11/21/14,3.68,3.34,ZS,0,0,0,MVZ,1979,1970,11,19,Monterey County,"Carmel Valley Rd. [G16], 4.4 mi NW junction Martin Rd.",36.424764,-121.617498
+172617,3/18/15,5.61,4.97,MC,0,0,0,MVZ,1979,1970,11,24,Calaveras County,Murphys Grade at W end Murphys,38.1349845,-120.4723234
+172615,3/18/15,7.37,6.79,"MC, has eggs",0,0,0,MVZ,1979,1970,11,24,Calaveras County,"Avery, corner of Fullen Rd. and Avery Sheep Ranch Rd., 2.2 mi WSW Hwy. 4",38.1947643,-120.4030052
+172616,3/18/15,4.18,3.73,MC,0,0,0,MVZ,1980,1980,2,16,Calaveras County,"Avery, 2.1 mi WSW Hwy. 4 on Sheep Ranch",38.1997677,-120.3963356
+172613,3/18/15,6.83,6.52,MC,0,0,0,MVZ,1980,1980,2,16,Calaveras County,"vicinity of Avery, ca. 1.6 NE Hwy. 4 on Moran Rd.",38.2221908,-120.3578736
+158405,3/18/15,7.54,6.58,"MC, has 20+eggs",0,0,0,MVZ,1980,1980,3,1,Calaveras County,3.2 mi W (by air) West Point,38.400233,-120.5868731
+175417,3/31/15,2.6,1.77,MC,0,0,0,MVZ,1980,1980,3,8,Amador County,"3.0 mi SE (by air) Fiddletown, Rancheria Creek-Oak Woodland Transect",38.473113,-120.7165
+175416,3/31/15,3.04,2.13,MC,0,0,0,MVZ,1980,1980,3,8,Amador County,"3.0 mi SE (by air) Fiddletown, Rancheria Creek-Oak Woodland Transect",38.473113,-120.7165
+173088,2/18/15,2.98,2.54,MC,0,0,0,MVZ,1980,1980,3,16,Mendocino County,"13 mi E (by road) Fort Bragg on Hwy. 20, at McGuire Hill",39.3553357,-123.6194177
+173089,2/13/15,3.09,2.44,KC,0,0,0,MVZ,1980,1980,3,16,Mendocino County,"13 mi E (by road) Fort Bragg on Hwy. 20, at McGuire Hill",39.3553357,-123.6194177
+173090,2/13/15,3.13,2.29,KC,0,0,0,MVZ,1980,1980,3,16,Mendocino County,"13 mi E (by road) Fort Bragg on Hwy. 20, at McGuire Hill",39.3553357,-123.6194177
+173105,2/18/15,4.68,4.31,MC,0,0,0,MVZ,1980,1980,3,16,Mendocino County,4.1 mi S Usal,39.77594,-123.84329
+173067,4/1/15,4.9,4.23,ZS in humboldt jar,0,0,0,MVZ,1980,1980,3,16,Mendocino County,0.8 mi S (by road) Leggett at Drive-Through Tree,39.8585581,-123.7181295
+173104,2/18/15,6.12,5.7,MC,0,0,0,MVZ,1980,1980,3,16,Mendocino County,4.1 mi S Usal,39.77594,-123.84329
+173101,2/18/15,6.8,5.23,KC,0,0,0,MVZ,1980,1980,3,16,Mendocino County,4.1 mi S Usal,39.77594,-123.84329
+173066,4/1/15,6.85,6.5,ZS in humboldt jar,0,0,0,MVZ,1980,1980,3,16,Mendocino County,0.8 mi S (by road) Leggett at Drive-Through Tree,39.8585581,-123.7181295
+173103,2/13/15,6.95,5.28,KC,0,0,0,MVZ,1980,1980,3,16,Mendocino County,4.1 mi S Usal,39.77594,-123.84329
+173102,2/13/15,8.84,6.75,KC 3 extra toes,0,0,0,MVZ,1980,1980,3,16,Mendocino County,4.1 mi S Usal,39.77594,-123.84329
+173098,2/18/15,2.67,1.64,KC,0,0,0,MVZ,1980,1980,4,2,Mendocino County,"ca. 0.5 mi N Philo on Hwy. 128, near Methodist Church",39.0673447,-123.447029
+173099,2/13/15,2.93,1.92,KC,0,0,0,MVZ,1980,1980,4,2,Mendocino County,"ca. 0.5 mi N Philo on Hwy. 128, near Methodist Church",39.0673447,-123.447029
+173087,2/13/15,3.09,1.9, ,0,0,0,MVZ,1980,1980,4,2,Mendocino County,3.5 mi SE Navarro on Hwy. 128,39.1171101,-123.4978847
+173097,2/13/15,3.24,2.56,KC,0,0,0,MVZ,1980,1980,4,2,Mendocino County,"ca. 0.5 mi N Philo on Hwy. 128, near Methodist Church",39.0673447,-123.447029
+173096,2/18/15,4.46,2.37,KC,10.08,1.04,1,MVZ,1980,1980,4,2,Mendocino County,"ca. 0.5 mi N Philo on Hwy. 128, near Methodist Church",39.0673447,-123.447029
+173095,2/13/15,5.04,1.36,KC tail missing with regrowth,0,0,0,MVZ,1980,1980,4,2,Mendocino County,"ca. 0.5 mi N Philo on Hwy. 128, near Methodist Church",39.0673447,-123.447029
+173069,3/2/15,2.71,2.42,,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"5 mi N (by air) Coulterville, Servaes-Pine Transect",37.782782,-120.194697
+173068,3/2/15,2.83,2.37,SL,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"5 mi N (by air) Coulterville, Servaes-Pine Transect",37.782782,-120.194697
+173071,3/2/15,2.89,2.2,SL,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"5 mi N (by air) Coulterville, Servaes-Pine Transect",37.782782,-120.194697
+173070,3/2/15,2.95,2.24,JE,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"5 mi N (by air) Coulterville, Servaes-Pine Transect",37.782782,-120.194697
+173072,3/2/15,3.07,2.35,JE,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"5 mi N (by air) Coulterville, Servaes-Pine Transect",37.782782,-120.194697
+173085,3/2/15,6.57,6.8,JE,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+173084,3/2/15,6.59,6.56,JE,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+173082,3/2/15,7.43,7.4,JE,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+173086,3/2/15,7.47,6.69,JE,0.7832,0.25,1,MVZ,1980,1980,4,6,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+173083,3/2/15,7.75,8.13,JE,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+173080,2/27/15,8.49,6.06,KC,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+173081,2/27/15,9.46,6.11,KC scars on body,0,0,0,MVZ,1980,1980,4,6,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+173093,2/18/15,5.96,4.37,KC,1.16,0.33,1,MVZ,1980,1980,4,9,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+173092,2/18/15,6.59,5.3,"KC, eggs",0,0,0,MVZ,1980,1980,4,9,Mendocino County,"Hwy. 128, 2.1 mi SE Navarro",39.1287679,-123.5090053
+173100,2/13/15,3.13,1.99,KC,0,0,0,MVZ,1980,1980,4,19,Mendocino County,"ca. 0.5 mi N Philo on Hwy. 128, near Methodist Church",39.0673447,-123.447029
+158406,3/18/15,7.28,6.7,MC,0,0,0,MVZ,1980,1980,4,27,Calaveras County,"8.5 mi SE (by air) West Point at Gold King Mine, Sandoz-Fir Transect",38.3428979,-120.3961373
+158407,3/18/15,8.39,7.64,"MC, has eggs",0,0,0,MVZ,1980,1980,4,27,Calaveras County,"8.5 mi SE (by air) West Point at Gold King Mine, Sandoz-Fir Transect",38.3428979,-120.3961373
+173065,3/18/15,4.02,3.43,MC,0,0,0,MVZ,1980,1980,4,29,Calaveras County,8.5 mi SE (by air) West Point at Gold King Mine,38.3428979,-120.3961373
+158411,3/2/15,5.81,5.13,JE,0,0,0,MVZ,1980,1980,5,31,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+158410,3/2/15,7.81,7.68,JE,0,0,0,MVZ,1980,1980,5,31,Mariposa County,"Wagner Ridge-Pine Transect, 5.5 mi NNE (by air) Coulterville",37.78323,-120.157653
+197753,2/13/15,2.53,1.59,"KC missing leg and arm, skin sloughing off ",0,0,0,MVZ,1980,1980,12,4,Mendocino County,"Philo Methodist Church, Philo",39.065654,-123.4395451
+197752,2/18/15,5.34,3.61,"KC, back right leg stump",0,0,0,MVZ,1980,1980,12,4,Mendocino County,"Philo Methodist Church, Philo",39.065654,-123.4395451
+180461,3/18/15,1.8,1.26,ZS,0,0,0,MVZ,1981,1980,1,4,Alameda County,"2637 Durant, near College Ave., Berkeley",37.8684387,-122.2546465
+180506,3/18/15,4.56,4.14,ZS,0,0,0,MVZ,1981,1980,1,4,Alameda County,"2637 Durant, near College Ave., Berkeley",37.8684387,-122.2546465
+180508,3/18/15,5.84,5.22,ZS,0,0,0,MVZ,1981,1980,1,4,Alameda County,"2637 Durant, near College Ave., Berkeley",37.8684387,-122.2546465
+180463,3/18/15,6.78,6.19,ZS,0,0,0,MVZ,1981,1980,1,4,Alameda County,"2637 Durant, near College Ave., Berkeley",37.8684387,-122.2546465
+180464,3/11/15,7.05,6.01,ZS,0,0,0,MVZ,1981,1980,1,4,Alameda County,"2637 Durant, near College Ave., Berkeley",37.8684387,-122.2546465
+180468,3/18/15,7.31,6.01,ZS,0,0,0,MVZ,1981,1980,1,4,Alameda County,"2637 Durant, near College Ave., Berkeley",37.8684387,-122.2546465
+178615,2/18/15,4,3.5,MC,0,0,0,MVZ,1981,1980,1,24,Mendocino County,0.6 mi SE Yorkville on Rte. 128,38.892999,-123.2074466
+178616,2/18/15,4.69,3.25,KC,0,0,0,MVZ,1981,1980,1,24,Mendocino County,0.6 mi SE Yorkville on Rte. 128,38.892999,-123.2074466
+178614,2/18/15,4.73,0.61,"KC, tail growing",0,0,0,MVZ,1981,1980,1,24,Mendocino County,"McGuire Hill, 14 mi E Hwy. 1 on Hwy. 10",39.3579414,-123.6246019
+178613,2/18/15,5.34,4.88,MC,0,0,0,MVZ,1981,1980,1,24,Mendocino County,"McGuire Hill, 14 mi E Hwy. 1 on Hwy. 10",39.3579414,-123.6246019
+178617,2/13/15,7.62,5.91,KC,0,0,0,MVZ,1981,1980,1,24,Mendocino County,0.6 mi SE Yorkville on Rte. 128,38.892999,-123.2074466
+178612,2/13/15,7.79,6.44,KC,0,0,0,MVZ,1981,1980,1,24,Mendocino County,"McGuire Hill, 14 mi E Hwy. 1 on Hwy. 10",39.3579414,-123.6246019
+193005,2/13/15,N/A,5.91,KC missing head and entire dorsal discolored (looks 'bleached'),0,0,0,MVZ,1981,1980,1,24,Mendocino County,McGuire Hill,39.3554915,-123.6215006
+178599,4/1/15,2.76,1.97,ZS,0,0,0,MVZ,1981,1980,1,25,Humboldt County,Alderpoint,40.1767264,-123.6102663
+177826,2/27/15,6.79,5.57,KC,0,0,0,MVZ,1981,1980,3,1,Marin County,"2800 Block, Sir Francis Drake Blvd., Fairfax",38.0111745,-122.6156175
+158903,11/21/14,4.98,5.11,ZS,0,0,0,MVZ,1981,1980,3,20,Monterey County,"Big Creek Reserve, South Access Rd.",36.05896,-121.589062
+158428,3/11/15,4.28,3.47,MC,0,0,0,MVZ,1981,1980,10,8,San Francisco County,Southeast Farallon Island,37.698188,-123.002005
+158426,3/11/15,5.11,4.63,MC,0,0,0,MVZ,1981,1980,10,8,San Francisco County,Southeast Farallon Island,37.698188,-123.002005
+158419,3/11/15,6.01,5.41,"MC, foot growing back",0,0,0,MVZ,1981,1980,10,8,San Francisco County,Southeast Farallon Island,37.698188,-123.002005
+158403,3/18/15,2.27,1.78,MC,0,0,0,MVZ,1981,1980,11,14,Calaveras County,"0.5 mi SE (by air) Avery, E side Hunter Reservoir",38.1999081,-120.3571376
+178618,11/21/14,5.82,5.06,,0,0,0,MVZ,1981,1980,11,15,Monterey County,Hastings Natural History Reservation,36.37851365,-121.5568207
+176582,3/18/15,5.32,5.09,"MC, leg broken off",0,0,0,MVZ,1981,1980,11,16,Alameda County,Berkeley,37.8697904,-122.2715302
+176580,3/18/15,5.53,4.56,MC,0,0,0,MVZ,1981,1980,11,16,Alameda County,Berkeley,37.8697904,-122.2715302
+176584,3/18/15,5.64,4.8,"ZS, leg broken, bone showing",0,0,0,MVZ,1981,1980,11,16,Alameda County,Berkeley,37.8697904,-122.2715302
+176579,3/18/15,5.7,4.89,"ZS, leg broken, bone showing",0,0,0,MVZ,1981,1980,11,16,Alameda County,Berkeley,37.8697904,-122.2715302
+176581,3/18/15,6,5.27,"MC, leg broken off",0,0,0,MVZ,1981,1980,11,16,Alameda County,Berkeley,37.8697904,-122.2715302
+176583,3/18/15,5.9,5.29,ZS subs for 175087,0,0,0,,1981,1980,11,18,Alameda Co.,,37.8697904,-122.2715302
+158439,2/13/15,8.47,6.58,KC Skin sloughing off,1.696,0.43,1,MVZ,1981,1980,12,4,Mendocino County,"Philo, in Pasture adjacent to Philo Methodist Church",39.0654815,-123.4390609
+158438,2/13/15,8.65,7.05,KC eggs ,0,0,0,MVZ,1981,1980,12,4,Mendocino County,"Philo, in Pasture adjacent to Philo Methodist Church",39.0654815,-123.4390609
+158441,2/18/15,8.65,6.23,KC,0,0,0,MVZ,1981,1980,12,4,Mendocino County,"Philo, in Pasture adjacent to Philo Methodist Church",39.0654815,-123.4390609
+154650,5/28/15,5.98,5.14,,5.968,0.84,1,CAS,1981,1980,12,15,Marin Co.,Belvedere,37.87277778,-122.4633333
+186894,5/28/15,5.88,#VALUE!,,0,0,0,CAS,1982,1980,2,4,Santa Clara Co.,"Evergreen, 5105 San Felipe Rd",37.29528333,-121.76835
+178602,3/31/15,7.38,6.9,"MC, has eggs",0,0,0,MVZ,1982,1980,3,11,Lake County,"Squaw Valley Creek, 6 mi S and 0.5 mi E Hull Mt.",39.4385344,-122.9267855
+178479,5/27/15,8.17,6.36,,0,0,0,CAS,1982,1980,3,,Solano Co.,"near Pena Adobe, SW of Vacaville",38.33777222,-122.0146389
+178601,4/1/15,4.37,3.91,ZS,0,0,0,MVZ,1982,1980,4,11,Humboldt County,"12.2 mi NE (by road) Honeydew Bridge, between Weott and Honeydew",40.3255839,-124.051716
+178600,4/1/15,8.45,7.1,ZS tail broken,0,0,0,MVZ,1982,1980,4,11,Humboldt County,"near Petrolia, 12.0 mi NW (by road) Honeydew",40.3038468,-124.2551444
+178475,5/27/15,8.22,7.32,,0,0,0,CAS,1982,1980,4,20,San Mateo Co.,"NW San Bruno Mtn, jct Guadalupe Canyon Rd and Radio Rd",37.69458332,-122.43655
+181188,2/9/15,6.57,5.92,MC,0,0,0,MVZ,1982,1980,10,31,Sonoma County,Skaggs Springs,38.693173,-123.0231369
+177881,3/18/15,6.1,5.8,MC,0,0,0,MVZ,1982,1980,12,10,Calaveras County,ca. 1 mi W (by air) Avery,38.2078291,-120.3902568
+177877,3/4/15,4.28,3.68,MC,0,0,0,MVZ,1982,1980,12,12,Tuolumne County,"Alder Spring vicinity, ca. 2 mi E (by air) Tuolumne",37.958097,-120.152258
+177878,3/4/15,2.15,1.93,MC,0,0,0,MVZ,1982,1980,12,12,Tuolumne County,"Alder Spring vicinity, ca. 2 mi E (by air) Tuolumne",37.958097,-120.152258
+181421,3/18/15,7.89,6.72,"MC, has ~12 eggs",0,0,0,MVZ,1983,1980,2,20,Calaveras County,ca. 1 mi W (by air) Avery,38.2063873,-120.3852525
+227680,3/31/15,6.69,5.48,MC,0.3928,0.14,1,MVZ,1983,1980,3,11,Amador County,0.3 mi NE of Pine Grove on road to Volcano at Grass Valley Creek,38.414308,-120.642136
+181452,3/31/15,4.46,3.74,MC,0,0,0,MVZ,1983,1980,3,12,Amador County,Volcano,38.442567,-120.630131
+181451,3/31/15,7,5.68,MC,0,0,0,MVZ,1983,1980,3,12,Amador County,Volcano,38.442567,-120.630131
+190952,7/7/15,7.36,6.85,"MC, has eggs",52.32,1.73,1,MVZ,1983,1980,3,12,Los Angeles County,"Altadena, San Gabriel Mts., Arroyo Seco",34.2,-118.16
+181929,3/18/15,4.43,3.97,"MC, subs for 181450",0,0,0,,1983,1980,3,13,Calaveras County,,38.2100493,-120.3841675
+181426,3/18/15,2.92,2.18,MC,9.36,1.02,1,MVZ,1983,1980,3,20,San Diego County,"Ramona Forest Station, lower slopes Woodson Mt., ca. 6.7 mi SW (by road) Ramona",33,-116.95
+181423,3/18/15,4.09,3.37,ZS extra toe/limb projection,0,0,0,MVZ,1983,1980,3,20,San Diego County,3.4 mi E Ramona on Hwy. 78,33.05,-116.81
+181425,3/18/15,4.81,3.97,ZS,0.6192,0.21,1,MVZ,1983,1980,3,20,San Diego County,"Ramona Forest Station, lower slopes Woodson Mt., ca. 6.7 mi SW (by road) Ramona",33,-116.95
+181424,3/18/15,5.4,4.45,MC,7.296,0.92,1,MVZ,1983,1980,3,20,San Diego County,"Ramona Forest Station, lower slopes Woodson Mt., ca. 6.7 mi SW (by road) Ramona",33,-116.95
+181358,3/18/15,6.06,5.69,MC,6.552,0.88,1,MVZ,1983,1980,3,20,San Diego County,Mt. Woodson,33,-116.97
+181422,3/18/15,7.39,6.5,"MC, eggs",0,0,0,MVZ,1983,1980,3,20,San Diego County,3.4 mi E Ramona on Hwy. 78,33.05,-116.81
+213101,3/11/15,6.81,5.96,"ZS, has eggs",0,0,0,MVZ,1983,1980,4,1,San Benito County,vicinity of Pinnacles National Monument,36.4870962,-121.2136366
+181435,3/18/15,7.48,6.51,"MC, has eggs",0,0,0,MVZ,1983,1980,4,11,Calaveras County,ca. 1 mi WNW (by air) Avery,38.2119522,-120.3848843
+227111,3/18/15,5.93,3.87,"MC, tail broken",0,0,0,MVZ,1983,1980,10,1,Calaveras County,2.5 mi NE of Mokelumne Hill on Hwy. 26,38.3086818,-120.6666153
+186860,5/28/15,8.04,7.01,,3.568,0.66,1,CAS,1983,1980,12,30,San Benito Co.,"Pinnacles National Monument, Chaparral Camp",36.49268333,-121.2095
+186890,5/28/15,2.02,1.47,,0,0,0,CAS,1984,1980,2,7,Santa Clara Co.,"San Jose, 278 South 10th St",37.33665,-121.8777333
+186891,5/28/15,2.46,1.93,,0,0,0,CAS,1984,1980,2,7,Santa Clara Co.,"San Jose, 278 South 10th St",37.33665,-121.8777333
+186893,5/29/15,7.13,6.69,,0,0,0,CAS,1984,1980,3,1,Santa Clara Co.,"San Jose, 559 North San Pedro St",37.34505,-121.90035
+214425,7/7/15,8.51,7.67,MC,0,0,0,MVZ,1985,1980,3,28,Los Angeles County,"Coldbrook Campground, San Gabriel Mts.",34.2924211,-117.8380711
+186896,5/28/15,2.44,1.71,,0,0,0,CAS,1987,1980,1,19,Santa Clara Co.,"S San Jose, E of Cottonwood Lake, Silver Creek Hills",37.28113889,-121.7913028
+205451,3/11/15,1.92,1.5,MC,0,0,0,MVZ,1987,1980,2,12,Orange County,"Hot Springs Canyon, 2 km N of Ortega Hwy. at Lazy W Camp",33.6,-117.5
+205449,3/11/15,2,0.7,"MC, tail broken",0,0,0,MVZ,1987,1980,2,12,Orange County,"Hot Springs Canyon, 2 km N of Ortega Hwy. at Lazy W Camp",33.6,-117.5
+205450,3/11/15,2.01,1.41,MC,0,0,0,MVZ,1987,1980,2,12,Orange County,"Hot Springs Canyon, 2 km N of Ortega Hwy. at Lazy W Camp",33.6,-117.5
+205457,3/11/15,2.48,2.2,MC,0,0,0,MVZ,1987,1980,2,12,Orange County,"Holy Jim Canyon, 0.3 mi N Trabuco Canyon Rd., in Woodpile in Front of Cabin 14",33.68,-117.51
+205458,3/11/15,2.59,2.04,MC,0,0,0,MVZ,1987,1980,2,12,Orange County,"Holy Jim Canyon, 0.3 mi N Trabuco Canyon Rd., in Woodpile in Front of Cabin 14",33.68,-117.51
+205456,3/11/15,4.26,3.62,MC,0,0,0,MVZ,1987,1980,2,12,Orange County,"Holy Jim Canyon, 0.3 mi N Trabuco Canyon Rd., in Woodpile in Front of Cabin 14",33.68,-117.51
+205455,3/11/15,4.87,4.34,MC,0,0,0,MVZ,1987,1980,2,12,Orange County,"Holy Jim Canyon, 0.3 mi N Trabuco Canyon Rd., in Woodpile in Front of Cabin 14",33.68,-117.51
+205452,3/11/15,5.58,5.29,MC,0,0,0,MVZ,1987,1980,2,12,Orange County,"Hot Springs Canyon, 2 km N of Ortega Hwy. at Lazy W Camp",33.6,-117.5
+205453,3/11/15,8.08,7.93,"MC, has eggs",0,0,0,MVZ,1987,1980,2,12,Orange County,"Holy Jim Canyon, 0.3 mi N Trabuco Canyon Rd., in Woodpile in Front of Cabin 14",33.68,-117.51
+205459,3/18/15,8.35,6.61,ZS has eggs,0,0,0,MVZ,1987,1980,2,16,San Diego County,"between Lawson Creek and U.S. Forest Service border above Sweetwater River, ca. 5 mi SE Dehesa Road on Sloan Canyon road",32.77,-116.79
+205630,3/11/15,5.04,4.43,MC,0,0,0,MVZ,1987,1980,2,28,Santa Barbara County,"0.4 mi N (by air) junction of Hwy. 1 and Burton Mesa Blvd., Burton Mesa SE of Vandenburg Village",34.7425763,-120.5745345
+205629,3/11/15,6.36,5.54,MC,0,0,0,MVZ,1987,1980,2,28,Santa Barbara County,"0.4 mi N (by air) junction of Hwy. 1 and Burton Mesa Blvd., Burton Mesa SE of Vandenburg Village",34.7425763,-120.5745345
+205626,3/11/15,6.15,5.74,MC,0,0,0,MVZ,1987,1980,3,5,Santa Barbara County,"Aliso Canyon Rd., 6.1 mi NE junction Hwy. 101 [Ne of Los Alamos]",34.8207573,-120.3523794
+205627,3/11/15,6.27,4.83,MC,0,0,0,MVZ,1987,1980,3,5,Santa Barbara County,"S slope Santa Ynez Mts., Refugio Canyon Rd., 2.3 mi N junction Hwy. 101",34.5319429,-120.0604784
+205448,3/11/15,2.87,2.25,MC,0,0,0,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+205447,3/11/15,5.22,4.13,MC,0,0,0,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+205446,3/11/15,5.28,4,MC,0,0,0,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+205442,3/11/15,6.72,6.13,"MC, eggs",0,0,0,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+205441,3/11/15,6.9,5.97,MC,0.172,0.07,1,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+205443,3/11/15,7,5.92,MC,0,0,0,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+205445,3/11/15,7.16,7.09,MC,0,0,0,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+205444,3/11/15,7.94,7.26,MC,0,0,0,MVZ,1987,1980,3,7,Orange County,1.25-1.5 km S Sand Canyon Reservoir at junction of Shady Canyon and 2 unnamed canyons,33.63063,-117.79542
+206249,7/7/15,2.85,1.98,MC,0,0,0,MVZ,1987,1980,3,28,Los Angeles County,"along Soldier Creek, N of Hwy. 39, 0.15 mi E Falling Springs Resort",34.302947,-117.836592
+186901,5/27/15,6.12,5.46,,0,0,0,CAS,1987,1980,4,2,Santa Clara Co.,2 mi SE of Saratoga Gap,37.23460278,-122.1031194
+207641,3/18/15,6.34,5.66,MC,0,0,0,MVZ,1987,1980,4,6,Calaveras County,3.3 mi E (by air) Independence,38.3518343,-120.4586056
+207611,3/11/15,5.11,4.55,MC,0,0,0,MVZ,1987,1980,10,27,Santa Barbara County,"Clark Ave., 1.7 mi E junction Hwy. 101, 3.7 mi E Orcutt",34.8655334,-120.3627715
+207612,3/11/15,6.02,5.19,MC,0,0,0,MVZ,1987,1980,10,27,Santa Barbara County,"Clark Ave., 1.5 mi E junction Hwy. 101, 3.5 mi E Orcutt",34.8656371,-120.3666518
+207610,3/11/15,6.49,5.83,MC,0,0,0,MVZ,1987,1980,10,27,Santa Barbara County,"Clark Ave., 1.1 mi E junction Hwy. 101, 3.1 mi E Orcutt",34.8657407,-120.3737865
+207609,3/11/15,6.09,4.77,MC,0,0,0,MVZ,1987,1980,10,31,Santa Barbara County,"Rancho San Julian, Hwy. 1, 5.6 mi NW junction Hwy. 101 at Las Cruces",34.5067547,-120.2302431
+208357,3/18/15,2.32,1.87,MC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208355,3/18/15,3.35,2.84,MC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208350,3/18/15,3.59,2.91,MC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208356,3/18/15,3.65,2.58,KC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208354,3/18/15,3.69,3.29,MC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208349,3/18/15,3.88,3.14,MC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208353,3/18/15,3.9,2.87,KC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208351,3/18/15,4,2.96,KC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+208348,3/18/15,7.34,6.84,MC,0,0,0,MVZ,1987,1980,12,20,San Diego County,"0.5 mi E of intersection of Regents Rd. and Hwy. 52, San Clemente Canyon",32.84,-117.2
+186863,5/28/15,4.79,4.15,,0,0,0,CAS,1988,1980,2,20,Monterey Co.,Los Padres Dam,36.38583333,-121.6672222
+169495,5/27/15,8.03,7.62,,0,0,0,CAS,1988,1980,2,,San Francisco Co.,"San Francisco, Bernal Heights",37.74305556,-122.4147222
+186864,5/28/15,6.77,3.96,tail growing,0,0,0,CAS,1988,1980,3,5,San Benito Co.,"La Gloria Rd, 4.9 mi W of Hwy 25",36.55215003,-121.2612333
+186866,5/28/15,8.07,7.13,,0,0,0,CAS,1988,1980,3,5,San Benito Co.,"La Gloria Rd, 1.5 mi W of Hwy 25",36.56589998,-121.2067667
+208360,2/9/15,6.08,6.44,MC,0,0,0,MVZ,1988,1980,3,13,Sonoma County,"Buddhist Monastery, Tin Barn Rd.",38.6104372,-123.2801315
+186867,5/28/15,6.46,5.48,,0,0,0,CAS,1988,1980,3,13,San Luis Obispo Co.,"12 mi W of Paso Robles, Klau, Buena Vista Mine",35.61936389,-120.8951
+186868,5/27/15,7.77,7.37,,0,0,0,CAS,1988,1980,3,26,Madera Co.,central E shore of Bass Lake,37.31466665,-119.5433333
+232809,11/21/14,5.96,5.06,,0,0,0,MVZ,1988,1980,4,18,Monterey County,"Madrone Canyon, Hastings Natural History Reservation, Monterey County, CA",36.4083608,-121.5201552
+186869,5/29/15,7.54,6.8,,0,0,0,CAS,1988,1980,7,9,Tuolumne Co.,"Cherry Lake Rd, just S of Cherry Reservoir",37.97203611,-119.9195694
+211866,11/21/14,7.8,6.8,SL,0,0,0,MVZ,1988,1980,7,12,Monterey County,"Madrone Canyon, Hastings Natural History Reservation",36.4083608,-121.5201552
+222529,11/21/14,7.79,7.26,,0,0,0,MVZ,1989,1980,1,1,Monterey County,"Olmstead Ranch, near Toro Regional Park, 2 mi S Furthest Picnic Grounds of Toro Regional Park",36.578643,-121.665928
+222530,11/21/14,8.11,7.97,SL,0,0,0,MVZ,1989,1980,1,1,Monterey County,"Olmstead Ranch, near Toro Regional Park, 2 mi S Furthest Picnic Grounds of Toro Regional Park",36.578643,-121.665928
+232815,2/9/15,1.98,1.3,MC,0,0,0,MVZ,1989,1980,1,6,Sonoma County,"Montgomery Dr. 100 yds. West of Summerfield road, north side of the road, Santa Rosa, Sonoma County: California",38.45518,-122.6742
+232818,2/9/15,3.38,2.73,MC,0,0,0,MVZ,1989,1980,1,6,Sonoma County,"0.2 miles E. intersection of Wood Valley Rd. on Lovell Valley Rd., Sonoma County, CA",38.29798,-122.41339
+232814,2/9/15,7.6,7.24,"MC, has eggs",0,0,0,MVZ,1989,1980,1,6,Sonoma County,"Montgomery Dr. 100 yds. West of Summerfield road, north side of the road, Santa Rosa, Sonoma County: California",38.45518,-122.6742
+217478,2/18/15,2.4,1.85,MC,0,0,0,MVZ,1989,1980,1,28,San Benito County,"Old Stage Coach Rd., 0.75 mi N end of Paved Road",36.818002,-121.5368998
+217473,1/23/15,4.78,3.6,,0,0,0,MVZ,1989,1980,1,28,Monterey County,"San Juan Grade Rd., 20 yards W 9.0 Mile Marker",36.7928673,-121.5840735
+217477,11/21/14,6.64,5.58,,0,0,0,MVZ,1989,1980,1,28,Monterey County,"Reeve's Ranch, 200 yards Further from Tholke's Residence Than Tj 10",,
+217476,11/21/14,7.02,6.07,,0,0,0,MVZ,1989,1980,1,28,Monterey County,"Reeve's Ranch, 0.5 mi from Tholke's Residence",,
+222531,3/11/15,4.84,3.95,ZS,0,0,0,MVZ,1989,1980,2,4,San Benito County,"Rocks Rd., 0.1 mi E Hwy. 101",36.8572383,-121.5958815
+222535,3/11/15,6.31,5.59,MC,0,0,0,MVZ,1989,1980,2,5,Santa Barbara County,"head of Canada de Las Flores, W of Hwy. 101 on Rancho de Las Flores, 7.2 mi NW (by air) Los Alamos",34.8239007,-120.387048
+222536,3/11/15,6.98,6.37,MC,0,0,0,MVZ,1989,1980,2,5,Santa Barbara County,"head of Canada de Las Flores, W of Hwy. 101 on Rancho de Las Flores, 7.2 mi NW (by air) Los Alamos",34.8239007,-120.387048
+186870,5/27/15,7.43,7.15,,0,0,0,CAS,1989,1980,2,11,Mariposa Co.,2.7 mi E of Briceburg,37.6318833,-119.9366833
+186908,5/28/15,7.09,6.67,,0,0,0,CAS,1989,1980,2,12,Santa Clara Co.,NE shore of Chesbro Reservoir,37.12469722,-121.7025639
+214419,2/9/15,1.75,1.37,SL,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214420,2/9/15,1.98,1.69,SL,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214417,11/21/14,2.1,1.21,,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214418,11/21/14,2.22,1.56,SL,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214415,1/23/15,3.1,2.45,,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214414,11/21/14,4.28,3.41,,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214413,11/21/14,5.11,3.87,,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214424,3/11/15,5.66,5.14,MC,0,0,0,MVZ,1989,1980,2,14,Santa Barbara County,"head of Canada de Las Flores, W of Hwy. 101, Rancho de Las Flores, 7.2 mi NW (by air) Los Alamos",34.8239007,-120.387048
+214411,11/21/14,6.43,6.48,,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214423,3/11/15,7.1,5.98,"MC, eggs",0,0,0,MVZ,1989,1980,2,14,Santa Barbara County,"head of Canada de Las Flores, W of Hwy. 101, Rancho de Las Flores, 7.2 mi NW (by air) Los Alamos",34.8239007,-120.387048
+214422,3/11/15,7.18,6.88,MC,0,0,0,MVZ,1989,1980,2,14,Santa Barbara County,"head of Canada de Las Flores, W of Hwy. 101, Rancho de Las Flores, 7.2 mi NW (by air) Los Alamos",34.8239007,-120.387048
+214410,11/21/14,7.5,6.27,,0,0,0,MVZ,1989,1980,2,14,Monterey County,"Toro Regional Park, 2 mi S of Farthest Picnic Ground, Past First Cement Water Trough on Olmstead Ranch",36.583055,-121.666779
+214421,3/11/15,7.78,7.31,MC,0,0,0,MVZ,1989,1980,2,14,Santa Barbara County,"head of Canada de Las Flores, W of Hwy. 101, Rancho de Las Flores, 7.2 mi NW (by air) Los Alamos",34.8239007,-120.387048
+222537,2/9/15,8.72,8.52,"MC, has dark spot on foot",0,0,0,MVZ,1989,1980,2,26,Sonoma County,"854 Lynn Rose Court, Santa Rosa",38.4362303,-122.69337
+232819,2/9/15,4.54,3.89,"MC, has spots ",0,0,0,MVZ,1989,1980,3,1,Sonoma County,"854 Lyn Rose Ct., Santa Rosa, CA Sonoma County, CA",38.4364,-122.69481
+186873,5/28/15,7.51,6.19,,0,0,0,CAS,1989,1980,3,9,Santa Cruz Co.,"E Santa Cruz, 1.5 mi up Paul Sweet Rd",37.00610833,-121.9820028
+173592,5/27/15,7.32,6.72,,0,0,0,CAS,1989,1980,3,13,Santa Cruz Co.,"China Grade Rd, 3.6 mi N of Hwy 268",37.22753611,-122.23295
+186911,5/27/15,7.27,6.65,,0,0,0,CAS,1989,1980,3,15,Santa Clara Co.,"San Jose, 1.5 mi SE of Hellyer Ave at Hwy 101, Silver Creek Hills",37.26640833,-121.7890083
+232813,3/6/15,5.3,3.9,KC,0,0,0,MVZ,1989,1980,3,23,San Luis Obispo County,"Hwy. 58, 1 mi, NE junction of Pack Hill Road near Santa Margarita, San Luis Obispo Co., CA",35.42075,-120.55001
+232811,3/6/15,6.57,5.33,KC has eggs ,0,0,0,MVZ,1989,1980,3,23,San Luis Obispo County,"Hwy. 58, 1 mi, NE junction of Pack Hill Road near Santa Margarita, San Luis Obispo Co., CA",35.42075,-120.55001
+232812,3/6/15,6.95,5.57,KC,0,0,0,MVZ,1989,1980,3,23,San Luis Obispo County,"Hwy. 58, 1 mi, NE junction of Pack Hill Road near Santa Margarita, San Luis Obispo Co., CA",35.42075,-120.55001
+232810,3/6/15,8.61,5.67,KC,0,0,0,MVZ,1989,1980,3,23,San Luis Obispo County,"Hwy. 58, 1 mi, NE junction of Pack Hill Road near Santa Margarita, San Luis Obispo Co., CA",35.42075,-120.55001
+186912,5/29/15,6.64,5.72,,0,0,0,CAS,1989,1980,4,10,Santa Clara Co.,"1.5 air mi SW of Evergreen, Silver Creek Hills",37.29432778,-121.8017583
+222538,2/9/15,4.56,4.12,MC,0,0,0,MVZ,1990,1990,1,1,Sonoma County,"854 Lynn Rose Court, Santa Rosa",38.4362303,-122.69337
+222534,3/4/15,6.23,6.05,MC,0,0,0,MVZ,1990,1990,2,1,San Mateo County,"Springs Rd. at Cunningham Way, 0.7 mi W El Camino Real, San Bruno",37.614159,-122.419083
+222523,2/13/15,2.4,1.7,KC,0,0,0,MVZ,1990,1990,2,12,Mendocino County,"Indian Creek Rd., 0.4 mi N Hwy. 128, Philo",39.0645144,-123.4312684
+222522,2/18/15,2.47,1.42,KC,0,0,0,MVZ,1990,1990,2,12,Mendocino County,"Indian Creek Rd., 0.4 mi N Hwy. 128, Philo",39.0645144,-123.4312684
+222524,2/18/15,2.68,1.92,MC,0,0,0,MVZ,1990,1990,2,12,Mendocino County,"Indian Creek Rd., 0.4 mi N Hwy. 128, Philo",39.0645144,-123.4312684
+222526,2/18/15,3.42,2.93,MC,0,0,0,MVZ,1990,1990,2,12,Mendocino County,"Indian Creek Rd., 0.4 mi N Hwy. 128, Philo",39.0645144,-123.4312684
+222527,2/18/15,4.08,2.84,MC,0,0,0,MVZ,1990,1990,2,12,Mendocino County,"Indian Creek Rd., 0.4 mi N Hwy. 128, Philo",39.0645144,-123.4312684
+222528,2/18/15,4.5,3.43,KC,0,0,0,MVZ,1990,1990,2,12,Mendocino County,"Old School Rd., 0.3 mi N Hwy. 128, Philo",39.063585,-123.4355839
+222525,2/13/15,5.11,3.87,KC,0,0,0,MVZ,1990,1990,2,12,Mendocino County,"Indian Creek Rd., 0.4 mi N Hwy. 128, Philo",39.0645144,-123.4312684
+217479,3/11/15,5.46,4.47,ZS,0,0,0,MVZ,1990,1990,4,7,Mendocino County,"\Drive-Thru-Tree\""\"", ca. 0.5 mi S Leggett on Hwy. 101\""",39.8585515,-123.7181141
+219986,2/9/15,7.09,6.56,MC,0,0,0,MVZ,1991,1990,2,2,Sonoma County,"Santa Rosa Junior College Farm, 0.5 km N Eastside Rd. and N junction with Trenton-Healdsburg Rd.",38.5038281,-122.8732536
+219982,3/18/15,3.1,2.43,MC,0,0,0,MVZ,1991,1990,3,1,Calaveras County,"Avery Sheep Ranch Rd., 0.2 mi from junction with Valley View Rd.",38.2246148,-120.4097792
+219988,2/9/15,4.54,3.77,MC,0,0,0,MVZ,1991,1990,3,5,Sonoma County,"Santa Rosa, Montgomery Drive, 100 yds W Summerfield Rd.",38.4544204,-122.671255
+220526,2/13/15,2.55,1.8,KC,15.84,1.23,1,MVZ,1991,1990,3,10,Mendocino County,Philo,39.065654,-123.4395451
+219984,3/11/15,2.59,1.69,MC,0,0,0,MVZ,1991,1990,12,20,Santa Clara County,"Los Gatos, Phillips Rd., 0.25 mi S Vista Lorna Drive",37.2175609,-121.9604924
+219983,3/11/15,2.92,2.29,MC,0,0,0,MVZ,1991,1990,12,20,Santa Clara County,"Los Gatos, Phillips Rd., 0.25 mi S Vista Lorna Drive",37.2175609,-121.9604924
+239683,3/11/15,5.63,4.87,MC,0,0,0,MVZ,1992,1990,1,15,Santa Barbara County,"Along Dominion and Cat Canyon Roads, W of Sisquoc, Santa Barbara County, California",34.85774,-120.34689
+219980,3/18/15,7.55,6.92,"MC, head crushed, pillbug in stomach",0,0,0,MVZ,1992,1990,2,20,Alameda County,Castro Valley,37.69653,-122.07328
+183317,5/29/15,4.16,2.63,,0,0,0,CAS,1992,1990,4,12,Contra Costa Co.,,37.929181,-122.430876
+183316,5/29/15,6.13,5.28,substitute,6.104,0.85,1,CAS,1992,1990,4,12,Contra Costa Co.,,37.929181,-122.430876
+183318,5/29/15,6.21,5.33,,0,0,0,CAS,1992,1990,4,12,Contra Costa Co.,,37.929181,-122.430876
+190597,5/28/15,6.59,6.08,,0,0,0,CAS,1992,1990,11,1,Mendocino Co.,"SE end of Willams Valley, 28201 Mendocino Pass Rd, T23N R12W Sec 22 (SE quarter of SE quarter), 39 49 53.52 N, 123 10 36.15 W",39.83153333,-123.1767083
+225571,11/21/14,7.87,5.75,,0,0,0,MVZ,1993,1990,2,23,Monterey County,"Anastasia Canyon on Carmel Valley Rd. [=G-16], 1.7 mi SE junction Martin Rd.",36.353671,-121.543382
+220875,2/9/15,2.15,1.71,,7,0.9,1,MVZ,1993,1990,2,25,Monterey County,"Anastasia Canyon, S Carmel Valley Rd.",36.353671,-121.543382
+220874,2/9/15,2.77,2.42,SL,0,0,0,MVZ,1993,1990,2,25,Monterey County,"Anastasia Canyon, S Carmel Valley Rd.",36.353671,-121.543382
+242956,1/23/15,3.27,1.76,feet curled,0,0,0,MVZ,1993,1990,2,25,Monterey County,Anastasia Canyon,36.343918,-121.5627549
+222665,11/21/14,6.41,5.7,,0.816,0.26,1,MVZ,1993,1990,2,25,Monterey County,"1.7 mi SE junction Martin Rd., Carmel Valley Rd., Anastasia Canyon",36.350358,-121.545292
+222666,11/21/14,8.22,7.8,,0,0,0,MVZ,1993,1990,2,25,Monterey County,"1.7 mi SE junction Martin Rd., Carmel Valley Rd., Anastasia Canyon",36.350358,-121.545292
+220867,2/9/15,7.44,7.1,"MC, has spots, possible eggs",2.304,0.52,1,,1993,1990,2,25,Sonoma Co.,,38.2917617,-122.6489044
+224318,3/18/15,7.54,6.14,ZS,0,0,0,MVZ,1993,1990,3,23,Alameda County,"Euclid Ave. just N junction Marin Ave., Berkeley",37.8953452,-122.2638479
+224321,2/27/15,2.07,1.39,KC,0,0,0,MVZ,1993,1990,12,1,Marin County,"311 Oak Ave., San Anselmo",37.972249,-122.5718309
+224322,2/27/15,2.15,1.18,KC skin sloughing ,0,0,0,MVZ,1993,1990,12,1,Marin County,"311 Oak Ave., San Anselmo",37.972249,-122.5718309
+195433,5/28/15,2.28,1.49,,0,0,0,CAS,1994,1990,2,6,Santa Cruz Co.,"China Grade, ca 2 mi NW of Hwy 9, T8S, R3W, Sec 29 (NW quarter)",37.21315,-122.2216889
+195432,5/29/15,2.44,1.76,substitute,0,0,0,CAS,1994,1990,2,6,Santa Cruz Co.,"China Grade, ca 2 mi NW of Hwy 9, T8S, R3W, Sec 29 (NW quarter)",37.21315,-122.2216889
+197438,5/28/15,2.15,0.43,tail broken,0,0,0,CAS,1994,1990,2,23,San Mateo Co.,"Portola Valley, vacant lot just W of 137 Pinon Dr",37.39393333,-122.2198333
+200984,5/29/15,5.07,4.66,,32.32,1.52,1,CAS,1995,1990,2,11,Orange Co.,"Shady Canyon, near Sand Canyon Reservoir",33.64027778,-117.7944444
+200985,5/27/15,5.57,4.98,,0,0,0,CAS,1995,1990,2,11,Orange Co.,"Shady Canyon, near Sand Canyon Reservoir",33.64027778,-117.7944444
+222667,3/18/15,3.48,2.28,KC,0,0,0,MVZ,1995,1990,4,6,San Diego County,"Upper Cedar Canyon, San Ysidro Mts.",32.62,-116.82
+200362,5/28/15,5.58,5.3,,0,0,0,CAS,1996,1990,1,1,San Francisco Co.,"San Francisco, ca 80 m S of intersection of Ortega St and 14th Ave, 15 m E of 14th Ave",37.75486667,-122.47105
+203220,5/29/15,7.7,6.92,,0,0,0,CAS,1996,1990,2,16,Santa Clara Co.,"Tradition Golf Course site, 0.7 mi SE of jct of Bailey Ave and McKean Rd",37.17694444,-121.7501083
+216719,5/27/15,6.86,6.6,,79598.4,4.9,1,CAS,1996,1990,11,6,Orange Co.,"Mission Viejo, Arroyo Trabuco, ca 50 m S of Oso Parkway, 33 35 28 N, 117 38 06 W",33.59111111,-117.635
+201805,5/27/15,6.06,5.23,,0,0,0,CAS,1996,1990,11,16,San Mateo Co.,"Verde Rd, 1.0 mi N (by rd) of Lobitos Creek Rd",37.39551668,-122.4091167
+201806,5/27/15,6.68,6.27,,0,0,0,CAS,1996,1990,11,16,San Mateo Co.,"Verde Rd, 0.8 mi N (by rd) of Lobitos Creek Rd",37.39291668,-122.40765
+244014,5/28/15,7.06,6.67,,0,0,0,CAS,1996,1990,12,30,Mariposa Co.,"Stanislaus National Forest, near Dudley Hill, T2S R17E S17 (SE1/4 of SE 1/4)",37.75870833,-120.1165972
+216720,5/28/15,2.89,2.36,,0,0,0,CAS,1997,1990,1,17,San Diego Co.,"Sorrento Valley, ca 100 m N of junction of Estuary Way and Roselle Street, 32 54 26 N, 117 13 54 W",32.90722222,-117.2316667
+203221,5/28/15,3.08,2.47,,0,0,0,CAS,1997,1990,1,21,Santa Clara Co.,"Tradition Golf Course site, 0.8 mi SE of jct of Bailey Ave and McKean Rd",37.17528611,-121.7491611
+226664,7/7/15,3.64,2.58,MC,0,0,0,MVZ,1997,1990,2,4,Los Angeles County,"Alpine Canyon, 50 m S creek, E Hwy. 39, San Gabriel Mts.",34.2945703,-117.8189187
+226665,7/7/15,2.97,1.72,MC,0,0,0,MVZ,1997,1990,2,14,Los Angeles County,"Evey Canyon, ca. 1 km W Baldy Road",34.1716966,-117.6931621
+204211,5/28/15,6.43,6,,0,0,0,CAS,1997,1990,12,31,San Mateo Co.,"San Francisco Watershed, NE end of Lower Crystal Springs Reservoir, along dry Creek, ca 50 m W of County Park storage area, 37 33 21.672 N, 122 23 36.924 W",37.55602,-122.39359
+235945,2/9/15,5.22,4.85,MC,0,0,0,MVZ,1998,1990,1,24,Sonoma County,"Barnett Valley Rd, 1 mi E Burnside Rd, Sonoma County, California",38.3665,-122.89199
+235949,2/9/15,8.03,8.49,MC,0,0,0,MVZ,1998,1990,1,24,Sonoma County,"E end Appleblossom - Hurlbut Rd, N Sebastapol, Sonoma County, California 38 25' 17\ N 122 50' 6\""\"" W\""",38.4213889,-122.835
+204264,5/29/15,5.33,3.39,substitute,0,0,0,CAS,1998,1990,1,25,San Mateo Co.,"Daly City, NW base of San Bruno Mtn, immediately S of the mouth of Guadalupe Canyon, ca 200 m NE of the intersection of East Market St and Orange St, next to George's Welding and Engineering Inc.",37.69283056,-122.4554333
+204263,5/29/15,5.35,4.37,,0,0,0,CAS,1998,1990,1,25,San Mateo Co.,"Daly City, NW base of San Bruno Mtn, immediately S of the mouth of Guadalupe Canyon, ca 200 m NE of the intersection of East Market St and Orange St, next to George's Welding and Engineering Inc.",37.69283056,-122.4554333
+204262,5/29/15,7.91,6.9,substitute,0,0,0,CAS,1998,1990,1,25,San Mateo Co.,"Daly City, NW base of San Bruno Mtn, immediately S of the mouth of Guadalupe Canyon, ca 200 m NE of the intersection of East Market St and Orange St, next to George's Welding and Engineering Inc.",37.69283056,-122.4554333
+204282,5/28/15,7.72,6.88,,0,0,0,CAS,1998,1990,2,18,San Mateo Co.,"San Francisco Watershed, along Cahill Ridge Rd, ca 0.32 mi S of jct with Pilarcitos Rd and 55 yds E towards San Mateo Creek, 37 33 13.8 N, 122 25 4.87 W",37.55383333,-122.4180194
+214883,5/28/15,5.59,5.17,,190.4,2.28,1,CAS,1998,1990,7,9,Monterey Co.,"12 mi SE of Carmel Valley off Hwy G16, Hastings University of California Biological Preserve",36.37191111,-121.5596889
+207431,5/29/15,4.26,4.8,substitute,9.68,1.03,1,CAS,1998,1990,11,27,San Mateo Co.,"Skyline Blvd, 0.45 mi S (by rd) of Golf Course Dr",37.54013333,-122.3684333
+208094,5/29/15,3,2.31,substitute,0,0,0,CAS,1999,1990,1,1,Contra Costa Co.,"Pittsburg, S of Kirker Pass Rd, 37 59 13.2 N, 121 53 56.4 W",37.987,-121.899
+208096,5/28/15,7.05,5.36,,0,0,0,CAS,1999,1990,1,1,Contra Costa Co.,"Pittsburg, S of Kirker Pass Rd, 37 59 13.2 N, 121 53 56.4 W",37.987,-121.899
+235944,3/6/15,5.22,4.18,KC,0,0,0,MVZ,1999,1990,2,13,San Luis Obispo County,"3.5 mi SE Pozo on San Jose Rd, San Luis Obispo Co., California 35 16.6' N 120 18.5' W 1600ft",35.2766667,-120.3083333
+208500,5/29/15,5.56,5.13,substitute,176.8,2.25,1,CAS,1999,1990,2,24,San Mateo Co.,"San Bruno Mtn, Guadalupe Canyon Parkway, 0.4 mi N (by rd) of Mission Blue Dr, 10 m S of road",37.69761667,-122.4140667
+208499,5/28/15,6.97,6.45,speckles,17.76,1.27,1,CAS,1999,1990,2,24,San Mateo Co.,"San Bruno Mtn, Guadalupe Canyon Parkway, 0.4 mi N (by rd) of Mission Blue Dr, 10 m S of road",37.69761667,-122.4140667
+208664,5/27/15,6.29,5.9,,0,0,0,CAS,1999,1990,3,28,Santa Cruz Co.,"China Grade Rd, 1.9 mi N (by rd) of State Route 236, immediately E of road, 37 12 51.7 N, 122 13 06.0 W",37.21436111,-122.2183333
+235947,3/2/15,5.75,4.24,SL,0,0,0,MVZ,1999,1990,4,13,Mariposa County,"Converse Rd. (2519) just above junction with Dexter Rd, Mariposa Co., California 37 45' 43\ N 120 8' 36\""\"" W\""",37.7619444,-120.1433333
+235946,3/2/15,6.59,5.69,JE broken tail,0,0,0,MVZ,1999,1990,4,18,Mariposa County,"Converse Rd. (2519), Just above intersection Dexter - Fiske Rds, Mariposa Co., California 37 45' 49\ N 120 8' 36\""\"" W 3250ft\""",37.7636111,-120.1433333
+211673,5/28/15,4.13,0.96,tail broken,0,0,0,CAS,2000,2000,2,10,Santa Clara Co.,"San Jose, pond 100 m S of Silver Creek, between Hwy 101 and Silver Creek Rd, 37 17 43.59 N, 121 48 10.59 W",37.29544167,-121.8029417
+238585,5/27/15,8.16,7.4,,0,0,0,CAS,2000,2000,2,16,Santa Clara Co.,"near Laguna Seco Creek (Fisher Creek), 0.1 mi W of Montery Rd (Hwy 82) bridge, 0.5 mi NW of Coyote",37.22142222,-121.7478944
+238599,5/28/15,7.66,4.93,,0,0,0,CAS,2000,2000,2,26,Santa Clara Co.,"just S of Bailey Ave, 0.95 mi W of Santa Teresa Blvd junction",37.18821944,-121.7428167
+237486,2/9/15,2.76,1.72,"MC, bony",0,0,0,MVZ,2000,2000,3,3,Sonoma County,"Sonoma Mtn Rd., 0.5 mi W of Enterprise Rd., S of Santa Rosa, Sonoma County, CA",38.36534,-122.56822
+230722,3/18/15,4.01,2.67,KC missing toe on r foot,0,0,0,MVZ,2000,2000,3,21,San Diego County,"San Clemente Canyon W. Clairmont Mesa Rd., San Diego 32 50.4'N 117 13.1'W",32.84,-117.2183333
+218631,5/28/15,4.94,4.3,,26501.6,4.42,1,CAS,2001,2000,1,23,San Mateo Co.,"Alpine Rd, 2.1 mi S (by rd) of Portola Rd",37.35409167,-122.2118056
+218610,5/27/15,8.23,7.61,,0,0,0,CAS,2001,2000,1,23,Santa Clara Co.,"San Jose, Bailey Rd, 1.2 mi SE (by rd) of Orchard, 0.5 mi SE bearing 311 degrees from Bailey Rd, 37 11 09 N, 121 44 54 W",37.18583333,-121.7483333
+232832,3/11/15,8.12,7.52,ZS,0,0,0,MVZ,2001,2000,10,14,Alameda County,"California: Alameda County, Oakland, 112 Hamilton Place (back yard) 37.8159N, 122.2598W- Topozone.com, 1:25K, Oakland West Quad, 7.5 minute, 1993.",37.8159,-122.2598
+238552,3/11/15,4.7,4.18,MC,0,0,0,MVZ,2001,2000,11,10,Santa Cruz County,"Graham Hill Rd., Santa Cruz County, CA, 37 deg. 2'35.6\N, 122 deg. 2'56.7\""\""W\""",37.04322,-122.04908
+234620,3/6/15,8.33,6.79,KC mold on the tip of the tail,0,0,0,MVZ,2002,2000,2,24,San Luis Obispo County,"San Simeon Creek Rd (2222) over bridge where rd veers (L) over creek, San Luis Obispo Co., California 35 46.3' N 121 05.406' W",35.7716667,-121.0901
+225322,5/29/15,6.4,5.95,,0,0,0,CAS,2002,2000,3,20,San Mateo Co.,"Brisbane, NE flank of San Bruno Mtn, Guadalupe Canyon Parkway, 0.1 mi N (by rd) of Mission Blue Drive, 35 ft E (downslope) of rd",37.69666667,-122.4088889
+225321,5/29/15,7.09,6.56,,0,0,0,CAS,2002,2000,3,20,San Mateo Co.,"Brisbane, NE flank of San Bruno Mtn, Guadalupe Canyon Parkway, 0.1 mi N (by rd) of Mission Blue Drive, 35 ft E (downslope) of rd",37.69666667,-122.4088889
+225320,5/29/15,8.11,7.53,,0,0,0,CAS,2002,2000,3,20,San Mateo Co.,"Brisbane, NE flank of San Bruno Mtn, Guadalupe Canyon Parkway, 0.1 mi N (by rd) of Mission Blue Drive, 35 ft E (downslope) of rd",37.69666667,-122.4088889
+234589,5/27/15,3.13,2.45,,0,0,0,CAS,2002,2000,5,19,Alameda Co.,"Oakland, 437 36th Street near Mosswood Park, 37 49 26.60 N, 122 15 42.06 W",37.82405556,-122.2616833
+241478,3/11/15,6.93,6.05,ZS,0,0,0,MVZ,2002,2000,5,29,Alameda County,"1433 Liberty Street, El Cerrito, 94530",37.9190778,-122.3096921
+225286,5/27/15,5.73,5.5,,228.8,2.36,1,CAS,2003,2000,1,9,San Mateo Co.,Lobitos Creek Cutoff Rd at jct with Verde Rd,37.3825,-122.4002778
+238557,11/21/14,1.78,3.05,,0,0,0,MVZ,2003,2000,3,7,Monterey County,"grove of coastal live oak along Robertson Creek, Hastings Natural History Reserve, elev. 1510 ft., 36.37537 deg. N, 121.55740 deg. W, error =26 ft.",36.37537,-121.5574
+228216,5/29/15,5.73,5.17,,0,0,0,CAS,2003,2000,4,20,Santa Clara Co.,"Saratoga, backyard of 20015 Bella Vista, 37 15 16.8 N, 122 01 16.7 W",37.25466667,-122.0213056
+228215,5/29/15,8.11,6.81,,0,0,0,CAS,2003,2000,4,20,Santa Clara Co.,"Saratoga, backyard of 20015 Bella Vista, 37 15 16.8 N, 122 01 16.7 W",37.25466667,-122.0213056
+228062,5/28/15,6.08,5.38,,0,0,0,CAS,2003,2000,11,8,San Mateo Co.,"Cloverdale Rd, vicinity of Pescadero High School",37.24722222,-122.3677778
+228063,5/28/15,6.27,5.59,,0,0,0,CAS,2003,2000,11,8,San Mateo Co.,"Cloverdale Rd, vicinity of Pescadero High School",37.24722222,-122.3677778
+228086,5/28/15,4.32,2.56,tail broken,0,0,0,CAS,2003,2000,11,30,San Mateo Co.,"Gazos Rd, 0.1 mi NE (by rd) of Hwy 1",37.16684167,-122.3603778
+228087,5/28/15,5.83,5.9,,0,0,0,CAS,2003,2000,11,30,San Mateo Co.,"Gazos Rd, 0.1 mi NE (by rd) of Hwy 1",37.16684167,-122.3603778
+243262,3/2/15,4.3,3.63,JE white spot on belly,0,0,0,MVZ,2003,2000,12,6,Mariposa County,"CA; Mariposa Co., 0.6 mi W Darrah, Triangle Rd. off HWY 140",37.51627,-119.84603
+238980,5/28/15,9.45,6.47,,0,0,0,CAS,2003,2000,12,7,Sonoma Co.,"Rohnert Park, 0.23 mi N of Valley House Drive and 0.31 mi W of Petaluma Hills Rd, 38 19 29.8 N, 122 40 20.5 W",38.32494444,-122.6723611
+243266,3/2/15,6.38,3.41,SL Skin is decomposing,0,0,0,MVZ,2004,2000,3,12,Mariposa County,"CA; Mariposa Co., HWY 140, 1.9 mi. W of S. Fork of Merced River + HWY 140 (by road), ~7 mi. W. of El Portal",37.66959,-119.90356
+243264,3/2/15,4.88,3.28,JE,0,0,0,MVZ,2004,2000,3,13,Mariposa County,"CA; Mariposa Co., HWY 140, 1 mi. W. of Merced River",37.66379,-119.81247
+243263,3/2/15,6.95,6.75,JE,0,0,0,MVZ,2004,2000,3,13,Mariposa County,"CA; Mariposa Co., Feliciana Mtn., ~3.1mi. by road on 4512 from HWY 140",37.592,-119.92004
+229959,5/28/15,5.9,4.94,speckles,0,0,0,CAS,2004,2000,8,,San Francisco Co.,"San Francisco, 1762 10th Avenue, 37 45 18.78 N, 122 27 55.29 W",37.75521667,-122.4653583
+249830,2/27/15,8.27,6.14,KC,22.32,1.37,1,MVZ,2005,2000,4,8,Mariposa County,"CA; Mariposa Co., HWY 140, ~3.3 mi. E. (by road) of the south fork of the Merced River.",37.6667837,-119.8396507
+249828,3/2/15,5.79,5.49,JE skin peeling from tail,0,0,0,MVZ,2005,2000,4,10,Mariposa County,"CA; Mariposa Co., Yosemilte N.P., Yosemite Valley, ~2 mi E. of Arch Rock entrance station by road, S. side of road",37.70198,-119.72225
+235950,5/27/15,2.61,2.14,,0,0,0,CAS,2005,2000,5,14,Sonoma Co.,"Coast Ranges, ca 7 mi E of Bridge Haven via Willow Creek Rd, 38 25 14.4 N, 123 2 24.6 W",38.42066667,-123.0401667
+236148,5/27/15,3.53,2.07,,0,0,0,CAS,2005,2000,5,17,Sonoma Co.,"ca 1 mi SE of Ledson Marsh, 200 m S of Annadel State Park boundary, unnamed tributary to Yulupa Creek, 38 23 52.0 N, 122 35 27.1 W",38.39777778,-122.5908611
+250249,3/18/15,6.47,6.05,MC,0,0,0,MVZ,2005,2000,11,9,Alameda County,"1513 Walnut Street, Berkeley, Alameda County, California",37.8800745,-122.2670848
+233805,5/28/15,5.72,5.63,,0,0,0,CAS,2006,2000,1,18,San Francisco Co.,"San Francisco, Presidio of San Francisco, above Infantry Terrace, 37 47 45.930 N, 122 27 49.321 W",37.79609167,-122.4637003
+234677,5/27/15,8.05,7.05,,80,1.91,1,CAS,2006,2000,2,16,San Mateo Co.,"Montara, 134 m E Highway 1, 37 32 46.0 N, 122 30 43.2 W",37.54611111,-122.512
+233729,5/27/15,7.3,7.23,,0,0,0,CAS,2006,2000,6,9,Alameda Co.,"W slope of Walpert Ridge, 10S 0588611 E, 4164401 N, 37 37 20.83 N, 121 59 45.13 W",37.62245278,-121.9958694
+241797,5/28/15,7,6.06,,0,0,0,CAS,2008,2000,10,4,Contra Costa Co.,"unnamed tributary of Tassajara Creek, 37 44 56.31 N, 121 51 17.97 W",37.748975,-121.8549917
+250303,5/28/15,5.29,5.1,,0,0,0,CAS,2012,2010,1,25,Marin Co.,"San Rafael, 8 Park Ridge Rd, 38 01 07.63 N 122 33 07.73 W",38.01878611,-122.5521472
+250602,5/28/15,3.86,3.27,,0,0,0,CAS,2012,2010,2,12,Mendocino Co.,"Hwy 128, milepost 32, 77, 38 57 35.1 N, 123 20 21.6 W",38.95975,-123.3393333
+250601,5/28/15,5.35,4.98,,112,2.05,1,CAS,2012,2010,2,12,Mendocino Co.,"Hwy 128, milepost 32. 77, 38 57 35.1 N, 123 20 21.6 W",38.95975,-123.3393333
+252799,5/29/15,4.22,3.69,,0,0,0,CAS,2012,2010,11,17,Marin Co.,"San Rafael (Terra Linda), 8 Park Ridge Rd, 38 01 06 N, 122 33 06 W",38.01833333,-122.5516667
+252798,5/29/15,5.12,4.67,,0,0,0,CAS,2012,2010,11,17,Marin Co.,"San Rafael (Terra Linda), 8 Park Ridge Rd, 38 01 06 N, 122 33 06 W",38.01833333,-122.5516667
+252784,5/29/15,4.94,2.03,tail broken,0,0,0,CAS,2013,2010,1,26,Mendocino Co.,"Orr Springs Rd, mile marker 28.26, 39 14 43.28 N, 123 24 45.74 W",39.24535556,-123.4127056
+168509,3/4/15,4.42,3.75,MC,0,0,0,MVZ,UNK,,,,,,,

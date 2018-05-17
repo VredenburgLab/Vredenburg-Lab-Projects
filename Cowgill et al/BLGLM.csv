@@ -1,0 +1,386 @@
+"ID"	"type"	"date"	"location"	"loc "	"code"	"group size"	"num.inf"	"prop.inf"	"zswab"	"status"	"logZE"	"sd"	"SVL"	"tail"	"body.con"	"temp"	"yr.tmax"	"yr.ppt"	"rain"	"NearestAL"	"AL"	"NumAL"	"cover"	"length"	"width"	"area"	"density"	"N (lat)"	"W (long)"	"Notes"			
+"MC64"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.22	2.85	1.2837837838	16.9	18.84	20.04	0.44	"NA"	"N"	0	"log"	108	23	2484	0.0004	36.58675	-121.89881				
+"MC65"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.3	4.9	1.4848484848	19.5	18.84	20.04	0.44	"NA"	"N"	0	"log"	200	23	4600	0.0002	36.58675	-121.89881				
+"MC79"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.68	4	1.4925373134	19.8	18.84	20.04	0.44	"NA"	"N"	0	"log"	260	10	2600	0.0004	36.58679	-121.89892				
+"MC85"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.83	4.38	1.1436031332	15.1	18.84	20.04	0.44	"NA"	"N"	0	"wood piece"	43	16	688	0.0015	36.58694	-121.89855		"0303-0304"		
+"MC90"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.52	3.75	1.0653409091	16.4	18.84	20.04	0.44	"NA"	"N"	0	"log"	178	10	1780	0.0006	36.58689	-121.89864	"yellow"	"0315 (log)"		
+"MC91"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		4.09	5.71	1.3960880196	17.1	18.84	20.04	0.44	"NA"	"N"	0	"wood piece"	74	22	1628	0.0006	36.58684	-121.89864	"very large"			
+"MC95"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.17	3.19	1.0063091483	16.9	18.84	20.04	0.44	"NA"	"N"	0	"branch"	77	7	539	0.0019	36.58771	-121.89775		331		
+"MC106"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.44	4.44	1.2906976744	16.3	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58765	-121.89785	"inside wood. 2m from 103/104/105"			
+"MC107"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.94	5.05	1.2817258883	17	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58764	-121.8978				
+"MC108"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.79	5.4	1.4248021108	16.9	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58763	-121.8977				
+"MC109"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.55	5.34	1.5042253521	16.8	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	125	33	4125	0.0002	36.5879	-121.89757				
+"MC110"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.21	4.78	1.4890965732	16.3	19.01	20.23	0.1	"NA"	"N"	0	"log"	190	18	3420	0.0003	36.58786	-121.89755				
+"MC111"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.9	4.85	1.2435897436	18.2	19.01	20.23	0.1	"NA"	"N"	0	"bark"	27	15	405	0.0025	36.58787	-121.89763	"between 2 barks"			
+"MC112"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.21	4.29	1.3364485981	16.9	19.01	20.23	0.1	"NA"	"N"	0	"branch"	40	7	280	0.0036	36.58793	-121.89753				
+"MC113"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.4	4.16	1.2235294118	16.9	19.01	20.23	0.1	"NA"	"N"	0	"log"	140	17	2380	0.0004	36.588	-121.89747				
+"MC114"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.05	3.62	1.1868852459	16.2	19.01	20.23	0.1	"NA"	"N"	0	"wood piece"	30	26	780	0.0013	36.58761	-121.89765				
+"MC115"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.95	5.87	1.4860759494	16.3	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58761	-121.89765	"2m from 114"			
+"MC118"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		4.44	7.23	1.6283783784	16.3	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58761	-121.89765	"26cm from 119, 10 cm from 115"			
+"MC119"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		4.18	5.19	1.2416267943	16.3	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58761	-121.89765	"26cm from 118, 34cm from 115"			
+"MC124"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.74	4.47	1.1951871658	15.9	19.01	20.23	0.11	"NA"	"N"	0	"branch"	140	8	1120	0.0009	36.58726	-121.8982				
+"MC132"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.57	4.92	1.3781512605	17.7	19.01	20.23	0.11	"NA"	"N"	0	"bark"	35	14	490	0.002	36.5871	-121.89834				
+"MC136"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.35	4.54	1.3552238806	17.9	19.01	20.23	0.11	"NA"	"N"	0	"branch"	70	14	980	0.001	36.5869	-121.89839				
+"MC142"	"B. luciae"	"7/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.86	4.94	1.2797927461	17.8	18.99	20.27	0	"NA"	"N"	0	"log w/moist soil under"	143	20	2860	0.0003	36.58674	-121.89883				
+"MC147"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.8	6.02	1.5842105263	17.5	18.99	20.27	0	"NA"	"N"	0	"rotting log"	150	50	7500	0.0001	36.58766	-121.89782				
+"MC203"	"B. luciae"	"10/18/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.15	4.49	1.4253968254	18.3	19.11	20.75	0.34	0	"Y"	1	"log"	340	37	12580	0.0001	36.58643	-121.89828	"2 others slipped through crack."			
+"MC206"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		26.7	3.04	0.1138576779	16.2	19.42	20.36	2.17	0.00027313	"Y"	1	"log"	244	30	7320	0.0001	36.58641	-121.89832	"under log."			
+"MC210"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.6	4.53	1.2583333333	15.5	19.42	20.36	2.17	0.0003405877	"N"	0	"log"	274	76	20824	0	36.58654	-121.89823	"inside log."			
+"MC213"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		4.11	6.24	1.5182481752	17.4	19.42	20.36	2.17	0.0025377549	"N"	0	"wood piece"	61	8	488	0.002	36.58863	-121.89716	"has eggs"			
+"MC214"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.11	4	1.2861736334	17.4	19.42	20.36	2.17	0.0025377549	"N"	0	"wood piece"	61	8	488	0.002	36.58863	-121.89716	"4' away from 213"			
+"MC220"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.21	4.32	1.3457943925	18.1	19.42	20.36	2.17	0.0027482358	"N"	0	"log"	122	13	1586	0.0006	36.58874	-121.89695	"under log. 12' from 215-219. 1 more escaped."			
+"MC221"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.08	3.72	1.2077922078	17.4	19.42	20.36	2.17	0.0027482358	"N"	0	"log"	213	20	4260	0.0002	36.58874	-121.89695	"6' from 220 (diff log)"			
+"MC222"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.31	4.63	1.3987915408	17.1	19.42	20.36	2.17	0.0028411265	"N"	0	"log"	76	41	3116	0.0003	36.58884	-121.89693	"under log"			
+"MC223"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.66	3.37	1.2669172932	17.8	19.42	20.36	2.17	0.0025707003	"N"	0	"rotting wood"	41	30	1230	0.0008	36.58854	-121.89698	"in wood dust"			
+"MC224"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.72	3.52	1.2941176471	17.2	19.42	20.36	2.17	0.0025707003	"N"	0	"small log"	61	20	1220	0.0008	36.58854	-121.89698	"4' from 223"			
+"MC229"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.87	3.56	1.2404181185	15.1	19.42	20.36	2.64	"NA"	"N"	0	"log"	198	15	2970	0.0003	36.5871	-121.89879	"purple. 12' from 226-228."			
+"MC230"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.3	3.98	1.2060606061	14.5	19.42	20.36	2.64	"NA"	"N"	0	"branch"	107	9	963	0.001	36.58701	-121.8988	"orange. 25' from 229."			
+"MC231"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.75	3.63	1.32	14.5	19.42	20.36	2.64	"NA"	"N"	0	"bark"	30	15	450	0.0022	36.58701	-121.8988	"4' from 230."			
+"MC234"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3	3.79	1.2633333333	15.2	19.42	20.36	2.64	"NA"	"N"	0	"bark pile"	46	10	460	0.0022	36.58693	-121.8989	"green"			
+"MC235"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		4.15	6.76	1.6289156627	15.2	19.42	20.36	2.64	"NA"	"N"	0	"bark pile"	91	30	2730	0.0004	36.58693	-121.8989	"orange. has eggs. 6' from 234."			
+"MC236"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.7	3.14	1.162962963	15.2	18.25	18.07	2.64	"NA"	"N"	0	"wood piece"	305	13	3965	0.0003	36.54436	-121.91775	"l.blue"			
+"MC237"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.43	2.67	1.0987654321	15.2	19.42	20.36	2.64	"NA"	"N"	0	"wood piece"	46	15	690	0.0014	36.58696	-121.89896	"pink"			
+"MC238"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.57	4.8	1.3445378151	14.4	19.42	20.36	2.64	"NA"	"N"	0	"wood piece"	34	20	680	0.0015	36.58696	-121.89896	"yellow"			
+"MC275"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.09	3.81	1.2330097087	13.5	19.48	24.6	6.33	0.0009319335	"Y"	0	"bark"	40	10	400	0.0025	36.58839	-121.89758	"1.5' from 276"			
+"MC283"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.83	5.15	1.3446475196	13.1	19.48	24.6	6.33	0.0009319335	"Y"	0	"log"	160	25	4000	0.0003	36.58839	-121.89758	"same log as 276-277"			
+"MC284"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.33	4.26	1.2792792793	13.6	19.48	24.6	6.33	0.0008490583	"Y"	0	"wood piece"	34	8	272	0.0037	36.58833	-121.89764	"10' from 278."			
+"MC287"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.39	2.94	1.230125523	14.8	19.48	24.6	6.33	0.0009780082	"Y"	0	"bark"	10	9	90	0.0111	36.58847	-121.89758				
+"MC288"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.23	4.59	1.4210526316	13.8	19.48	24.6	6.33	0.0009780082	"Y"	0	"bark"	17	30	510	0.002	36.58847	-121.89758	"20' from 287"			
+"MC289"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		2.53	3.1	1.2252964427	13.7	19.48	24.6	6.33	0.0009780082	"Y"	0	"wood piece"	25	24	600	0.0017	36.58847	-121.89758	"2' from 288"			
+"MC290"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.8	5.43	1.4289473684	14.2	19.48	24.6	6.33	0.0009521029	"Y"	0	"bark"	23	12	276	0.0036	36.58844	-121.89759	"6' from 288"			
+"MC292"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.2	4.64	1.45	14.2	19.48	24.6	6.33	0.0001843909	"Y"	0	"bark"	50	30	1500	0.0007	36.58784	-121.89818	"same as 296"			
+"MC293"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.4	5.31	1.5617647059	15	19.48	24.6	6.33	"5.83095189511e-05"	"Y"	1	"bark"	40	18	720	0.0014	36.58791	-121.89831				
+"MC294"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.35	4.57	1.3641791045	15.2	19.48	24.6	6.33	"5.83095189511e-05"	"Y"	1	"wood piece"	26	13	338	0.003	36.58791	-121.89831				
+"MC295"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.05	4.11	1.3475409836	15.2	19.48	24.6	6.33	"5.83095189511e-05"	"Y"	1	"wood piece"	74	18	1332	0.0008	36.58791	-121.89831	"has eggs"			
+"MC296"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		4.01	6.09	1.5187032419	14.2	19.48	24.6	6.33	0.0001843909	"N"	0	"bark"	50	30	1500	0.0007	36.58784	-121.89818				
+"MC297"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		4.24	7.03	1.6580188679	13.9	19.48	24.6	6.33	0.0001843909	"N"	0	"branch"	200	12	2400	0.0004	36.58784	-121.89818	"alone. has eggs? 3' from 296"			
+"MC304"	"B. luciae"	"12/21/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	0	0	0	0	0		3.54	4.21	1.1892655367	17.3	19.48	24.6	8.79	"NA"	"N"	0	"log"	95	25	2375	0.0004	36.58542	-121.89629	"inside log. tail growing."			
+"MC80"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		2.88	2.28	0.7916666667	16.7	18.84	20.04	0.44	"NA"	"N"	0	"log"	310	17	5270	0.0004	36.58703	-121.89872	"green"	" tail growing - stub"		
+"MC81"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.11	4.08	1.3118971061	16.7	18.84	20.04	0.44	"NA"	"N"	0	"log"	310	17	5270	0.0004	36.58703	-121.89872	"yellow? 105 cm from MC81"	"122-126"		
+"MC103"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		2.85	1.31	0.4596491228	15.2	19.01	20.23	0.1	"NA"	"N"	0	"wood piece"	36	27	972	0.0021	36.58765	-121.89785	"in wood"			
+"MC104"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		4	4.9	1.225	15.2	19.01	20.23	0.1	"NA"	"N"	0	"wood piece"	36	27	972	0.0021	36.58765	-121.89785				
+"MC116"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.42	4.54	1.3274853801	16.3	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58761	-121.89765	"2m from 114, with 117, 13 cm from 115"			
+"MC117"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.28	4.55	1.387195122	16.3	19.01	20.23	0.1	"NA"	"N"	0	"rotting wood"	"n/a"				36.58761	-121.89765	"2m from 114, with 116, 13 cm from 115"			
+"MC125"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		4.03	5.38	1.3349875931	15.4	19.01	20.23	0.11	"NA"	"N"	0	"wood piece"	20	10	200	0.005	36.58724	-121.89817				
+"MC127"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.85	4.65	1.2077922078	17.3	19.01	20.23	0.11	"NA"	"N"	0	"log"	116	85	9860	0.0001	36.58719	-121.89821	"1 other escaped"			
+"MC128"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.49	4.68	1.340974212	16.2	19.01	20.23	0.11	"NA"	"N"	0	"log"	220	18	3960	0.0005	36.58731	-121.89808	"70cm from 129"			
+"MC129"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.38	2.99	0.8846153846	16.2	19.01	20.23	0.11	"NA"	"N"	0	"log"	220	18	3960	0.0005	36.58731	-121.89808	"70 cm from 128"			
+"MC140"	"B. luciae"	"7/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.83	5.2	1.3577023499	16.5	18.99	20.27	0	"NA"	"N"	0	"rotten log"	210	43	9030	0.0002	36.58766	-121.89782	"inside wood"			
+"MC141"	"B. luciae"	"7/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.79	4.04	1.0659630607	16.5	18.99	20.27	0	"NA"	"N"	0	"rotten log"	210	43	9030	0.0002	36.58766	-121.89782	"inside wood"			
+"MC187"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.59	5.28	1.4707520891	19.5	18.99	20.27	0	0	"Y"	4	"rotten log"	338	28			36.58641	-121.89848	"Male ﾖ teeth"			
+"MC188"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0					19.5	18.99	20.27	0	0	"Y"	4	"rotten log"	338	28			36.58641	-121.89848	"very small juv, missing tail"			
+"MC202"	"B. luciae"	"10/18/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	1	0.5	0	0	0		3.6	4.91	1.3638888889	18.8	19.11	20.75	0.34	0	"Y"	2	"log"	108	52	5616	0.0004	36.58652	-121.89847	"yellow eggs visible some with tiny dark lines."			
+"MC207"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.11	4.29	1.3794212219	16	19.42	20.36	2.17	0.0001664332	"N"	0	"log"	427	4	1708	0.0012	36.58638	-121.89848	"within 3"" of 208"			
+"MC208"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.19	3.62	1.1347962382	16	19.42	20.36	2.17	0.0001664332	"N"	0	"log"	427	4	1708	0.0012	36.58638	-121.89848	"inside log."			
+"MC211"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.62	4.29	1.1850828729	16.2	19.42	20.36	2.17	0.0003634556	"N"	0	"log"	305	30	9150	0.0002	36.58647	-121.89821	"3' from 212 under log."			
+"MC212"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.47	4.5	1.2968299712	16.2	19.42	20.36	2.17	0.0003634556	"N"	0	"log"	305	30	9150	0.0002	36.58647	-121.89821				
+"MC232"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.42	4.73	1.3830409357	14.7	19.42	20.36	2.64	"NA"	"N"	0	"branch"	13	10	130	0.0154	36.58706	-121.89876	"l blue. touching 233."			
+"MC233"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		2.74	3.38	1.2335766423	14.7	19.42	20.36	2.64	"NA"	"N"	0	"branch"	122	13	1586	0.0013	36.58706	-121.89876	"purple. touching 232."			
+"MC276"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.98	3.05	0.7663316583	13.1	19.48	24.6	6.33	0.0009319335	"Y"	0	"log"	160	25	4000	0.0005	36.58839	-121.89758	"1.5' from 275"			
+"MC277"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.39	1.8	0.5309734513	13.1	19.48	24.6	6.33	0.0009319335	"Y"	0	"log"	160	25	4000	0.0005	36.58839	-121.89758	"1' from 276. tail growing"			
+"MC281"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.51	5.01	1.4273504274	13.4	19.48	24.6	6.33	0.000821523	"Y"	0	"bark"	40	10	400	0.005	36.58831	-121.89766	"3"" from 282"			
+"MC282"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.58	5.18	1.4469273743	13.4	19.48	24.6	6.33	0.000821523	"Y"	0	"bark"	40	10	400	0.005	36.58831	-121.89766	"3"" from 281"			
+"MC285"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.08	4.38	1.4220779221	14.1	19.48	24.6	6.33	0.0008490583	"Y"	0	"wood piece"	56	15	840	0.0024	36.58833	-121.89764	"3' from 278. In the process of shedding skin."			
+"MC286"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	0	0	0	0	0		3.39	3.39	1	14.1	19.48	24.6	6.33	0.0008490583	"Y"	0	"wood piece"	56	15	840	0.0024	36.58833	-121.89764				
+"MC61"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		2.88	3.77	1.3090277778	18.3	18.84	20.04	0.53	"NA"	"N"	0	"log"	146	14	2044	0.0015	36.58667	-121.89881				
+"MC62"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.15	3.63	1.1523809524	18.3	18.84	20.04	0.53	"NA"	"N"	0	"log"	146	14	2044	0.0015	36.58667	-121.89881				
+"MC63"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		2.98	3.52	1.1812080537	18.3	18.84	20.04	0.53	"NA"	"N"	0	"log"	146	14	2044	0.0015	36.58667	-121.89881				
+"MC82"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		2.69	2.49	0.9256505576	16.5	18.84	20.04	0.44	"NA"	"N"	0	"log"					36.58701	-121.89867	"green"	"127-129"		
+"MC83"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.13	3.84	1.2268370607	16.5	18.84	20.04	0.44	"NA"	"N"	0	"log"					36.58701	-121.89867	"purple"			
+"MC84"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.04	3.45	1.1348684211	16.5	18.84	20.04	0.44	"NA"	"N"	0	"log"					36.58701	-121.89867	"yellow"			
+"MC92"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.11	3.31	1.0643086817	19.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	228	10	2280	0.0013	36.58773	-121.89782	"yellow"	"0325-0327"		
+"MC93"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.36	3.36	1	19.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	228	10	2280	0.0013	36.58773	-121.89782	"green, touching MC92"			
+"MC94"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.38	4	1.1834319527	19.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	228	10	2280	0.0013	36.58773	-121.89782	"purple"	" 40 cm from MC91&92"		
+"MC130"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		4	5.1	1.275	16.9	19.01	20.23	0.11	"NA"	"N"	0	"branch"	40	8	320	0.0063	36.58709	-121.89835				
+"MC131"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		4.14	5.83	1.4082125604	16.9	19.01	20.23	0.11	"NA"	"N"	0	"branch"	40	8	320	0.0063	36.58709	-121.89835	"3rd escaped"			
+"MC133"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.25	4.99	1.5353846154	16.1	19.01	20.23	0.11	"NA"	"N"	0	"log"	240	10	2400	0.0013	36.58694	-121.89835				
+"MC134"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.62	4.6	1.270718232	16.1	19.01	20.23	0.11	"NA"	"N"	0	"log"	240	10	2400	0.0013	36.58694	-121.89835				
+"MC135"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.45	4.32	1.252173913	16.1	19.01	20.23	0.11	"NA"	"N"	0	"log"	240	10	2400	0.0013	36.58694	-121.89835				
+"MC137"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.87	4.05	1.0465116279	16.7	19.01	20.23	0.11	"NA"	"N"	0	"rotten log"	60	15	900	0.0033	36.58689	-121.89846	"broken skin on tail"			
+"MC138"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3	2.98	0.9933333333	16.7	19.01	20.23	0.11	"NA"	"N"	0	"rotten log"	60	15	900	0.0033	36.58689	-121.89846	"inside wood, in branch of log (30x10)"			
+"MC139"	"B. luciae"	"6/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.7	5.36	1.4486486486	16.7	19.01	20.23	0.11	"NA"	"N"	0	"rotten log"	60	15	900	0.0033	36.58689	-121.89846	"inside wood, in branch of log (30x10)"			
+"MC172"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	6	0.75	0	0	0		3.61	4.7	1.3019390582	21.9	18.99	20.27	0	0.0035017281	"Y"	4	"large log"	173	61	10553	0.0008	36.58642	-121.89856				
+"MC181"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	1	0.33	0	0	0		4.33	6.3	1.454965358	19.5	18.99	20.27	0	0.0034214617	"Y"	4	"log"	338	28			36.58641	-121.89848				
+"MC182"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	1	0.33	0	0	0		3.56	4.55	1.2780898876	19.5	18.99	20.27	0	0.0034214617	"Y"	4	"log"	338	28			36.58641	-121.89848				
+"MC197"	"B. luciae"	"10/18/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	2	0.67	0	0	0		4.13	6.93	1.6779661017	18.7	19.11	20.75	0.34	0.0032222352	"Y"	2	"rotten log"	82	28	2296	0.0013	36.58642	-121.89856	"same log as MC183"			
+"MC226"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		2.67	3.18	1.191011236	15.4	19.42	20.36	2.64	"NA"	"N"	0	"log"	152	46	6992	0.0004	36.5871	-121.89879	"orange. 2' from 227,228"			
+"MC227"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.54	4.8	1.3559322034	15.4	19.42	20.36	2.64	"NA"	"N"	0	"log"	152	46	6992	0.0004	36.5871	-121.89879	"l. blue. 3cm from 228"			
+"MC228"	"B. luciae"	"11/23/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.15	3.54	1.1238095238	15.4	19.42	20.36	2.64	"NA"	"N"	0	"log"	152	46	6992	0.0004	36.5871	-121.89879	"green. 3 cm from 227"			
+"MC278"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		2.97	3.45	1.1616161616	13	19.48	24.6	6.33	0.0008490583	"Y"	0	"wood piece"	45	20	900	0.0033	36.58833	-121.89764	"278, 279, 280 very close, touching"			
+"MC279"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		2.84	3.54	1.2464788732	13	19.48	24.6	6.33	0.0008490583	"Y"	0	"wood piece"	45	20	900	0.0033	36.58833	-121.89764				
+"MC280"	"B. luciae"	"12/13/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	0	0	0	0	0		3.63	4.87	1.3415977961	13	19.48	24.6	6.33	0.0008490583	"Y"	0	"wood piece"	45	20	900	0.0033	36.58833	-121.89764				
+"MC86"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.11	3.95	1.270096463	15	18.84	20.04	0.44	"NA"	"N"	0	"log"	190	18	3420	0.0012	36.5869	-121.89859	"green"	"photo cover: 0314"		
+"MC87"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.36	3.91	1.1636904762	15	18.84	20.04	0.44	"NA"	"N"	0	"log"	190	18	3420	0.0012	36.5869	-121.89859	"yellow"	" between bark and log"	"0305-0306"	
+"MC88"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.38	4	1.1834319527	15	18.84	20.04	0.44	"NA"	"N"	0	"log"	190	18	3420	0.0012	36.5869	-121.89859	"purple"	" under bark on ground"	" under 87"	
+"MC89"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.34	4.03	1.2065868263	15	18.84	20.04	0.44	"NA"	"N"	0	"log"	190	18	3420	0.0012	36.5869	-121.89859	"d. blue"	" lethargic"	" 1 more b/t bark/ground escaped. All adults. Distance 89 to 87&88 = 1m"	"0307-0310"
+"MC120"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.75	6.08	1.6213333333	17.4	19.01	20.23	0.1	"NA"	"N"	0	"log"	200	20	4000	0.001	36.58791	-121.89746	"on ground under log"			
+"MC121"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.11	4.03	1.2958199357	17.4	19.01	20.23	0.1	"NA"	"N"	0	"log"	200	20	4000	0.001	36.58791	-121.89746	"5cm from 122"			
+"MC122"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.62	4.15	1.1464088398	17.4	19.01	20.23	0.1	"NA"	"N"	0	"log"	200	20	4000	0.001	36.58791	-121.89746	"5cm from 121"			
+"MC123"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.43	4.24	1.2361516035	17.4	19.01	20.23	0.1	"NA"	"N"	0	"log"	200	20	4000	0.001	36.58791	-121.89746				
+"MC144"	"B. luciae"	"7/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	0	0	0		3.35	4.45	1.328358209	18.7	18.99	20.27	0	"NA"	"N"	0	"rotting log pile"	80	32	2560	0.0016	36.58652	-121.89853				
+"MC145"	"B. luciae"	"7/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	0	0	0		3.62	5.08	1.4033149171	18.7	18.99	20.27	0	"NA"	"N"	0	"rotting log pile"	80	32	2560	0.0016	36.58652	-121.89853				
+"MC146"	"B. luciae"	"7/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	0	0	0		3.7	6.25	1.6891891892	18.7	18.99	20.27	0	"NA"	"N"	0	"rotting log pile"	80	32	2560	0.0016	36.58652	-121.89853				
+"MC148"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.84	3.8	0.9895833333	17.5	18.99	20.27	0	"NA"	"N"	0	"rotting log"	160	30	4800	0.0008	36.58766	-121.89782				
+"MC149"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.41	4.39	1.2873900293	17.5	18.99	20.27	0	"NA"	"N"	0	"rotting log"	160	30	4800	0.0008	36.58766	-121.89782				
+"MC150"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		4.15	5.97	1.4385542169	17.5	18.99	20.27	0	"NA"	"N"	0	"rotting log"	160	30	4800	0.0008	36.58766	-121.89782				
+"MC151"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	0	0	0	0	0		3.81	6.23	1.6351706037	17.5	18.99	20.27	0	"NA"	"N"	0	"rotting log"	160	30	4800	0.0008	36.58766	-121.89782				
+"MC192"	"B. luciae"	"08/16/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	0	0	0																						
+"MC193"	"B. luciae"	"08/16/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	0	0	0																						
+"MC195"	"B. luciae"	"08/16/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	0	0	0																						
+"MC56"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.17	4.58	1.4447949527	16.8	18.84	20.04	0.53	"NA"	"N"	0	"log"	66	14	924	0.0054	36.58668	-121.89877				
+"MC57"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.05	4.02	1.3180327869	16.8	18.84	20.04	0.53	"NA"	"N"	0	"log"	66	14	924	0.0054	36.58668	-121.89877				
+"MC58"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.41	4.24	1.2434017595	16.8	18.84	20.04	0.53	"NA"	"N"	0	"log"	66	14	924	0.0054	36.58668	-121.89877				
+"MC59"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.37	4.96	1.471810089	16.8	18.84	20.04	0.53	"NA"	"N"	0	"log"	66	14	924	0.0054	36.58668	-121.89877	"skin peeling off part of tail."			
+"MC60"	"B. luciae"	"5/4/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.11	4.25	1.3665594855	16.8	18.84	20.04	0.53	"NA"	"N"	0	"log"	66	14	924	0.0054	36.58668	-121.89877				
+"MC74"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.28	3.34	1.0182926829	15.9	18.84	20.04	0.44	"NA"	"N"	0	"log"	150	16	2400	0.0021	36.58679	-121.89892	"yellow"			
+"MC75"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.36	4.17	1.2410714286	15.9	18.84	20.04	0.44	"NA"	"N"	0	"log"	150	16	2400	0.0021	36.58679	-121.89892	"green; very thick body, blunt tip tail - growing"			
+"MC76"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.65	4.6	1.2602739726	15.9	18.84	20.04	0.44	"NA"	"N"	0	"log"	150	16	2400	0.0021	36.58679	-121.89892	"burgundy"	" very twitchy"		
+"MC77"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.57	4.57	1.2801120448	15.9	18.84	20.04	0.44	"NA"	"N"	0	"log"	150	16	2400	0.0021	36.58679	-121.89892	"purple"			
+"MC78"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.35	4.24	1.2656716418	15.9	18.84	20.04	0.44	"NA"	"N"	0	"log"	150	16	2400	0.0021	36.58679	-121.89892	"blue"	" touching purple"		
+"MC105"	"B. luciae"	"6/7/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.44	4.39	1.2761627907	17.1	19.01	20.23	0.1	"NA"	"N"	0	"rotten log"	80	25	2000	0.0005	36.58765	-121.89785	"3m from 103/104. 4 escaped"			
+"MC215"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.64	4.15	1.1401098901	17.5	19.42	20.36	2.17	0.0026241951	"N"	0	"wood piece"	61	8	488	0.0102	36.5886	-121.89697	"Alone, has eggs. 215-219 in same wood piece pile near dead snag"			
+"MC216"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.41	4.03	1.1818181818	17.5	19.42	20.36	2.17	0.0026241951	"N"	0	"wood piece"	61	8	488	0.0102	36.5886	-121.89697	"1' from 217"			
+"MC217"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		2.66	2.82	1.0601503759	17.5	19.42	20.36	2.17	0.0026241951	"N"	0	"wood piece"	61	8	488	0.0102	36.5886	-121.89697				
+"MC218"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		3.7	5.77	1.5594594595	17.5	19.42	20.36	2.17	0.0026241951	"N"	0	"wood piece"	61	8	488	0.0102	36.5886	-121.89697	"touching 219"			
+"MC219"	"B. luciae"	"11/12/14"	"Don Dahvee Park, Monterey"	"DD"	1	5	0	0	0	0	0		2.75	1.95	0.7090909091	17.5	19.42	20.36	2.17	0.0026241951	"N"	0	"wood piece"	61	8	488	0.0102	36.5886	-121.89697	"tail growing"			
+"MC96"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	7	0	0	0	0	0		2.45	2.45	1	16.5	18.84	20.04	0.44	"NA"	"N"	0	"cut log"	43	37	1591	0.0044	36.58772	-121.89769	"yellow"	" b/t log and bark"		
+"MC97"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	7	0	0	0	0	0		2.86	2.46	0.8601398601	16.5	18.84	20.04	0.44	"NA"	"N"	0	"cut log"	43	37	1591	0.0044	36.58772	-121.89769	"purple"	" touching MC96"	" b/t log and bark"	
+"MC98"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	7	0	0	0	0	0		2.81	3.26	1.1601423488	16.5	18.84	20.04	0.44	"NA"	"N"	0	"cut log"	43	37	1591	0.0044	36.58772	-121.89769	"red"	" in wood crevice"		
+"MC99"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	7	0	0	0	0	0		2.78	3.33	1.1978417266	16.5	18.84	20.04	0.44	"NA"	"N"	0	"cut log"	43	37	1591	0.0044	36.58772	-121.89769	"L. blue"	" on soil/litter"		
+"MC100"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	7	0	0	0	0	0		3.72	3.95	1.061827957	16.5	18.84	20.04	0.44	"NA"	"N"	0	"cut log"	43	37	1591	0.0044	36.58772	-121.89769	"d. green"	" on soil/litter"		
+"MC101"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	7	0	0	0	0	0		4.35	5.44	1.2505747126	16.5	18.84	20.04	0.44	"NA"	"N"	0	"cut log"	43	37	1591	0.0044	36.58772	-121.89769	"l. green"	" large"	" on soil/litter"	
+"MC102"	"B. luciae"	"5/10/14"	"Don Dahvee Park, Monterey"	"DD"	1	7	0	0	0	0	0		3.11	3.49	1.1221864952	16.5	18.84	20.04	0.44	"NA"	"N"	0	"cut log"	43	37	1591	0.0044	36.58772	-121.89769	"grey"	" on soil/litter"		
+"MC66"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		3.23	3.65	1.1300309598	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"blue"			
+"MC67"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		2.8	4.91	1.7535714286	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"purple"			
+"MC68"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		2.78	3.09	1.1115107914	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"yellow"			
+"MC69"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		3.08	3.9	1.2662337662	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"burgundy"			
+"MC70"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		2.73	3.31	1.2124542125	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"grey"	" touching green"		
+"MC71"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		3.18	4.18	1.3144654088	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"green"			
+"MC72"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		3.08	3.78	1.2272727273	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"orange"			
+"MC73"	"B. luciae"	"5/9/14"	"Don Dahvee Park, Monterey"	"DD"	1	8	0	0	0	0	0		2.9	3.97	1.3689655172	17.1	18.84	20.04	0.44	"NA"	"N"	0	"log"	167	17	2839	0.0028	36.58675	-121.89881	"black"			
+"MC152"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.26	3.9	1.1963190184	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC155"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.9	5.53	1.4179487179	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC156"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		2.68	3.63	1.3544776119	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC157"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.18	3.79	1.1918238994	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848	"lost tail, not recently"			
+"MC158"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.4	3.64	1.0705882353	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848	"lost tail tip recently. Bd first because it was dirty, still slightly dirty for microbiome."			
+"MC160"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.6	5.46	1.5166666667	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC163"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.13	4.59	1.4664536741	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848	"separate from rest of group"			
+"MC164"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.93	4.29	1.0916030534	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC165"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0	0	0		3.9	5.85	1.5	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC170"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	30	6	0.75	0	0	0		3.37	5.32	1.5786350148	19.6	18.99	20.27	0	"NA"	"N"	0	"log- large fallen tree"	173	61	10553	0.0008	36.58642	-121.89856				
+"MC180"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	1	0.33	0.1448	1	0.06		3.55	4.41	1.2422535211	19.5	18.99	20.27	0	0.0034214617	"Y"	4	"log"	338	28	9464	0.0003	36.58641	-121.89848				
+"MC162"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	0.712	1	0.23		3.06	3.69	1.2058823529	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848	"lost tail, not recently"			
+"MC166"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	1.088	1	0.32		3.33	4.55	1.3663663664	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848	"*MC152-166 found in large group under 1st layer of rotting log. 20-30 total."			
+"MC154"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	1.232	1	0.35		3.42	3.6	1.0526315789	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848	"*yellow = brought back to lab for susceptibility trials"			
+"MC199"	"B. luciae"	"10/18/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	2	0.67	1.696	1	0.43		3.34	4.2	1.2574850299	18.7	19.11	20.75	0.34	0.0032222352	"Y"	2	"rotten log"	82	28	2296	0.0013	36.58642	-121.89856	"has teeth."			
+"MC174"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	6	0.75	4.216	1	0.72		3.61	5.32	1.4736842105		18.99	20.27	0	0.0035017281	"Y"	4						36.58642	-121.89856				
+"MC173"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	6	0.75	5.984	1	0.84		3.22	4.44	1.3788819876		18.99	20.27	0	0.0035017281	"Y"	4						36.58642	-121.89856				
+"MC159"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	6.472	1	0.87		3.08	3.4	1.1038961039	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC171"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	30	6	0.75	9.2	1	1.01		3.47	5.79	1.6685878963	19.6	18.99	20.27	0	"NA"	"N"	0	"log- large fallen tree"	173	61	10553	0.0008	36.58642	-121.89856	"*MC167-171 found with ~30 other indificuals under bark of fallen tree. When uncovered briefly, the salamanders moved into crevices in the log."			
+"MC200"	"B. luciae"	"10/18/14"	"Don Dahvee Park, Monterey"	"DD"	1	2	1	0.5	50.08	1	1.71		3.08	3.4	1.1038961039	18.8	19.11	20.75	0.34	0	"Y"	2	"log"	108	52	5616	0.0004	36.58652	-121.89847	"several others slipped into crack as soon as I lifted the bark."			
+"MC179"	"B. luciae"	"7/24/14"	"Don Dahvee Park, Monterey"	"DD"	1	1	1	1	71.6	1	1.86		3.43	3.52	1.0262390671		18.99	20.27	0	0.0035017281	"Y"	4	"log"	210	19	3990	0.0003	36.58642	-121.89856				
+"MC153"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	104	1	2.02		3.59	5.12	1.426183844	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC194"	"B. luciae"	"08/16/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	294.4	1	2.470410491																						
+"MC198"	"B. luciae"	"10/18/14"	"Don Dahvee Park, Monterey"	"DD"	1	3	2	0.67	341.6	1	2.53		3.98	5.06	1.2713567839	18.7	19.11	20.75	0.34	0.0032222352	"Y"	2	"rotten log"	82	28	2296	0.0013	36.58642	-121.89856	"197, 198 very round, slightly lethargic. 4th one escaped. Under bark."			
+"MC161"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	20	6	0.4	337.6	1	2.53		3.27	2.62	0.8012232416	17.2	18.99	20.27	0	"NA"	"N"	0	"log"	210	19	3990	0.0038	36.58641	-121.89848				
+"MC143"	"B. luciae"	"7/8/14"	"Don Dahvee Park, Monterey"	"DD"	1	4	1	0.25	564	1	2.75		4.27	3.21	0.7517564403	18.7	18.99	20.27	0	"NA"	"N"	0	"rotting log pile"	80	32	2560	0.0016	36.58652	-121.89853				
+"MC167"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	30	6	0.75	712	1	2.85		3.8	1.74	0.4578947368	19.6	18.99	20.27	0	"NA"	"N"	0	"log- large fallen tree"	173	61	10553	0.0008	36.58642	-121.89856	"shortened tail"			
+"MC168"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	30	6	0.75	905.6	1	2.96		3.47	4.56	1.3141210375	19.6	18.99	20.27	0	"NA"	"N"	0	"log- large fallen tree"	173	61	10553	0.0008	36.58642	-121.89856				
+"MC169"	"B. luciae"	"7/11/14"	"Don Dahvee Park, Monterey"	"DD"	1	30	6	0.75	4092.8	1	3.61	1.3513265919	3.27	4.26	1.3027522936	19.6	18.99	20.27	0	"NA"	"N"	0	"log- large fallen tree"	173	61	10553	0.0008	36.58642	-121.89856				
+"MC239"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.95	4.93	1.2481012658	14.9	18.25	18.07	2.64	"NA"	"N"	0	"log"	305	13	3965	0.0003	36.54436	-121.91775	"under log"			
+"MC240"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.13	3.5	1.1182108626	14.8	18.25	18.07	2.64	"NA"	"N"	0	"branch"	91	8	728	0.0014	36.54489	-121.91746	"under log"			
+"MC241"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.05	3.11	1.0196721311	15.9	18.25	18.07	2.64	"NA"	"N"	0	"log"	122	13	1586	0.0013	36.54512	-121.91736	"tail growing"			
+"MC242"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.15	3.33	1.0571428571	15.3	18.25	18.07	2.64	"NA"	"N"	0	"log"	122	13	1586	0.0013	36.54512	-121.91736	"5ft away"			
+"MC243"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.28	4.26	1.2987804878	16.8	18.25	18.07	2.64	"NA"	"N"	0	"wood piece"	46	10	460	0.0022	36.54508	-121.91734	"15' away from 244"			
+"MC244"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		2.87	3.37	1.1742160279	16.5	18.25	18.07	2.64	"NA"	"N"	0	"branch"	91	10	910	0.0011	36.54508	-121.91734	"losing skin?"			
+"MC245"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		2.81	2.55	0.9074733096	16.4	18.25	18.07	2.64	"NA"	"N"	0	"branch"	107	8	856	0.0012	36.54497	-121.91737	"10' from 246"			
+"MC248"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		2.89	3.97	1.3737024221	16.4	18.25	18.07	2.64	"NA"	"N"	0	"wood piece"	20	13	260	0.0038	36.54497	-121.91738	"orange/ 6' from 249"			
+"MC249"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		2.78	3.79	1.3633093525	16.5	18.25	18.07	2.64	"NA"	"N"	0	"pine cone"	10	5	50	0.02	36.54497	-121.91738	"green"			
+"MC250"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.39	3.04	0.8967551622	16.4	18.25	18.07	2.64	"NA"	"N"	0	"pine cone"	30	20	600	0.0017	36.54504	-121.91738	"l blue. 2' from 251"			
+"MC251"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		2.9	3.99	1.375862069	16.4	18.25	18.07	2.64	"NA"	"N"	0	"pine cone"	10	10	50	0.02	36.54504	-121.91738	"2' from 250"			
+"MC252"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		2.56	3.43	1.33984375	16.5	18.31	22.14	2.28	"NA"	"N"	0	"branch"	28	5	140	0.0071	36.54498	-121.91742				
+"MC258"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		2.21	0.84	0.3800904977	15.2	18.31	22.14	2.28	"NA"	"N"	0	"leaf litter"	"n/a"				36.54548	-121.91705	"tail growing"			
+"MC259"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.11	5.55	1.7845659164	16.6	18.31	22.14	2.28	"NA"	"N"	0	"log"	150	15	2250	0.0004	36.54556	-121.91705				
+"MC260"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.14	4.98	1.5859872611		18.31	22.14	2.28	"NA"	"N"	0	"bark pieces"	"n/a"				36.54556	-121.91705	"bark pieces near large log 260-263"			
+"MC261"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.1	3.85	1.2419354839		18.31	22.14	2.28	"NA"	"N"	0				0		36.54556	-121.91705				
+"MC262"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.07	4.47	1.4560260586		18.31	22.14	2.28	"NA"	"N"	0				0		36.54556	-121.91705				
+"MC263"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.39	3.84	1.1327433628		18.31	22.14	2.28	"NA"	"N"	0				0		36.54556	-121.91705				
+"MC264"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.18	4.69	1.4748427673	15.9	18.31	22.14	2.28	"NA"	"N"	0	"log"	80	10	800	0.0013	36.54742	-121.91727				
+"MC267"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.34	3.31	0.9910179641	16.9	18.31	22.14	2.28	"NA"	"N"	0	"log"	44	7	308	0.0032	36.54783	-121.91702				
+"MC268"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.39	3.99	1.1769911504	16.9	18.31	22.14	2.28	"NA"	"N"	0	"wood piece"	92	7	644	0.0016	36.54791	-121.91689	"eggs"	"15' from 270"		
+"MC269"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.14	3.12	0.9936305732	16.9	18.31	22.14	2.28	"NA"	"N"	0	"log"	95	10	950	0.0011	36.54794	-121.91709	"15' from 274"			
+"MC270"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.22	4.98	1.5465838509	16.6	18.31	22.14	2.28	"NA"	"N"	0	"bark"	22	8	176	0.0057	36.54791	-121.91689	"eggs"			
+"MC274"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	0	0	0	0	0		3.28	4.34	1.3231707317	16.1	18.31	22.14	2.28	"NA"	"N"	0	"log"	129	10	1290	0.0008	36.54794	-121.91709				
+"MC246"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	2	0	0	0	0	0		2.88	2.88	1	16.4	18.25	18.07	2.64	"NA"	"N"	0	"branch"	61	10	610	0.0033	36.54497	-121.91737	"18"" from 247"			
+"MC247"	"B. luciae"	"11/23/14"	"Mission Trails Park, Carmel"	"MT"	2	2	0	0	0	0	0		3.05	1.68	0.5508196721	16.4	18.25	18.07	2.64	"NA"	"N"	0	"branch"	61	10	610	0.0033	36.54497	-121.91737	"18"" from 246"			
+"MC265"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	2	0	0	0	0	0		3.54	5.19	1.4661016949	16.2	18.31	22.14	2.28	"NA"	"N"	0	"log"	180	17	3060	0.0007	36.54771	-121.91722	"eggs. 265, 266 with 1 ensatina 4' away."			
+"MC266"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	2	0	0	0	0	0		2.99	4.4	1.4715719064	16.2	18.31	22.14	2.28	"NA"	"N"	0	"log"	180	17	3060	0.0007	36.54771	-121.91722				
+"MC271"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	3	0	0	0	0	0		3.33	3.24	0.972972973	16.9	18.31	22.14	2.28	"NA"	"N"	0	"wood piece"	40	35	1400	0.0021	36.54789	-121.91711	"6"" from 272"			
+"MC272"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	3	0	0	0	0	0		3.15	4.25	1.3492063492	16.9	18.31	22.14	2.28	"NA"	"N"	0	"wood piece"	40	35	1400	0.0021	36.54789	-121.91711	"6"" from 271"			
+"MC273"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	3	0	0	0	0	0		2.69	3.41	1.2676579926	16.9	18.31	22.14	2.28	"NA"	"N"	0	"wood piece"	40	35	1400	0.0021	36.54789	-121.91711	"3' from 271"			
+"MC253"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	4	0	0	0	0	0		2.59	3.42	1.3204633205	17.2	18.31	22.14	2.28	"NA"	"N"	0	"branch"	152	3	456	0.0088	36.54515	-121.9173	"same branch 253-256. 6"" from 254"			
+"MC254"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	4	0	0	0	0	0		2.98	2.18	0.7315436242	17.2	18.31	22.14	2.28	"NA"	"N"	0	"branch"	152	3	456	0.0088	36.54515	-121.9173	"1' from 255"			
+"MC255"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	4	0	0	0	0	0		2.93	1.94	0.662116041	17.2	18.31	22.14	2.28	"NA"	"N"	0	"branch"	152	3	456	0.0088	36.54515	-121.9173	"4"" from 256"			
+"MC256"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	4	0	0	0	0	0		2.54	2.87	1.1299212598	17.2	18.31	22.14	2.28	"NA"	"N"	0	"branch"	152	3	456	0.0088	36.54515	-121.9173				
+"MC257"	"B. luciae"	"12/7/14"	"Mission Trails Park, Carmel"	"MT"	2	1	1	1	3.568	1	0.66		4.07	3.82	0.9385749386	15.9	18.31	22.14	2.28	"NA"	"N"	0	"leaf litter"	"n/a"				36.54495	-121.91763	"eggs. 6' from AB061"			
+"MC53"	"B. luciae"	"5/3/14"	"Landels-Hill Big Creek Reserve"	"OT"	3	1	0	0	0	0	0		2.4	3.38	1.4083333333	14.3	20.06	52.5	0.53	"NA"	"N"	0	"rock"	28	21	588	0.0017	36.28282	-121.71684				
+"MC299"	"B. luciae"	"12/20/14"	"Hastings Natural Reserve"	"OT"	3	1	0	0	0	0	0		3.47	5.1	1.469740634	13.9	22.68	25.83	8.84	"NA"	"N"	0	"log"	24	15	360	0.0028	36.38921	-121.54769	"under log"			
+"MC300"	"B. luciae"	"12/20/14"	"Hastings Natural Reserve"	"OT"	3	1	0	0	0	0	0		3.48	3.52	1.0114942529	13	22.68	25.83	8.84	"NA"	"N"	0	"branch"	83	8	664	0.0015	36.38928	-121.54759	"in same pile as 301"			
+"MC301"	"B. luciae"	"12/20/14"	"Hastings Natural Reserve"	"OT"	3	1	0	0	0	0	0		3.68	5.55	1.5081521739	14.7	22.68	25.83	8.84	"NA"	"N"	0	"log"	366	25	9150	0.0001	36.38928	-121.54759	"in same pile as 300. Very large fallen tree, one part on ground. Inside log. 4' from 300"			
+"MC302"	"B. luciae"	"12/20/14"	"Hastings Natural Reserve"	"OT"	3	1	0	0	0	0	0		3.47	4.54	1.3083573487	14.7	22.68	25.83	8.84	"NA"	"N"	0	"log"	130	12	1560	0.0006	36.38858	-121.54941	"under log"			
+"MC303"	"B. luciae"	"12/21/14"	"Hastings Natural Reserve"	"OT"	3	1	0	0	0	0	0		3.13	4.53	1.447284345	13.6	23.73	24.45	8.79	"NA"	"N"	0	"log"	90	20	1800	0.0006	36.4661	-121.71293				
+"MC55"	"B. luciae"	"5/3/14"	"Landels-Hill Big Creek Reserve"	"OT"	3	1	1	1	0.744	1	0.24		2.89	3.9	1.3494809689	13.8	20.06	52.5	0.53	"NA"	"N"	0	"log"	50	10	500	0.002	36.2805	-121.71822				
+"MC54"	"B. luciae"	"5/3/14"	"Landels-Hill Big Creek Reserve"	"OT"	3	1	1	1	2.752	1	0.57	1.7062210514	2.8	3.1	1.1071428571	15	20.06	52.5	0.53	"NA"	"N"	0	"rock"	27	25	675	0.0015	36.2805	-121.71822				
+"MC325"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.04	3.83	1.2598684211	14.8	16.98	38.97	0.56	0.0002816026	"N"	0	"on log under bark"	158	35	5530	0.0002	36.609	-121.93091	"130 cm from 323-324"			
+"MC326"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.49	4.73	1.3553008596	15.3	16.98	38.97	0.56	0.0004716991	"N"	0	"on log under bark"	167	40	6680	0.0001	36.6088	-121.93087				
+"MC327"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.69	5.96	1.6151761518	16.5	16.98	38.97	0.56	0.0004716991	"N"	0	"on log under bark"	167	40	6680	0.0001	36.6088	-121.93087	"208cm from 326"			
+"MC330"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.18	4.16	1.3081761006	15.1	16.98	38.97	0.56	"2.99999999953e-05"	"Y"	1	"log"	208	15	3120	0.0003	36.6093	-121.93083	"adjacent log, 48 cm from 327-8"			
+"MC331"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.63	2.72	1.0342205323	16.1	16.98	38.97	0.56	"5.00000000017e-05"	"Y"	1	"bark piece"	23	12	276	0.0036	36.60927	-121.93088	"7m from 332"			
+"MC341"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	1	0.5	0	0	0		3.48	4.87	1.3994252874	15.6	16.98	38.97	0.56	"?"	"N"	0	"bark"	60	14	840	0.0024	36.6082	-121.93118				
+"MC345"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.36	3.59	1.068452381	15.6	16.98	38.97	0.56	"?"	"N"	0	"log"	240	23	5520	0.0002	36.60785	-121.93118				
+"MC348"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.38	4.38	1.2958579882	15.1	16.98	38.97	0.56	"?"	"N"	0	"log"	63	10	630	0.0016	36.60833	-121.93122				
+"MC349"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.14	2.14	1	15	16.98	38.97	0.56	"?"	"N"	0	"branch"	54	7	378	0.0026	36.60808	-121.93123				
+"MC356"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.25	4.18	1.2861538462	14.8	16.98	38.97	0.56	"NA"	"N"	0	"log"	244	25	6100	0.0002	36.60877	-121.93135				
+"MC360"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.01	3.56	1.1827242525	15.4	16.98	38.97	0.56	"NA"	"N"	0	"branch"	35	6	210	0.0048	36.6087	-121.93142				
+"MC363"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.13	4.82	1.5399361022	15	16.98	38.97	0.56	"NA"	"N"	0	"log"	116	13	1508	0.0007	36.60871	-121.9315	"350 cm from 362?"			
+"MC368"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.74	3.55	1.295620438	14.9	16.98	38.97	0.56	"NA"	"N"	0	"log"	185	30	5550	0.0002	36.60882	-121.93207				
+"MC369"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.18	3.33	1.0471698113	14.5	16.98	38.97	0.56	"NA"	"N"	0	"branch"	60	8	480	0.0021	36.60882	-121.93207				
+"MC370"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3	3.35	1.1166666667	14.4	16.98	38.97	0.56	"NA"	"N"	0	"wood piece"	40	18	720	0.0014	36.60884	-121.93214				
+"MC371"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.72	3.53	1.2977941176	15.9	16.98	38.97	0.56	"NA"	"N"	0	"wood piece"	53	19	1007	0.001	36.60892	-121.93211				
+"MC372"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		4.1	"--"		15.7	16.98	38.97	0.56	"NA"	"N"	0	"wood piece"	35	12	420	0.0024	36.60894	-121.93236	"tail autonomized while swabbing"			
+"MC373"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.48	4.04	1.1609195402	15.9	16.98	38.97	0.56	"NA"	"N"	0	"branch"	79	8	632	0.0016	36.60888	-121.93236				
+"MC379"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.29	4.28	1.3009118541	16.4	16.98	38.97	0.56	"NA"	"N"	0	"log"	85	12	1020	0.001	36.60865	-121.93228				
+"MC386"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.26	3.53	1.0828220859	15.7	16.92	38.81	0.22	"NA"	"N"	0	"log piece"	70	9	630	0.0016	36.60795	-121.9309	"mold growing on tail? Orange"			
+"MC387"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.46	4.42	1.2774566474	15.9	16.92	38.81	0.22	"NA"	"N"	0	"log piece"	53	20	1060	0.0009	36.60795	-121.9309	"1m from 382-386"			
+"MC388"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.49	5.25	1.5042979943	15.6	16.92	38.81	0.22	"NA"	"N"	0	"log (oak)"	75	10	750	0.0013	36.60794	-121.93108	"l. green"			
+"MC389"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.49	4.98	1.4269340974	15.8	16.92	38.81	0.22	"NA"	"N"	0	"log (oak)"	136	20	2720	0.0004	36.6079	-121.931	"160cm from 390-391"			
+"MC392"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.92	4.03	1.3801369863	15.4	16.92	38.81	0.22	"NA"	"N"	0	"log (oak)"	180	24	4320	0.0002	36.6079	-121.931	"110 cm from 390"			
+"MC394"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.27	3.93	1.2018348624	16.4	16.92	38.81	0.22	"NA"	"N"	0	"wood piece"	66	14	924	0.0011	36.60772	-121.93097	"d. green"			
+"MC395"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.04	3.83	1.2598684211	16.6	16.92	38.81	0.22	"NA"	"N"	0	"log"	147	20	2940	0.0003	36.60772	-121.93097	"2.5 m from 394. orange"			
+"MC399"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.94	2.75	0.9353741497	17.4	16.92	38.81	0.22	"NA"	"N"	0	"branch (oak)"	62	8	496	0.002	36.60779	-121.93082	"pink. 155cm from 400"			
+"MC400"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.64	2.66	1.0075757576	17.4	16.92	38.81	0.22	"NA"	"N"	0	"branch (oak)"	76	9	684	0.0015	36.60779	-121.93082	"d. green. 155cm from 399"			
+"MC401"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.87	1.11	0.3867595819	17.8	16.92	38.81	0.22	"NA"	"N"	0	"log"	56	12	672	0.0015	36.60782	-121.93083	"orange. tail growing."			
+"MC402"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.81	4.99	1.7758007117	17.3	16.92	38.81	0.22	"NA"	"N"	0	"log"	256	12	3072	0.0003	36.60796	-121.93076	"red"			
+"MC404"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.23	4.31	1.3343653251	17.6	16.92	38.81	0.4	"NA"	"N"	0	"log"	110	10	1100	0.0009	36.60948	-121.93098	"d.green"			
+"MC405"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.91	3.33	1.1443298969	18.1	16.92	38.81	0.4	"NA"	"N"	0	"bark"	30	12	360	0.0028	36.60946	-121.93082	"pink"			
+"MC406"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.47	4.35	1.2536023055	17	16.92	38.81	0.4	"NA"	"N"	0	"log"	90	19	1710	0.0006	36.60961	-121.93145	"burgandy"			
+"MC409"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.95	5.1	1.2911392405	17.2	16.92	38.81	0.4	"NA"	"N"	0	"log"	18	100	1800	0.0006	36.61007	-121.93138	"yellow. eggs"			
+"MC412"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.67	5.15	1.4032697548	18.7	16.92	38.81	0.4	"NA"	"N"	0	"log"	94	28	2632	0.0004	36.60985	-121.93178	"3m from 413. burgandy."			
+"MC424"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.5	4.83	1.38	13.2	16.92	38.81	0.83	"NA"	"N"	0	"log"	193	12	2316	0.0004	36.60966	-121.93049	"red"			
+"MC425"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.68	4.31	1.1711956522	13.9	16.92	38.81	0.83	"NA"	"N"	0	"branch"	71	6	426	0.0023	36.60953	-121.93033	"3m from 422"			
+"MC428"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.95	2.77	0.9389830508	12.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	113	14	1582	0.0006	36.60984	-121.93024	"red"			
+"MC430"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.38	4.53	1.3402366864	13.8	16.92	38.81	0.83	"NA"	"N"	0	"log"	93	14	1302	0.0008	36.60974	-121.93033				
+"MC431"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		2.49	2.65	1.0642570281	14	16.92	38.81	0.83	"NA"	"N"	0	"branch"	83	9	747	0.0013	36.60984	-121.93028	"pink"			
+"MC432"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.67	5.74	1.5640326975	14.4	16.92	38.81	0.83	"NA"	"N"	0	"log"	190	16	3040	0.0003	36.60984	-121.93028	"different piece of same log as 426-27. orange."			
+"MC439"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.79	4.78	1.2612137203	14.4	16.92	38.81	0.83	"NA"	"N"	0	"branch"	150	7	1050	0.001	36.60975	-121.92995	"orange"			
+"MC443"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.49	4.14	1.1862464183	14.6	16.92	38.81	0.83	"NA"	"N"	0	"branch"	60	12	720	0.0014	36.60998	-121.92976	"pink"			
+"MC444"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.54	4.46	1.2598870056	14.3	16.92	38.81	0.83	"NA"	"N"	0	"bark piece"	50	23	1150	0.0009	36.61005	-121.92978	"l. grn"			
+"MC445"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.55	4.7	1.323943662	14.4	16.92	38.81	0.83	"NA"	"N"	0	"bark piece"	22	5	110	0.0091	36.61005	-121.92978	"orange"			
+"MC446"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.57	5.13	1.4369747899	14.3	16.92	38.81	0.83	"NA"	"N"	0	"branch"	74	7	518	0.0019	36.61005	-121.92978	"red"			
+"MC449"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.67	5.65	1.5395095368	14.9	16.92	38.81	0.83	"NA"	"N"	0	"bark piece"	18	6	108	0.0093	36.61005	-121.92978	"red"			
+"MC450"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.78	5	1.3227513228	14.1	16.92	38.81	0.83	"NA"	"N"	0	"bark piece"	74	30	2220	0.0005	36.61011	-121.92963	"pink"			
+"MC464"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		4.28	4.1	0.9579439252	12.8	17.23	34.44	1.26	0.001248439	"N"	0	"log"	70	20	1400	0.0007	36.61021	-121.92977	"l. grn"			
+"MC465"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.1	4.49	1.4483870968	14.3	17.23	34.44	1.26	0.001248439	"N"	0	"wood piece"	26	11	286	0.0035	36.61021	-121.92977	"4m from 462-64"			
+"MC468"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.22	4.17	1.2950310559	12.8	17.23	34.44	1.26	0.0007580237	"N"	0	"log"	176	13	2288	0.0004	36.61057	-121.93011				
+"MC469"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.02	4.02	1.3311258278	13.8	17.23	34.44	1.26	0.0007000714	"N"	0	"branch"	78	6	468	0.0021	36.61052	-121.93023	"pink"			
+"MC470"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.4	3.89	1.1441176471	14	17.23	34.44	1.26	0.0007000714	"N"	0	"wood piece"	47	18	846	0.0012	36.61052	-121.93023	"l. grn"			
+"MC472"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.89	2.32	0.5964010283	12.1	17.23	34.44	1.26	0	"Y"	1	"log"	90	18	1620	0.0006	36.61102	-121.93072	"l.grn"			
+"MC473"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.48	4.79	1.3764367816	12.1	17.23	34.44	1.26	0	"Y"	1	"log"	93	7	651	0.0015	36.61102	-121.93072	"orange"			
+"MC475"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.2	4.75	1.484375	16.5	17.23	34.44	1.26	0.0001612452	"Y"	1	"bark"	45	17	765	0.0013	36.61104	-121.93088	"l. blue"			
+"MC476"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.82	4.4	1.1518324607	14.7	17.23	34.44	1.26	0.0001612452	"Y"	1	"bark"	64	23	1472	0.0007	36.61104	-121.93088	"orange. 2 m from 475"			
+"MC477"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0		0	0		2.77	2.35	0.8483754513	13.5	17.23	34.44	1.26	0.0001360147	"Y"	2	"wood piece"	25	6	150	0.0067	36.61094	-121.93085				
+"MC481"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.39	4.36	1.2861356932	16.2	17.23	34.44	1.26	0.0027089481	"N"	0	"log"	220	23	5060	0.0002	36.6082	-121.9312	"prev. recorded log"			
+"MC484"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.52	4.65	1.3210227273	13.4	17.23	34.44	1.26	0.0028684491	"N"	0	"wood piece"	33	20	660	0.0015	36.60804	-121.9312	"could have eggs, not collected. l. grn"			
+"MC485"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	1	0	0	0	0	0		3.46	4.26	1.2312138728	14.4	17.23	34.44	1.26	0.0029816774	"N"	0	"log"	124	14	1736	0.0006	36.60792	-121.93108				
+"MC323"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.72	4.04	1.0860215054	14.2	16.98	38.97	0.56	0.0002816026	"N"	0	"bark"	46	16	736	0.0027	36.609	-121.93091	"under bark pice, under 324"			
+"MC324"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.21	3.85	1.199376947	14.2	16.98	38.97	0.56	0.0002816026	"N"	0	"bark"	54	16	864	0.0023	36.609	-121.93091	"b/t 2 bark pieces. 324 directly under bark."			
+"MC333"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	1	0.5	0	0	0		3.38	2.69	0.7958579882	14.1	16.98	38.97	0.56	"4.47213595578e-05"	"Y"	1	"log"	190	18	3420	0.0006	36.60923	-121.93085	"106 cm from 332"			
+"MC339"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	1	0.5	0	0	0		0	0		14.9	16.98	38.97	0.56	0.0009414882	"N"	0	"bark"	40	24	960	0.0021	36.60835	-121.93103	"with 338, measurements not taken."			
+"MC344"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	1	0.5	0	0	0		3.27	3.48	1.0642201835	15.5	16.98	38.97	0.56	"?"	"N"	0	"log"	230	20	4600	0.0004	36.60815	-121.93121	"30 cm from 343"			
+"MC346"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.74	4.95	1.3235294118	15	16.98	38.97	0.56	"?"	"N"	0	"log"	157	28	4396	0.0005	36.60798	-121.93134	"15 cm from 347"			
+"MC347"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.55	5.58	1.5718309859	15	16.98	38.97	0.56	"?"	"N"	0	"log"	157	28	4396	0.0005	36.60798	-121.93134	"15 cm from 346"			
+"MC361"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.6	4.14	1.15	15.1	16.98	38.97	0.56	"NA"	"N"	0	"branch"	128	10	1280	0.0016	36.60857	-121.9314	"5 cm from 362"			
+"MC362"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.76	3.79	1.0079787234	15.1	16.98	38.97	0.56	"NA"	"N"	0	"branch"	128	10	1280	0.0016	36.60857	-121.9314	"5cm from 361"			
+"MC364"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.09	3.77	1.2200647249	14.9	16.98	38.97	0.56	"NA"	"N"	0	"branch"	90	7	630	0.0032	36.60879	-121.93211	"8cm from 365"			
+"MC365"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.31	3.46	1.0453172205	14.9	16.98	38.97	0.56	"NA"	"N"	0	"branch"	90	7	630	0.0032	36.60879	-121.93211	"8cm from 364"			
+"MC366"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.46	5.51	1.5924855491	14.6	16.98	38.97	0.56	"NA"	"N"	0					"#DIV/0!"	36.60882	-121.93207				
+"MC367"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.12	1.22	0.391025641	14.6	16.98	38.97	0.56	"NA"	"N"	0					"#DIV/0!"	36.60882	-121.93207	"tail growing"			
+"MC414"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.44	4.5	1.3081395349	17.1	16.92	38.81	0.4	"NA"	"N"	0	"log"	320	26	8320	0.0002	36.60988	-121.93168	"d. green. 258cm from 415"			
+"MC415"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.31	4.82	1.4561933535	17.1	16.92	38.81	0.4	"NA"	"N"	0	"log"	320	26	8320	0.0002	36.60988	-121.93168	"pink. 258cm from 414"			
+"MC416"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.29	4.96	1.5075987842	18.6	16.92	38.81	0.4	"NA"	"N"	0	"log"	114	38	4332	0.0005	36.60995	-121.93167	"pink."			
+"MC417"	"B. luciae"	"2/8/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.75	5.29	1.4106666667	18.6	16.92	38.81	0.4	"NA"	"N"	0	"log"	114	38	4332	0.0005	36.60995	-121.93167	"l. green"			
+"MC422"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.61	4.01	1.1108033241	14.4	16.92	38.81	0.83	"NA"	"N"	0	"log"	160	10	1600	0.0013	36.60953	-121.93033	"pink, 30 cm from 423"			
+"MC423"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.42	4.37	1.2777777778	14.4	16.92	38.81	0.83	"NA"	"N"	0	"log"	160	10	1600	0.0013	36.60953	-121.93033	"l. grn, 30 cm from 422"			
+"MC426"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.14	4.55	1.449044586	12.8	16.92	38.81	0.83	"NA"	"N"	0	"log"	130	14	1820	0.0011	36.60977	-121.93001	"pink, under bark. 20 cm from 427"			
+"MC427"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.25	4.43	1.3630769231	12.8	16.92	38.81	0.83	"NA"	"N"	0	"log"	130	14	1820	0.0011	36.60977	-121.93001	"l. grn, under bark, 20 cm from 426. 426-7 with one ensatina juv."			
+"MC447"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.48	5.31	1.525862069	14.7	16.92	38.81	0.83	"NA"	"N"	0	"bark piece"	44	18	792	0.0025	36.61	-121.92969	"orange, touching 448"			
+"MC448"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.2	3.64	1.1375	14.7	16.92	38.81	0.83	"NA"	"N"	0	"bark piece"	44	18	792	0.0025	36.61	-121.92969	"touching 447"			
+"MC451"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.85	5.5	1.4285714286	13.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	200	17	3400	0.0006	36.61015	-121.9297	"l. blue"			
+"MC452"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.46	4.31	1.2456647399	13.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	200	17	3400	0.0006	36.61015	-121.9297	"l. grn"			
+"MC462"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.63	5.3	1.4600550964	13.5	17.23	34.44	1.26	0.001248439	"N"	0	"log"	150	20	3000	0.0007	36.61021	-121.92977	"red. 110 cm from 463"			
+"MC463"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.14	3.45	1.0987261146	13.5	17.23	34.44	1.26	0.001248439	"N"	0	"log"	150	20	3000	0.0007	36.61021	-121.92977	"orange. 110 cm from 462"			
+"MC466"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		2.93	3.93	1.3412969283	13.1	17.23	34.44	1.26	0.001098772	"N"	0	"branch"	44	6	264	0.0076	36.6103	-121.92989	"pink"			
+"MC467"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.25	3.67	1.1292307692	13.1	17.23	34.44	1.26	0.001098772	"N"	0	"branch"	44	6	264	0.0076	36.6103	-121.92989	"red"			
+"MC479"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.32	4.94	1.4879518072	13.7	17.23	34.44	1.26	0.002372172	"N"	0	"log"	238	11	2618	0.0008	36.60854	-121.93122	"10 cm from 480"			
+"MC480"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.52	4.22	1.1988636364	13.7	17.23	34.44	1.26	0.002372172	"N"	0	"log"	238	11	2618	0.0008	36.60854	-121.93122	"10cm from 479"			
+"MC482"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.13	3.06	0.9776357827	13.6	17.23	34.44	1.26	0.003043222	"N"	0	"log"	130	20	2600	0.0008	36.60786	-121.93084	"orange. 40 cm from 483"			
+"MC483"	"B. luciae"	"3/1/15"	"Rip Van Winkle Open Space"	"RV"	4	2	0	0	0	0	0		3.45	3.7	1.0724637681	13.6	17.23	34.44	1.26	0.003043222	"N"	0	"log"	130	20	2600	0.0008	36.60786	-121.93084	"red. 40 cm from 482"			
+"MC357"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	3	1	0.33	0	0	0		3.7	5.68	1.5351351351	15	16.98	38.97	0.56	"NA"	"N"	0	"log"	290	30	8700	0.0003	36.60877	-121.93135				
+"MC359"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	3	1	0.33	0	0	0		3.08	4.2	1.3636363636	15	16.98	38.97	0.56	"NA"	"N"	0	"log"	290	30	8700	0.0003	36.60877	-121.93135				
+"MC374"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		3.31	4.35	1.3141993958	15.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	268	14	3752	0.0008	36.60829	-121.93287				
+"MC375"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		3.13	3.95	1.2619808307	15.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	268	14	3752	0.0008	36.60829	-121.93287				
+"MC376"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		3.13	2.27	0.7252396166	15.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	268	14	3752	0.0008	36.60829	-121.93287	"tail growing"			
+"MC396"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		3.62	4.73	1.3066298343	16.3	16.92	38.81	0.22	"NA"	"N"	0	"log"	120	15	1800	0.0017	36.60772	-121.93097	"1m from 395. red."			
+"MC397"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		4.1	5.08	1.2390243902	16.3	16.92	38.81	0.22	"NA"	"N"	0	"log"	120	15	1800	0.0017	36.60772	-121.93097	"pink. eggs."			
+"MC398"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		2.62	2.91	1.1106870229	16.3	16.92	38.81	0.22	"NA"	"N"	0	"log"	120	15	1800	0.0017	36.60772	-121.93097	"l. green"			
+"MC440"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		3.04	4.12	1.3552631579	14.5	16.92	38.81	0.83	"NA"	"N"	0	"log"	150	9	1350	0.0022	36.60975	-121.92995	"2m from 439, l. grn"			
+"MC441"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		3.46	5.06	1.4624277457	14.5	16.92	38.81	0.83	"NA"	"N"	0	"log"	150	9	1350	0.0022	36.60975	-121.92995	"l. blue"			
+"MC442"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	3	0	0	0	0	0		3.91	4.44	1.1355498721	14.5	16.92	38.81	0.83	"NA"	"N"	0	"log"	150	9	1350	0.0022	36.60975	-121.92995	"pink"			
+"MC334"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	4	1	0.25	0	0	0		3.27	3.9	1.1926605505	14.9	16.98	38.97	0.56	0.0009414882	"N"	0	"bark"	108	30	3240	0.0012	36.60835	-121.93103				
+"MC335"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	4	1	0.25	0	0	0		3.63	4.66	1.2837465565	14.9	16.98	38.97	0.56	0.0009414882	"N"	0	"bark"	108	30	3240	0.0012	36.60835	-121.93103				
+"MC337"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	4	1	0.25	0	0	0		4.02	5.32	1.3233830846	14.9	16.98	38.97	0.56	0.0009414882	"N"	0	"bark"	108	30	3240	0.0012	36.60835	-121.93103				
+"MC382"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	4	0	0	0	0	0		3.45	4.86	1.4086956522	14.9	16.92	38.81	0.22	"NA"	"N"	0	"log"	247	28	6916	0.0006	36.60795	-121.9309	"d. green"			
+"MC383"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	4	0	0	0	0	0		3.67	4.26	1.1607629428	14.9	16.92	38.81	0.22	"NA"	"N"	0	"log"	247	28	6916	0.0006	36.60795	-121.9309	"pink"			
+"MC384"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	4	0	0	0	0	0		3.1	3.55	1.1451612903	14.9	16.92	38.81	0.22	"NA"	"N"	0	"log"	247	28	6916	0.0006	36.60795	-121.9309	"yellow"			
+"MC385"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	4	0	0	0	0	0		2.89	3.44	1.1903114187	14.9	16.92	38.81	0.22	"NA"	"N"	0	"log"	247	28	6916	0.0006	36.60795	-121.9309	"red"			
+"MC350"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.64	4.5	1.2362637363	14.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	34	10880	0.0006	36.60877	-121.93135				
+"MC351"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.54	5.1	1.4406779661	14.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	34	10880	0.0006	36.60877	-121.93135				
+"MC353"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.46	4.32	1.2485549133	14.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	34	10880	0.0006	36.60877	-121.93135				
+"MC354"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.49	4.37	1.2521489971	14.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	34	10880	0.0006	36.60877	-121.93135				
+"MC355"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.29	4.14	1.2583586626	14.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	34	10880	0.0006	36.60877	-121.93135				
+"MC433"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.84	5.51	1.4348958333	14.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	326	18	5868	0.001	36.60972	-121.92998	"l. blue"			
+"MC434"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.58	4.92	1.374301676	14.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	326	18	5868	0.001	36.60972	-121.92998	"burg"			
+"MC435"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.83	5.4	1.409921671	14.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	326	18	5868	0.001	36.60972	-121.92998	"d. blue"			
+"MC437"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.04	3.62	1.1907894737	14.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	326	18	5868	0.001	36.60972	-121.92998	"red"			
+"MC438"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	0	0	0		3.43	4.95	1.443148688	14.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	326	18	5868	0.001	36.60972	-121.92998	"d. grn"			
+"MC378"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	2	1	0.02176	1	0.01		3.59	4.53	1.2618384401	16.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	18	5760	0.0003	36.6085	-121.93272				
+"MC391"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	2	2	1	0.268	1	0.1		3.52	4.52	1.2840909091	15.8	16.92	38.81	0.22	"NA"	"N"	0	"log (oak)"	120	20	2400	0.0008	36.6079	-121.931	"33cm from 390. pink."			
+"MC343"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	1	0.5	0.6424	1	0.22		3.69	4.85	1.3143631436	15.5	16.98	38.97	0.56	"?"	"N"	0	"log"	230	20	4600	0.0004	36.60815	-121.93121	"30 cm from 344"			
+"MC340"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	1	0.5	1.168	1	0.34		3.27	4.25	1.2996941896	15.3	16.98	38.97	0.56	"?"	"N"	0	"bark"	33	14	462	0.0043	36.6082	-121.93118				
+"MC352"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	2.824	1	0.58		3.46	4.58	1.323699422	14.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	34	10880	0.0006	36.60877	-121.93135				
+"MC332"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	1	0.5	6.776	1	0.89		3.27	4.4	1.3455657492	14.1	16.98	38.97	0.56	"4.47213595578e-05"	"Y"	1	"log"	190	18	3420	0.0006	36.60923	-121.93085	"106 cm from 333"			
+"MC336"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	4	1	0.25	6.776	1	0.89		3.99	4.79	1.2005012531	14.9	16.98	38.97	0.56	0.0009414882	"N"	0	"bark"	108	30	3240	0.0012	36.60835	-121.93103				
+"MC338"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	2	1	0.5	8	1	0.95		3.33	4.43	1.3303303303	14.9	16.98	38.97	0.56	0.0009414882	"N"	0	"bark"	40	24	960	0.0021	36.60835	-121.93103				
+"MC329"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	1	1	11.2	1	1.09		3.21	3.59	1.1183800623	14.4	16.98	38.97	0.56	"2.99999999953e-05"	"Y"	1	"log"	130	22	2860	0.0003	36.6093	-121.93083	"28 cm from 326"			
+"MC429"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	1	1	1	12.56	1	1.13		3.02	3.45	1.142384106	13.1	16.92	38.81	0.83	"NA"	"N"	0	"branch"	23	10	230	0.0043	36.60984	-121.93015	"orange"			
+"MC342"	"B. luciae"	"1/17/15"	"Rip Van Winkle Open Space"	"RV"	4	1	1	1	67.12	1	1.83		3.53	3.9	1.104815864	15.2	16.98	38.97	0.56	"?"	"N"	0	"bark"	90	23	2070	0.0005	36.60819	-121.93117				
+"MC436"	"B. luciae"	"2/28/15"	"Rip Van Winkle Open Space"	"RV"	4	6	1	0.17	72.72	1	1.87		3.02	3.55	1.1754966887	14.9	16.92	38.81	0.83	"NA"	"N"	0	"log"	326	18	5868	0.001	36.60972	-121.92998	"l. grn"			
+"MC377"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	2	2	1	149.6	1	2.18		3.61	4.69	1.2991689751	16.5	16.98	38.97	0.56	"NA"	"N"	0	"log"	320	18	5760	0.0003	36.6085	-121.93272	"110cm apart"			
+"MC358"	"B. luciae"	"1/18/15"	"Rip Van Winkle Open Space"	"RV"	4	3	1	0.33	291.2	1	2.47		3.28	4.54	1.3841463415	15	16.98	38.97	0.56	"NA"	"N"	0	"log"	290	30	8700	0.0003	36.60877	-121.93135				
+"MC390"	"B. luciae"	"2/6/15"	"Rip Van Winkle Open Space"	"RV"	4	2	2	1	571.2	1	2.76		3.49	3.81	1.0916905444	15.8	16.92	38.81	0.22	"NA"	"N"	0	"log (oak)"	120	20	2400	0.0008	36.6079	-121.931	"d. green (33cm from 391)"			
+"MC308"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		3.51	3.34	0.9515669516	15.6	19.48	24.6	8.79	"NA"	"N"	0	"log"	340	15	5100	0.0004	36.59765	-121.91128				
+"MC309"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		3.13	4.87	1.5559105431	16.3	19.48	24.6	8.79	"NA"	"N"	0	"log"	310	13	4030	0.0005	36.59744	-121.91116				
+"MC313"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		3.68	5.42	1.472826087	16.4	19.48	24.6	8.79	"NA"	"N"	0	"log"	275	20	5500	0.0002	36.59741	-121.91103				
+"MC314"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		3.8	5.4	1.4210526316	16.4	19.48	24.6	8.79	"NA"	"N"	0	"wood piece"	65	12	780	0.0013	36.59741	-121.91103	"wood piece from above log, 2' from 313"			
+"MC315"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		2.97	3.78	1.2727272727	16.4	19.48	24.6	8.79	"NA"	"N"	0	"log"	80	12	960	0.001	36.59734	-121.91106	"7' from 314"			
+"MC316"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		4.29	6.39	1.4895104895	16.9	19.48	24.6	8.79	"NA"	"N"	0	"bark"	40	10	400	0.0025	36.59731	-121.91112	"Eggs. In burrow-like opening in soil under bark."			
+"MC459"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		4.78	5.8	1.2133891213	12	19.75	38.46	1.26	0.0001476482	"N"	0	"log"	297	25	7425	0.0001	36.59763	-121.9112	"log prev. recorded"			
+"MC460"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		4.27	5.64	1.3208430913	14	19.75	38.46	1.26	0.0003905125	"N"	0	"log"	330	20	6600	0.0002	36.59712	-121.91122				
+"MC461"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	1	0	0	0	0	0		3.67	4.75	1.2942779292	13.2	19.75	38.46	1.26	0.0003764306	"N"	0	"log"	160	20	3200	0.0003	36.59714	-121.91102				
+"MC311"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	2	0	0	0	0	0		3.25	3.92	1.2061538462	16.3	19.48	24.6	8.79	"NA"	"N"	0	"bark pile"					36.5974	-121.91119	"with 310, 312. All within 10 cm of each other. Tail growing"			
+"MC312"	"B. luciae"	"12/21/14"	"Veterans Memorial Park"	"VM"	5	2	0	0	0	0	0		4.23	6.22	1.4704491726	16.3	19.48	24.6	8.79	"NA"	"N"	0	"bark pile"					36.5974	-121.91119	"eggs"			
+"MC457"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	2	0	0	0	0	0		3.82	5.43	1.4214659686	12.6	19.75	38.46	1.26	"4.47213595515e-05"	"Y"	1	"log"	270	12	3240	0.0006	36.59746	-121.91115	"red. 130 cm from458"			
+"MC458"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	2	0	0	0	0	0		3.38	5.18	1.5325443787	12.6	19.75	38.46	1.26	"4.47213595515e-05"	"Y"	1	"log"	270	12	3240	0.0006	36.59746	-121.91115	"grn. 130 cm from 457 log prev. recorded"			
+"MC455"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	3	1	0.33	0	0	0		3.9	5.81	1.4897435897	11.5	19.75	38.46	1.26	0	"Y"	1	"log"	180	13	2340	0.0013	36.5975	-121.91113	"orange"			
+"MC456"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	3	1	0.33	0	0	0		3.71	5.72	1.5417789757	11.5	19.75	38.46	1.26	0	"Y"	1	"log"	180	13	2340	0.0013	36.5975	-121.91113	"pink"			
+"MC453"	"B. luciae"	"3/1/15"	"Veterans Memorial Park"	"VM"	5	3	1	0.33	279.2	1	2.45		3.7	4.96	1.3405405405	11.5	19.75	38.46	1.26	0	"Y"	1	"log"	180	13	2340	0.0013	36.5975	-121.91113	"l. grn"			
