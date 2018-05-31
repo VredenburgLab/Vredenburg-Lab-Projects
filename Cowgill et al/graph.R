@@ -77,7 +77,7 @@ mtext(1, at=c(0.5:9.5), line=1, text = c("1920-1929", "1930-1939", "1940-1949",
 BL$x.axis=c(0.5:9.5)
 axis(1, at=c(0.5:9.5), labels=FALSE)
 axis(2, line = -1.75)
-mtext("Prevalence", side = 2, line = 0.5, cex = par("cex.lab"))
+mtext("Sample Size", side = 2, line = 0.5, cex = par("cex.lab"))
 par(new=TRUE)
 plot(x=c(0.5:9.5), BL$prev, type="l", lwd=2, 
      ylab=" ", xlab=" ", ylim=c(0,70), xlim=c(0,10), axes=FALSE, col="darkblue")
@@ -105,7 +105,7 @@ mtext(1, at=c(0.5:9.5), line=1, text = c("1920-1929", "1930-1939", "1940-1949",
 AL$x.axis=c(0.5:9.5)
 axis(1, at=c(0.5:9.5), labels=FALSE)
 axis(2, line = -1.75)
-mtext("Prevalence", side = 2, line = 0.5, cex = par("cex.lab"))
+mtext("Sample Size", side = 2, line = 0.5, cex = par("cex.lab"))
 par(new=TRUE)
 plot(x=c(0.5:9.5), AL$prev, type="l", lwd=2, 
      ylab=" ", xlab=" ", ylim=c(0,70), xlim=c(0,10), axes=FALSE, col="darkblue")
@@ -121,3 +121,4 @@ mtext("Log10 Bd Load (Zoospore Equivalents)", side = 4, line = 5,
       cex = par("cex.lab"), col="darkred")
 abline(h=4, lty=3, lwd=0.75)
 abline(h=0, lty=3, lwd=0.5)
+
