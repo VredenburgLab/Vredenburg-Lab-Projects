@@ -55,6 +55,7 @@ AL$pr =  dbinom(0, AL$n, .11)
 write.csv(AL,'graphAL.csv')
 
 ## Batrachoseps luciae CI 
+BL = read.csv("graphBL.csv")
 BL[is.na(BL)] = 0 
 BL$lower = 0
 BL$upper = 0
@@ -68,7 +69,7 @@ write.csv(BL,'graphBL.csv')
 
 # B.luciae graph ----
 par(mar=c(5, 4, 4, 8) + 0.1)
-barplot(BL$n, width=0.770, space=0.275, xlim=c(0,10), ylim=c(0,1400), 
+barplot(BL$n, width=0.770, space=0.275, xlim=c(0,10), ylim=c(0,500), 
           axes=FALSE, xlab="Time Period", ylab="", col="gray95")
 mtext(1, at=c(0.5:9.5), line=1, text = c("1920-1929", "1930-1939", "1940-1949", 
                                           "1950-1959", "1960-1969", "1970-1979", 
@@ -76,7 +77,7 @@ mtext(1, at=c(0.5:9.5), line=1, text = c("1920-1929", "1930-1939", "1940-1949",
                                           "2010-2015"), cex=0.7)
 BL$x.axis=c(0.5:9.5)
 axis(1, at=c(0.5:9.5), labels=FALSE)
-axis(2, line = -1.75)
+axis(2, at=c(0,100,200,300,400,500), labels=c("0","100","200","300","400", "1300"), line = -1.75)
 mtext("Sample Size", side = 2, line = 0.5, cex = par("cex.lab"))
 par(new=TRUE)
 plot(x=c(0.5:9.5), BL$prev, type="l", lwd=2, 

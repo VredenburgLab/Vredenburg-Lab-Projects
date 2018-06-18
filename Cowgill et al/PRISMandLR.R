@@ -8,15 +8,14 @@ data = read.csv("rawdata.csv")
 prism = read.csv("PRISMraw.csv")
 library(reshape2)
 library(dplyr)
-library(raster)
-library(sp)
+library(bootstrap)
+library(MASS)
 library(corrplot)
 library(ggplot2)
 library(ggmap) 
-library(magrittr)
+library(DAAG)
 library(tidyr)
 library(ggpubr)
-options(prism.path = "~/prismtmp")
 
 # Getting the PRISM monthly data ----
 ## Setting the dates up so they match up
@@ -40,42 +39,23 @@ write.csv(data, "datawprism.csv")
 cor = rcorr(as.matrix(data[,11:15]) , type= "pearson")
 ## From cor$r we see that tmax and tmin are highly correlated
 
-# Scaling and Regression ----
+# Scaling the covariates ----
 ## Scaling the continuous variables
 data = read.csv("datawprism.csv")
 data[,c(7,11,13,14,15,16,17)] = scale(data[,c(7,11,13,14,15,16,17)])
 
-## Linear Regression
-### Both species
-lm = lm(BdStatus ~ SVL + factor(Species) + ppt + elev + tmax +
-        tmean + Group.size + other.species, data = data)
-step(lm, direction = c("both", "backward", "forward"))
-final.lm = lm(BdStatus ~ ppt + elev + tmean + Group.size + 
-              other.species, data = data)
+# Regression ----
+lm = glm(BdStatus ~ SVL + factor(Species) + ppt + elev + tmax +
+        tmean + Group.size + other.species, family = "binomial", data = data)
+step = stepAIC(lm, direction = "both")
+model.comparison = step$anova
+final.lm = glm(BdStatus ~ ppt + elev + tmean + Group.size + 
+              other.species,family = "binomial", data = data)
 summary(final.lm)
+# 5-fold Cross-validation
+kfold = cv.binary(final.lm, nfolds=100) # 5 fold cross-validation
 
-### Aneides lugubris only
-data.al = subset(data, data$Species == "AL")
-lm = lm(BdStatus ~ SVL + ppt + elev + tmax + tmean + 
-        Group.size + other.species, data = data.al)
-step(lm, direction = c("both", "backward", "forward"))
-final.lm = lm(BdStatus ~ SVL + ppt + elev + tmean + 
-              other.species, data = data)
-summary(final.lm)
-
-### Batrachoseps luciae only
-data.bl = subset(data, data$Species == "BL")
-lm = lm(BdStatus ~ SVL + ppt + elev + tmax + tmean + 
-        Group.size + other.species, data = data.bl)
-step(lm, direction = c("both", "backward", "forward"))
-final.lm = lm(BdStatus ~ ppt + elev + tmean + Group.size + 
-              other.species, data = data)
-summary(final.lm)
-
-ggplot(zscore, aes(zscore$Zscore)) +
-  geom_density(aes(fill="red")) + xlab("Log10 Zscore")
-
-# Kruskal-Wallis on Zscore and Group size and Cohabitant
+# Kruskal-Wallis on Zscore and Group size and Cohabitant ----
 ## For both species. Not evry informative
 table(data$Group.size)
 table(data$other.species)
