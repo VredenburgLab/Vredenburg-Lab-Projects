@@ -14,9 +14,26 @@ library(DAAG)
 library(tidyr)
 library(ggpubr)
 library(Hmisc)
+library(reshape2)
 data = read.csv("Samrawdata_final.csv")
 pre = subset(data, data$Year > 1969)
 post = subset(data, data$Year < 1969)
+
+# Making a summary table
+sum.table = dcast(data=data,Decade~BdStatus,value.var='Decade',fun.aggregate=length)
+names(sum.table)[c(1,2,3)] = c('Decade','neg','pos')
+sum.table$n = sum.table$neg + sum.table$pos
+
+for (i in 1:nrow(sum.table)){
+  sum.table$lower[i]=binom.test(sum.table$pos[i],sum.table$n[i])$conf.int[1]
+  sum.table$upper[i]=binom.test(sum.table$pos[i],sum.table$n[i])$conf.int[2]
+}
+
+sum.table$lower=sum.table$lower*100
+sum.table$upper=sum.table$upper*100
+
+sum.table$prob =  dbinom(0, sum.table$n,.11)
+write.csv(sum.table,'DecadeTable.csv')
 
 # Fetching Worlcclim and Anthropogenic Data from Venter et al. ----
 ## Venter et al. Data ----
